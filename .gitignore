@@ -1,3 +1,5 @@
 node_modules/
 seoulCampus.md
+seoulCampus.*.md
 globalCampus.md
+globalCampus.*.md

@@ -4,8 +4,8 @@ import fs from 'fs'
     const browser = await chromium.launch();
     const context = await browser.newContext();
     const page = await context.newPage();
-    await page.goto('https://www.khu.ac.kr/kor/user/mapManager/view.do?menuNo=200356');
-    // await page.goto('https://www.khu.ac.kr/kor/user/mapManager/view.do?menuNo=200357');
+    // await page.goto('https://www.khu.ac.kr/kor/user/mapManager/view.do?menuNo=200356');
+    await page.goto('https://www.khu.ac.kr/kor/user/mapManager/view.do?menuNo=200357');
     await page.waitForTimeout(1000)
     const nums = await page.$$eval('li[id^="mark_"]', elements => elements.map(el => el.id))
     for (const num of nums) {
@@ -14,8 +14,8 @@ import fs from 'fs'
         const exist = await page.locator(`div[id="child_${num.slice(5)}"] p[style=" white-space: break-spaces;"]`).count()
         if (exist > 0) {
             console.log(name)
-            fs.appendFileSync('seoulCampus.md', name+`${'\n'}`);
-            // fs.appendFileSync('globalCampus.md', name+`${'\n'}`);
+            // fs.appendFileSync('seoulCampus.md', name+`${'\n'}`);
+            fs.appendFileSync('globalCampus.md', name+`${'\n'}`);
             for (let i = 0; i < exist; i++) {
                 const paragraph = await page
                     .locator(`div[id="child_${num.slice(5)}"] p[style=" white-space: break-spaces;"]`)
@@ -25,6 +25,9 @@ import fs from 'fs'
                     '경비실',
                     '관리실',
                     '미화원',
+                    '청소',
+                    '원장',
+                    '캡스',
                     '교수',
                     '숙실',
                     '공실',
@@ -39,8 +42,8 @@ import fs from 'fs'
                 ]
                 // if (skipKeywords.some(k => paragraph && paragraph.includes(k))) continue;
                 console.log(paragraph)
-                fs.appendFileSync('seoulCampus.md', paragraph+`${'\n'}`);
-                // fs.appendFileSync('globalCampus.md', paragraph+`${'\n'}`);
+                // fs.appendFileSync('seoulCampus.md', paragraph+`${'\n'}`);
+                fs.appendFileSync('globalCampus.md', paragraph+`${'\n'}`);
             }
         }
     }
