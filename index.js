@@ -21,12 +21,23 @@ import fs from 'fs'
                     .locator(`div[id="child_${num.slice(5)}"] p[style=" white-space: break-spaces;"]`)
                     .nth(i)
                     .textContent()
-                if (paragraph.indexOf('교수') > -1) continue;
-                if (paragraph.indexOf('숙실') > -1) continue;
-                if (paragraph.indexOf('인실') > -1) continue;
-                if (paragraph.indexOf('창고') > -1) continue;
-                if (paragraph.indexOf('탈의실') > -1) continue;
-                if (paragraph.indexOf('화장실') > -1) continue;
+                const skipKeywords = [
+                    '경비실',
+                    '관리실',
+                    '미화원',
+                    '교수',
+                    '숙실',
+                    '공실',
+                    '인실',
+                    '여학생',
+                    '남학생',
+                    '삭제',
+                    '샤워',
+                    '창고',
+                    '탈의실',
+                    '화장실'
+                ]
+                // if (skipKeywords.some(k => paragraph && paragraph.includes(k))) continue;
                 console.log(paragraph)
                 fs.appendFileSync('seoulCampus.md', paragraph+`${'\n'}`);
                 // fs.appendFileSync('globalCampus.md', paragraph+`${'\n'}`);
