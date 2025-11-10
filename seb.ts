@@ -152,9 +152,6 @@ export const sebKo = [
   "501	수장고4",
   "601	수장고5",
   "701	수장고6",
-  "노천극장",
-  "101	테니스장",
-  "102	농구장"
 ];
 export const sebEn = [
   "B101	Plant Room",
@@ -310,7 +307,4 @@ export const sebEn = [
   "501	Storage 4",
   "601	Storage 5",
   "701	Storage 6",
-  "Open-air Theater",
-  "101	Tennis Court",
-  "102	Basketball Court"
 ];
