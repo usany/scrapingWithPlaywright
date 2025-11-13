@@ -15,8 +15,8 @@ const bldgs = [
 ];
 
 bldgs.forEach(([name, start, end]) => {
-  const kd = ko.slice(start, end + 1).filter(l => l.trim() && !l.startsWith('#')).map(l => `  "${l}"`);
-  const ed = en.slice(start, end + 1).filter(l => l.trim() && !l.startsWith('#')).map(l => `  "${l}"`);
+  const kd = ko.slice(start, end + 1).filter(l => l.trim() && !l.startsWith('#')).map(l => `  "${l.replace(/\t/g, '\\t')}"`);
+  const ed = en.slice(start, end + 1).filter(l => l.trim() && !l.startsWith('#')).map(l => `  "${l.replace(/\t/g, '\\t')}"`);
   fs.writeFileSync(`${name}.ts`, `export const ${name}Ko = [\n${kd.join(',\n')}\n];\n\nexport const ${name}En = [\n${ed.join(',\n')}\n];`);
   console.log(`Created ${name}.ts`);
 });

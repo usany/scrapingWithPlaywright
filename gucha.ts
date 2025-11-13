@@ -1,69 +1,69 @@
 export const guchaKo = [
-  "B100	홀 및 복도",
-  "B100-1	수직이동",
-  "B101	세미나실",
-  "B102	AT센터",
-  "B102-1	AT연구실",
-  "B103	웨이트장",
-  "B106	태권도장",
-  "B106-1	태권도사무실",
-  "B107	경기분석실/강의실",
-  "B110	기계실",
-  "B112	방재센터",
-  "100	홀 및 복도",
-  "100-1	수직이동",
-  "101	무대준비실A",
-  "102	기자재실",
-  "103	심판대기실",
-  "104	경희스포츠사업단 사무국",
-  "105	체육시설운영단사무국",
-  "106	KHUFEE CAFE",
-  "107	실내경기장",
-  "107-3	무대",
-  "112	선수대기실A",
-  "113	선수대기실B",
-  "114	무대준비실B",
-  "200	홀 및 복도",
-  "200-1	수직이동",
-  "206	무대조정실",
-  "207	VIP대기실",
-  "213	관람석",
-  "300	수직이동",
-  "301	관람석",
-  "302	조깅트랙"
+  "B100\t홀 및 복도",
+  "B100-1\t수직이동",
+  "B101\t세미나실",
+  "B102\tAT센터",
+  "B102-1\tAT연구실",
+  "B103\t웨이트장",
+  "B106\t태권도장",
+  "B106-1\t태권도사무실",
+  "B107\t경기분석실/강의실",
+  "B110\t기계실",
+  "B112\t방재센터",
+  "100\t홀 및 복도",
+  "100-1\t수직이동",
+  "101\t무대준비실A",
+  "102\t기자재실",
+  "103\t심판대기실",
+  "104\t경희스포츠사업단 사무국",
+  "105\t체육시설운영단사무국",
+  "106\tKHUFEE CAFE",
+  "107\t실내경기장",
+  "107-3\t무대",
+  "112\t선수대기실A",
+  "113\t선수대기실B",
+  "114\t무대준비실B",
+  "200\t홀 및 복도",
+  "200-1\t수직이동",
+  "206\t무대조정실",
+  "207\tVIP대기실",
+  "213\t관람석",
+  "300\t수직이동",
+  "301\t관람석",
+  "302\t조깅트랙"
 ];
 
 export const guchaEn = [
-  "B100	Hall and Corridor",
-  "B100-1	Vertical Circulation",
-  "B101	Seminar Room",
-  "B102	AT Center",
-  "B102-1	AT Lab",
-  "B103	Weight Training Room",
-  "B106	Taekwondo Hall",
-  "B106-1	Taekwondo Office",
-  "B107	Game Analysis/Lecture Room",
-  "B110	Machine Room",
-  "B112	Fire Prevention Center",
-  "100	Hall and Corridor",
-  "100-1	Vertical Circulation",
-  "101	Stage Preparation Room A",
-  "102	Equipment Storage Room",
-  "103	Referee Waiting Room",
-  "104	Kyunghee Sports Project Team Administrative Office",
-  "105	Sports Facility Operations Team Administrative Office",
-  "106	KHUFEE CAFE",
-  "107	Indoor Stadium",
-  "107-3	Stage",
-  "112	Athlete Waiting Room A",
-  "113	Athlete Waiting Room B",
-  "114	Stage Preparation Room B",
-  "200	Hall and Corridor",
-  "200-1	Vertical Circulation",
-  "206	Stage Control Room",
-  "207	VIP Waiting Room",
-  "213	Seating Area",
-  "300	Vertical Circulation",
-  "301	Seating Area",
-  "302	Jogging Track"
+  "B100\tHall and Corridor",
+  "B100-1\tVertical Circulation",
+  "B101\tSeminar Room",
+  "B102\tAT Center",
+  "B102-1\tAT Lab",
+  "B103\tWeight Training Room",
+  "B106\tTaekwondo Hall",
+  "B106-1\tTaekwondo Office",
+  "B107\tGame Analysis/Lecture Room",
+  "B110\tMachine Room",
+  "B112\tFire Prevention Center",
+  "100\tHall and Corridor",
+  "100-1\tVertical Circulation",
+  "101\tStage Preparation Room A",
+  "102\tEquipment Storage Room",
+  "103\tReferee Waiting Room",
+  "104\tKyunghee Sports Project Team Administrative Office",
+  "105\tSports Facility Operations Team Administrative Office",
+  "106\tKHUFEE CAFE",
+  "107\tIndoor Stadium",
+  "107-3\tStage",
+  "112\tAthlete Waiting Room A",
+  "113\tAthlete Waiting Room B",
+  "114\tStage Preparation Room B",
+  "200\tHall and Corridor",
+  "200-1\tVertical Circulation",
+  "206\tStage Control Room",
+  "207\tVIP Waiting Room",
+  "213\tSeating Area",
+  "300\tVertical Circulation",
+  "301\tSeating Area",
+  "302\tJogging Track"
 ];
