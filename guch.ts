@@ -1,213 +1,213 @@
 export const guchKo = [
-  "b2997A\t계단실",
-  "B100-1\t복도",
-  "B100-2\t복도",
-  "B101\t에어로빅실",
-  "B102\t동아리실",
-  "B103\t탁구장",
-  "B104\t복사실",
-  "B105\t카이로프랙틱실",
-  "B106-1\t태권도학과 총장기조직위원회실",
-  "B106-2\t골프산업학과 총장배조직위원회실",
-  "B107\t환경운동 생리연구실",
-  "B107-1\t비만,신체활동 연구센터(Obesity and Physical Activity Research Center)",
-  "B108\t임용고사실",
-  "B109\t매점",
-  "B110\t학부독서실",
-  "B111\t체육학과학생회",
-  "B112\t골프경영학과학생회",
-  "B114\t체육대학학생회",
-  "B115\t태권도학과학생회",
-  "B116\t스포츠의학과학생회",
-  "B117\t스포츠지도학과학생회",
-  "B118\t한라도장",
-  "B119\t태백도장",
-  "B120\t유도장",
-  "b1997A\t계단실",
-  "b1997C\t계단실",
-  "100-1\t복도",
-  "100-2\t복도",
-  "100-3\t복도",
-  "100-4\t복도",
-  "100-5\t복도",
-  "105\t시청각실",
-  "106\t백두도장",
-  "107\t운동처방 및 부하검사실",
-  "108\t스포츠교육학실",
-  "110\t영양생화학실험실",
-  "111\t운동역학실",
-  "112\t강의실",
-  "113\t강의실",
-  "113-1\t인문사회과학연구실(스포츠코칭연구소)",
-  "114\t성장 노화 연구실(Growth and Aging Lab)",
-  "115\t골프클럽제작피팅실",
-  "116\tHigh Performance Training Center",
-  "120\t수중체중측정실",
-  "1997A\t계단실",
-  "1997B\t계단실",
-  "1997C\t계단실",
-  "1997D\t계단실",
-  "200-1\t복도",
-  "200-2\t복도",
-  "200-3\t복도",
-  "200-4\t복도",
-  "200-6\t로비",
-  "201\t농구장",
-  "203\t대학원 세미나실",
-  "204\t강의실",
-  "205\t강의실",
-  "206\t강의실",
-  "207\t세미나실",
-  "208\t교강사휴게실",
-  "211\t체육학계열 종합행정실",
-  "212\t체육대학 학과사무실",
-  "213\t배구장",
-  "215-1\t체조장 및 인공암벽등반장",
-  "215-2\t핸드볼장",
-  "215-3\t배드민턴장",
-  "2997A\t계단실",
-  "2997B\t계단실",
-  "2997C\t계단실",
-  "300-1\t복도",
-  "300-2\t복도",
-  "301\t실험준비실",
-  "302\t기자재실",
-  "304\t강의실",
-  "305\t강의실",
-  "306\t강의실",
-  "307\t강의실",
-  "308\t강의실",
-  "309\tS/W 전산실습실",
-  "310\t강의실",
-  "311\t선승관",
-  "3997A\t계단실",
-  "3997B\t계단실",
-  "3997C\t계단실",
-  "400-1\t복도",
-  "400-2\t복도",
-  "400-3\t복도",
-  "400-4\t복도",
-  "400-5\t복도",
-  "403\t스포츠산업경영연구소",
-  "406\tDNA+ 학과 행정실",
-  "407\t스포츠과학연구원",
-  "407-1\t체육대학 조교연구실",
-  "408\t일반대학원 체육학과 사무실",
-  "408-1\t체육대학원 원우회실",
-  "409\t체육대학 동문회실",
-  "409-1\t무예학회",
-  "435\t스포츠산업경영마케팅연구소",
-  "436\t한국콘텐츠진흥원 R&D 사업단",
-  "437\t생활스포츠지도사연수원 사무국",
-  "441\t선승관",
-  "4997A\t계단실",
-  "4997B\t계단실",
-  "4997C\t계단실"
+  "b2997A\t계단실",
+  "B100-1\t복도",
+  "B100-2\t복도",
+  "B101\t에어로빅실",
+  "B102\t동아리실",
+  "B103\t탁구장",
+  "B104\t복사실",
+  "B105\t카이로프랙틱실",
+  "B106-1\t태권도학과 총장기조직위원회실",
+  "B106-2\t골프산업학과 총장배조직위원회실",
+  "B107\t환경운동 생리연구실",
+  "B107-1\t비만,신체활동 연구센터(Obesity and Physical Activity Research Center)",
+  "B108\t임용고사실",
+  "B109\t매점",
+  "B110\t학부독서실",
+  "B111\t체육학과학생회",
+  "B112\t골프경영학과학생회",
+  "B114\t체육대학학생회",
+  "B115\t태권도학과학생회",
+  "B116\t스포츠의학과학생회",
+  "B117\t스포츠지도학과학생회",
+  "B118\t한라도장",
+  "B119\t태백도장",
+  "B120\t유도장",
+  "b1997A\t계단실",
+  "b1997C\t계단실",
+  "100-1\t복도",
+  "100-2\t복도",
+  "100-3\t복도",
+  "100-4\t복도",
+  "100-5\t복도",
+  "105\t시청각실",
+  "106\t백두도장",
+  "107\t운동처방 및 부하검사실",
+  "108\t스포츠교육학실",
+  "110\t영양생화학실험실",
+  "111\t운동역학실",
+  "112\t강의실",
+  "113\t강의실",
+  "113-1\t인문사회과학연구실(스포츠코칭연구소)",
+  "114\t성장 노화 연구실(Growth and Aging Lab)",
+  "115\t골프클럽제작피팅실",
+  "116\tHigh Performance Training Center",
+  "120\t수중체중측정실",
+  "1997A\t계단실",
+  "1997B\t계단실",
+  "1997C\t계단실",
+  "1997D\t계단실",
+  "200-1\t복도",
+  "200-2\t복도",
+  "200-3\t복도",
+  "200-4\t복도",
+  "200-6\t로비",
+  "201\t농구장",
+  "203\t대학원 세미나실",
+  "204\t강의실",
+  "205\t강의실",
+  "206\t강의실",
+  "207\t세미나실",
+  "208\t교강사휴게실",
+  "211\t체육학계열 종합행정실",
+  "212\t체육대학 학과사무실",
+  "213\t배구장",
+  "215-1\t체조장 및 인공암벽등반장",
+  "215-2\t핸드볼장",
+  "215-3\t배드민턴장",
+  "2997A\t계단실",
+  "2997B\t계단실",
+  "2997C\t계단실",
+  "300-1\t복도",
+  "300-2\t복도",
+  "301\t실험준비실",
+  "302\t기자재실",
+  "304\t강의실",
+  "305\t강의실",
+  "306\t강의실",
+  "307\t강의실",
+  "308\t강의실",
+  "309\tS/W 전산실습실",
+  "310\t강의실",
+  "311\t선승관",
+  "3997A\t계단실",
+  "3997B\t계단실",
+  "3997C\t계단실",
+  "400-1\t복도",
+  "400-2\t복도",
+  "400-3\t복도",
+  "400-4\t복도",
+  "400-5\t복도",
+  "403\t스포츠산업경영연구소",
+  "406\tDNA+ 학과 행정실",
+  "407\t스포츠과학연구원",
+  "407-1\t체육대학 조교연구실",
+  "408\t일반대학원 체육학과 사무실",
+  "408-1\t체육대학원 원우회실",
+  "409\t체육대학 동문회실",
+  "409-1\t무예학회",
+  "435\t스포츠산업경영마케팅연구소",
+  "436\t한국콘텐츠진흥원 R&D 사업단",
+  "437\t생활스포츠지도사연수원 사무국",
+  "441\t선승관",
+  "4997A\t계단실",
+  "4997B\t계단실",
+  "4997C\t계단실"
 ];
 
 export const guchEn = [
-  "b2997A\tStairwell",
-  "B100-1\tCorridor",
-  "B100-2\tCorridor",
-  "B101\tAerobics Room",
-  "B102\tClub Room",
-  "B103\tPing-pong Hall",
-  "B104\tCopy Room",
-  "B105\tChiropractic Room",
-  "B106-1\tTaekwondo Department President's Event Organization Committee Office",
-  "B106-2\tGolf Industry Department President's Event Organization Committee Office",
-  "B107\tEnvironmental Exercise Physiology Lab",
-  "B107-1\tObesity and Physical Activity Research Center",
-  "B108\tTeacher Certification Exam Room",
-  "B109\tConvenience Store",
-  "B110\tUndergraduate Reading Room",
-  "B111\tPhysical Education Department Student Association",
-  "B112\tGolf Business Department Student Association",
-  "B114\tPhysical Education School Student Association",
-  "B115\tTaekwondo Department Student Association",
-  "B116\tSports Medicine Department Student Association",
-  "B117\tSports Coaching Department Student Association",
-  "B118\tHalla Dojang",
-  "B119\tTaebaek Dojang",
-  "B120\tJudo Hall",
-  "b1997A\tStairwell",
-  "b1997C\tStairwell",
-  "100-1\tCorridor",
-  "100-2\tCorridor",
-  "100-3\tCorridor",
-  "100-4\tCorridor",
-  "100-5\tCorridor",
-  "105\tAudiovisual Room",
-  "106\tBaekdu Dojang",
-  "107\tExercise Prescription and Loading Test Lab",
-  "108\tSports Education Lab",
-  "110\tNutrition Biochemistry Lab",
-  "111\tExercise Biomechanics Lab",
-  "112\tClassroom",
-  "113\tClassroom",
-  "113-1\tHumanities and Social Sciences Lab (Sports Coaching Research Institute)",
-  "114\tGrowth and Aging Lab",
-  "115\tGolf Club Manufacturing and Fitting Lab",
-  "116\tHigh Performance Training Center",
-  "120\tUnderwater Weight Measurement Room",
-  "1997A\tStairwell",
-  "1997B\tStairwell",
-  "1997C\tStairwell",
-  "1997D\tStairwell",
-  "200-1\tCorridor",
-  "200-2\tCorridor",
-  "200-3\tCorridor",
-  "200-4\tCorridor",
-  "200-6\tLobby",
-  "201\tBasketball Hall",
-  "203\tGraduate Seminar Room",
-  "204\tClassroom",
-  "205\tClassroom",
-  "206\tClassroom",
-  "207\tSeminar Room",
-  "208\tFaculty Break Room",
-  "211\tPhysical Education Series Comprehensive Administrative Office",
-  "212\tPhysical Education Department Office",
-  "213\tVolleyball Hall",
-  "215-1\tGymnastics Hall and Artificial Rock Climbing",
-  "215-2\tHandball Hall",
-  "215-3\tBadminton Hall",
-  "2997A\tStairwell",
-  "2997B\tStairwell",
-  "2997C\tStairwell",
-  "300-1\tCorridor",
-  "300-2\tCorridor",
-  "301\tExperiment Preparation Room",
-  "302\tEquipment Storage Room",
-  "304\tClassroom",
-  "305\tClassroom",
-  "306\tClassroom",
-  "307\tClassroom",
-  "308\tClassroom",
-  "309\tS/W Computer Practice Room",
-  "310\tClassroom",
-  "311\tVictory Monument",
-  "3997A\tStairwell",
-  "3997B\tStairwell",
-  "3997C\tStairwell",
-  "400-1\tCorridor",
-  "400-2\tCorridor",
-  "400-3\tCorridor",
-  "400-4\tCorridor",
-  "400-5\tCorridor",
-  "403\tSports Industry Management Research Institute",
-  "406\tDNA+ Department Administrative Office",
-  "407\tSports Science Research Institute",
-  "407-1\tPhysical Education Department TA Research Office",
-  "408\tGeneral Graduate School Physical Education Department Office",
-  "408-1\tPhysical Education Graduate School Alumni Association Office",
-  "409\tPhysical Education Alumni Association Office",
-  "409-1\tMartial Arts Society",
-  "435\tSports Industry Management and Marketing Research Institute",
-  "436\tKorea Creative Content Agency R&D Project Team",
-  "437\tCommunity Sports Director Training Center Administrative Office",
-  "441\tVictory Monument",
-  "4997A\tStairwell",
-  "4997B\tStairwell",
-  "4997C\tStairwell"
+  "b2997A\tStairwell",
+  "B100-1\tCorridor",
+  "B100-2\tCorridor",
+  "B101\tAerobics Room",
+  "B102\tClub Room",
+  "B103\tPing-pong Hall",
+  "B104\tCopy Room",
+  "B105\tChiropractic Room",
+  "B106-1\tTaekwondo Department President's Event Organization Committee Office",
+  "B106-2\tGolf Industry Department President's Event Organization Committee Office",
+  "B107\tEnvironmental Exercise Physiology Lab",
+  "B107-1\tObesity and Physical Activity Research Center",
+  "B108\tTeacher Certification Exam Room",
+  "B109\tConvenience Store",
+  "B110\tUndergraduate Reading Room",
+  "B111\tPhysical Education Department Student Association",
+  "B112\tGolf Business Department Student Association",
+  "B114\tPhysical Education School Student Association",
+  "B115\tTaekwondo Department Student Association",
+  "B116\tSports Medicine Department Student Association",
+  "B117\tSports Coaching Department Student Association",
+  "B118\tHalla Dojang",
+  "B119\tTaebaek Dojang",
+  "B120\tJudo Hall",
+  "b1997A\tStairwell",
+  "b1997C\tStairwell",
+  "100-1\tCorridor",
+  "100-2\tCorridor",
+  "100-3\tCorridor",
+  "100-4\tCorridor",
+  "100-5\tCorridor",
+  "105\tAudiovisual Room",
+  "106\tBaekdu Dojang",
+  "107\tExercise Prescription and Loading Test Lab",
+  "108\tSports Education Lab",
+  "110\tNutrition Biochemistry Lab",
+  "111\tExercise Biomechanics Lab",
+  "112\tClassroom",
+  "113\tClassroom",
+  "113-1\tHumanities and Social Sciences Lab (Sports Coaching Research Institute)",
+  "114\tGrowth and Aging Lab",
+  "115\tGolf Club Manufacturing and Fitting Lab",
+  "116\tHigh Performance Training Center",
+  "120\tUnderwater Weight Measurement Room",
+  "1997A\tStairwell",
+  "1997B\tStairwell",
+  "1997C\tStairwell",
+  "1997D\tStairwell",
+  "200-1\tCorridor",
+  "200-2\tCorridor",
+  "200-3\tCorridor",
+  "200-4\tCorridor",
+  "200-6\tLobby",
+  "201\tBasketball Hall",
+  "203\tGraduate Seminar Room",
+  "204\tClassroom",
+  "205\tClassroom",
+  "206\tClassroom",
+  "207\tSeminar Room",
+  "208\tFaculty Break Room",
+  "211\tPhysical Education Series Comprehensive Administrative Office",
+  "212\tPhysical Education Department Office",
+  "213\tVolleyball Hall",
+  "215-1\tGymnastics Hall and Artificial Rock Climbing",
+  "215-2\tHandball Hall",
+  "215-3\tBadminton Hall",
+  "2997A\tStairwell",
+  "2997B\tStairwell",
+  "2997C\tStairwell",
+  "300-1\tCorridor",
+  "300-2\tCorridor",
+  "301\tExperiment Preparation Room",
+  "302\tEquipment Storage Room",
+  "304\tClassroom",
+  "305\tClassroom",
+  "306\tClassroom",
+  "307\tClassroom",
+  "308\tClassroom",
+  "309\tS/W Computer Practice Room",
+  "310\tClassroom",
+  "311\tVictory Monument",
+  "3997A\tStairwell",
+  "3997B\tStairwell",
+  "3997C\tStairwell",
+  "400-1\tCorridor",
+  "400-2\tCorridor",
+  "400-3\tCorridor",
+  "400-4\tCorridor",
+  "400-5\tCorridor",
+  "403\tSports Industry Management Research Institute",
+  "406\tDNA+ Department Administrative Office",
+  "407\tSports Science Research Institute",
+  "407-1\tPhysical Education Department TA Research Office",
+  "408\tGeneral Graduate School Physical Education Department Office",
+  "408-1\tPhysical Education Graduate School Alumni Association Office",
+  "409\tPhysical Education Alumni Association Office",
+  "409-1\tMartial Arts Society",
+  "435\tSports Industry Management and Marketing Research Institute",
+  "436\tKorea Creative Content Agency R&D Project Team",
+  "437\tCommunity Sports Director Training Center Administrative Office",
+  "441\tVictory Monument",
+  "4997A\tStairwell",
+  "4997B\tStairwell",
+  "4997C\tStairwell"
 ];

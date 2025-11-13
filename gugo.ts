@@ -1,661 +1,661 @@
 export const gugoKo = [
-  "B200-1\t복도",
-  "B201\t제1열람실",
-  "B202\t제2열람실",
-  "b2997A\t계단실",
-  "B100-1\t복도",
-  "B100-2\t복도",
-  "B101\t강의실",
-  "B102\t강의실",
-  "B103\t강의실",
-  "B104\t강의실",
-  "B105\t강의실",
-  "B106\t편의점",
-  "B107\t편의점",
-  "B110\t새벽",
-  "B111\t방사성폐기물기자재실",
-  "B112\t중성자발생장치실",
-  "B113\t신뢰성공학해석연구실",
-  "B114\t연금술",
-  "B115\tOCTET",
-  "B116\tG.P",
-  "B117\t구조연구회/트러스",
-  "B118\t공간",
-  "B119\t엔비스",
-  "B120\t공과대학스터디룸",
-  "B121\t기계실",
-  "B122\t기계실(봄베실)",
-  "b1993A\tEPS실",
-  "b1997A\t계단실",
-  "D100-1\t복도",
-  "D101\t설계스튜디오1",
-  "D102\t출력실",
-  "Db1993A\tPIT실",
-  "Db1995A\tELEV실",
-  "100-1\t로비홀",
-  "100-10\t복도(대형강의실 앞)",
-  "100-2\t복도",
-  "100-3\t복도",
-  "100-4\t복도",
-  "100-5\t복도",
-  "100-6\t복도",
-  "100-7\t복도",
-  "100-8\t복도",
-  "100-9\t복도",
-  "102-1\t강의실",
-  "104-1\t건축구조공법연구실",
-  "106\t첨단열수력연구실",
-  "107\t세미나실",
-  "108\t인간에너지건축연구실",
-  "121\t주사전자현미경실",
-  "122\tX-RAY회절분석실",
-  "123\t분석기기실1",
-  "124\t투과전자현미경실",
-  "125\t분석기기실4",
-  "126-1\t공동기기원 행정실",
-  "127\tCAL LAB5",
-  "128\t분석기기실2",
-  "129\t핵자기공명분광계실",
-  "131\t도서반납실",
-  "142-1\t강의실",
-  "142-2\t강의실",
-  "143-1\t응용화학과 학생회실-1",
-  "143-2\t응용화학과 학생회실",
-  "145\t수자원빅데이터 실습실",
-  "146\t강의실",
-  "147\t토목환경공학실험실",
-  "148\t강의실",
-  "149\t강의실",
-  "150\t강의실",
-  "161\t전처리실",
-  "161-1\t방사선계측실",
-  "162\t분석기기실3",
-  "162-1\t유연전자소자_클린룸",
-  "163\t공과대학학생회실",
-  "165\t강의실",
-  "166\tMEC",
-  "167\t첨단나노소재연구실(Laboratory for Advanced Nano Technologies)",
-  "168\t즐컴",
-  "169\t에너지저장소재연구실(Energy Storage Materials Laboratory)",
-  "170\t분리막 연구실",
-  "171\t기계공작실(Machining Room)",
-  "172\t로봇공학실험실",
-  "173\t환경공학연구실(Environmental Engineering Laboratory)",
-  "174\t건축구조연구실",
-  "176\t대형강의실",
-  "176-1\t준비실",
-  "176-3\tCAL LAB실3",
-  "176-4\tCAL LAB실4",
-  "1995A\tELEV실",
-  "1997A\t계단실",
-  "1997B\t계단실",
-  "1997C\t계단실",
-  "1997D\t계단실",
-  "1997E\t계단실",
-  "D1995A\tELEV실",
-  "D1997A\t계단실",
-  "D200-1\t복도",
-  "D200-2\t복도",
-  "D201\t설계스튜디오2",
-  "D202\t사진실",
-  "D203\t인증자료보관실1",
-  "D204\t인증자료보관실2",
-  "D205\t인증자료보관실3",
-  "D206\t2학년 설계실",
-  "200-1\t복도",
-  "200-2\t복도",
-  "200-3\t복도",
-  "200-4\t복도",
-  "200-5\t복도",
-  "202\t기계-재료 전기화학 에너지 실험실(Mechano-Materials Electrochemical Energy Laboratory)",
-  "205\t지반재해 & 지오시스템 연구실(Geohazards & Geosystem Laboratory)",
-  "206\t원자력공학과사이버강의실",
-  "207\t멀티스케일 재생에너지 시스템 연구실( Multiscale Renewable Energy System Laboratory)",
-  "212\t원자력안전연구실",
-  "215\t취업정보까페",
-  "221\t회의실",
-  "223\t공과대학학장실",
-  "224\t공과대학 학과 사무실",
-  "225\t공과대학행정실",
-  "231\t세미나실",
-  "232\t물산업지원센터",
-  "241\t건설정보연구실1",
-  "244\tCALLAB 1",
-  "245\t건축설계실",
-  "250\t품평실A",
-  "250-1\t품평실B",
-  "250-2\t품평실C",
-  "250-3\t품평실D",
-  "250-4\t품평실E",
-  "250-5\t품평실F",
-  "254\t디지털공작실",
-  "260\t정보전자신소재실험실",
-  "261\t정보전자신소재기기분석실",
-  "261-1\t유기연성재료물성실험실",
-  "263\t강의실",
-  "265\t세미나실",
-  "266\t대학원강의실",
-  "267\t신임교원실험실",
-  "268\t공간-도시 혁신 실험실",
-  "270\t메인포메틱스연구실",
-  "271\t임상종양단백체연구실",
-  "272\t원자력설계/실험강의실",
-  "274\t정보전자신소재합성실험실",
-  "275\t환경관리시스템공학연구실",
-  "277\t환경생물공학연구실",
-  "278\t전기화학에너지저장및변환연구실",
-  "280\t복사실",
-  "282\t연합동아리",
-  "282-1\tCEEC",
-  "282-10\t토대",
-  "282-11\tWildCardz",
-  "282-12\t푸른학교",
-  "282-13\t임팩트",
-  "282-14\t푸른솔",
-  "282-15\t산사회",
-  "282-16\t스트레스",
-  "282-17\tCM연구회",
-  "282-18\t탈머리",
-  "282-19\t세틀러",
-  "282-2\t화편위",
-  "282-20\t아이로봇",
-  "282-21\t싸일로버스터",
-  "282-3\tING",
-  "282-4\t선언",
-  "282-5\t묏뿌리",
-  "282-6\tFC화공",
-  "282-7\t글논그림",
-  "282-8\tCLAPS",
-  "282-9\tBIM",
-  "2995A\tELEV실",
-  "2997A\t계단실",
-  "2997B\t계단실",
-  "2997C\t계단실",
-  "2997D\t계단실",
-  "D2995A\tELEV실",
-  "D2995B\t계단실",
-  "D300-1\t복도",
-  "D300-2\t복도",
-  "D301\t세미나실",
-  "D302\t시청각실(강당)",
-  "D303\t설계스튜디오3",
-  "D304\t디지털출력실",
-  "300-1\t복도",
-  "300-2\t복도",
-  "300-3\t복도",
-  "300-4\t복도",
-  "301\t나노촉매연구실",
-  "305\t3S연구실",
-  "307\t로봇 제어 및 지능 연구실(Robot Control and Intelligence Laboratory)",
-  "315\t사람들",
-  "321\t인공지능기반 건축공학 연구실(Artificial Intelligence based Architectural Engineering Laboratory)",
-  "327\t전기화학에너지저장및변환연구실 III",
-  "329\t연성물질 & 계면공학 연구실 II",
-  "331\t기술 및 데이터 인텔리전스 연구실(Technology & Data Intelligence Lab)",
-  "340\t수질공정실험실",
-  "341\t토양및폐기물공정실험실",
-  "342\t대기공정실험실",
-  "344\t대기입자처리연구실",
-  "344-1\t준비실",
-  "345\t공동기기실",
-  "345-1\t실내공기연구실",
-  "346\t환경안전성평가 DB분석실",
-  "347\t환경안전성평가연구실",
-  "348\t대기환경에너지융합연구실(Air & Environment Energy Nexus Lab)",
-  "349\t응용생태학실험실",
-  "351\t응용생태학분석실",
-  "352\t수계및토양환경관리연구실",
-  "353\t실험준비실",
-  "355\t청정기술연구실",
-  "358\t환경생태학실험실",
-  "359\tGIS연구실",
-  "361\t결정기능화공정기술센터(ERC)",
-  "361-1\t나노바이오멤스융합연구실 II",
-  "362\t최적화실험실",
-  "363\t강의실",
-  "364\t정보전자신소재설계실",
-  "365\t강의실",
-  "367\t강의실",
-  "368\t후행핵주기연구실",
-  "369\t강의실",
-  "371\t강의실",
-  "372\t교량공학연구실",
-  "374\t구조시스템 및 재료연구실",
-  "376\t수자원환경빅데이터연구실(Water Resources  Environment Big Data Lab.)",
-  "378\t수자원시스템연구실",
-  "380\t콘크리트구조연구실",
-  "380-1\t지반공학연구실",
-  "382\t토질실험실",
-  "384\tPOP",
-  "3995A\tELEV실",
-  "3997A\t계단실",
-  "3997B\t계단실",
-  "3997C\t계단실",
-  "3997D\t계단실",
-  "D3995A\tELEV실",
-  "D3997A\t계단실",
-  "D400-1\t복도",
-  "D400-2\t복도",
-  "D401\t공학도서관",
-  "D402\t공학도서관",
-  "D403\t대학원 설계스튜디오",
-  "400-1\t복도",
-  "400-2\t복도",
-  "400-3\t복도",
-  "400-4\t복도",
-  "400-5\tELEV실",
-  "401-1\t미세입자유동연구실",
-  "409\t재료화학연구실-1",
-  "410\t나노분석연구실-1",
-  "412\t나노분석연구실-2",
-  "413\t응용화학과 사무실",
-  "424\tM&S연구실",
-  "426\t스마트팩토리연구실",
-  "429\t공정시스템∙지능화설계 연구실",
-  "433\t지능 시뮬레이션 및 분석 연구실(Intelligent Simulation & Analysis Lab(ISAL))",
-  "438\t건축구조해석연구실",
-  "440\t고분자화학연구실",
-  "441\t전기로실",
-  "442\t재료화학연구실",
-  "443\t생유기화학실험실",
-  "445\t물리화학실험실",
-  "446\t나노융합재료연구실-1",
-  "447\t나노융합재료연구실",
-  "448\t공동기기실",
-  "449\t유기합성 및 촉매화학 연구실",
-  "450\t에너지 소재 및 응용 연구실 I",
-  "451\t레이저화학연구실",
-  "452\t유기합성연구실",
-  "453\tGRRC센터행정실",
-  "454\t에너지 소재 및 응용 연구실 II",
-  "455\t컴퓨터화학및바이오시뮬레이션연구실",
-  "456\t유기합성촉매연구실-1",
-  "457\t유기촉매합성연구실",
-  "458\t분석화학실험실",
-  "459\t유기화학실험실",
-  "459-1\t이론계산화학연구실-1",
-  "460\t복도",
-  "461\t결정기능화 공정기술 실험실",
-  "461-1\t고분자신소재 및 공정연구실",
-  "461-2\t결정기능화 공정기술 센터",
-  "462\t웨어러블 전자소재실험실",
-  "463\t결정화기술실험실",
-  "464\t하이브리드 신소재 디자인 연구실(Materials Design Laboratory)",
-  "465\t광전소재 고유특성 분석실",
-  "465-1\t광전소재 고유특성 분석실",
-  "471-2\t아이에프 융합 디자인 연구실(I.f Research)",
-  "471-4\t이론계산화학연구실-2",
-  "472\tENL연구실",
-  "476\t유기광전자재료연구실",
-  "478-1\t유연전자소자연구실",
-  "480\tSNUC",
-  "4995A\tELEV실",
-  "4997A\t계단실",
-  "4997B\t계단실",
-  "4997C\t계단실",
-  "4997D\t계단실",
-  "4997E\t계단실",
-  "500-1\t복도",
-  "500-2\t복도",
-  "501\t구조거동및위험성평가연구실",
-  "507\t대학원강의실",
-  "508\t토목환경연구실",
-  "509\t몬테칼로 노물리연구실",
-  "510\t인공지능 및 경영과학 연구실(Artificial Intelligence & Management Science Lab.)",
-  "522\t산공과대학원세미나실",
-  "524\t스마트팩토리연구실",
-  "525\t물질설계이론 연구실(Materials Design & Theory Lab)",
-  "526\t웨어러블전자소재연구실",
-  "528\t빅데이터연구실",
-  "529\t산업지능연구실",
-  "532\t건설자동화연구실",
-  "534\t측량기기자재실",
-  "541\t불고기파티",
-  "561\t공대 학생회 세미나실",
-  "5997A\t계단실",
-  "5997B\t계단실",
-  "5997C\t계단실",
-  "5997D\t계단실",
-  "5997E\t계단실",
-  "600-1\t통신실",
-  "602-1\t방사선공학/계측실험실",
-  "602-2\t수원지방방사능측정소",
-  "604\t언론지대",
-  "605\t태양열실험실",
-  "606\t태양열실험실",
-  "607\t물탱크실",
-  "6997A\t계단실",
-  "6997B\t계단실",
-  "6997C\t계단실"
+  "B200-1\t복도",
+  "B201\t제1열람실",
+  "B202\t제2열람실",
+  "b2997A\t계단실",
+  "B100-1\t복도",
+  "B100-2\t복도",
+  "B101\t강의실",
+  "B102\t강의실",
+  "B103\t강의실",
+  "B104\t강의실",
+  "B105\t강의실",
+  "B106\t편의점",
+  "B107\t편의점",
+  "B110\t새벽",
+  "B111\t방사성폐기물기자재실",
+  "B112\t중성자발생장치실",
+  "B113\t신뢰성공학해석연구실",
+  "B114\t연금술",
+  "B115\tOCTET",
+  "B116\tG.P",
+  "B117\t구조연구회/트러스",
+  "B118\t공간",
+  "B119\t엔비스",
+  "B120\t공과대학스터디룸",
+  "B121\t기계실",
+  "B122\t기계실(봄베실)",
+  "b1993A\tEPS실",
+  "b1997A\t계단실",
+  "D100-1\t복도",
+  "D101\t설계스튜디오1",
+  "D102\t출력실",
+  "Db1993A\tPIT실",
+  "Db1995A\tELEV실",
+  "100-1\t로비홀",
+  "100-10\t복도(대형강의실 앞)",
+  "100-2\t복도",
+  "100-3\t복도",
+  "100-4\t복도",
+  "100-5\t복도",
+  "100-6\t복도",
+  "100-7\t복도",
+  "100-8\t복도",
+  "100-9\t복도",
+  "102-1\t강의실",
+  "104-1\t건축구조공법연구실",
+  "106\t첨단열수력연구실",
+  "107\t세미나실",
+  "108\t인간에너지건축연구실",
+  "121\t주사전자현미경실",
+  "122\tX-RAY회절분석실",
+  "123\t분석기기실1",
+  "124\t투과전자현미경실",
+  "125\t분석기기실4",
+  "126-1\t공동기기원 행정실",
+  "127\tCAL LAB5",
+  "128\t분석기기실2",
+  "129\t핵자기공명분광계실",
+  "131\t도서반납실",
+  "142-1\t강의실",
+  "142-2\t강의실",
+  "143-1\t응용화학과 학생회실-1",
+  "143-2\t응용화학과 학생회실",
+  "145\t수자원빅데이터 실습실",
+  "146\t강의실",
+  "147\t토목환경공학실험실",
+  "148\t강의실",
+  "149\t강의실",
+  "150\t강의실",
+  "161\t전처리실",
+  "161-1\t방사선계측실",
+  "162\t분석기기실3",
+  "162-1\t유연전자소자_클린룸",
+  "163\t공과대학학생회실",
+  "165\t강의실",
+  "166\tMEC",
+  "167\t첨단나노소재연구실(Laboratory for Advanced Nano Technologies)",
+  "168\t즐컴",
+  "169\t에너지저장소재연구실(Energy Storage Materials Laboratory)",
+  "170\t분리막 연구실",
+  "171\t기계공작실(Machining Room)",
+  "172\t로봇공학실험실",
+  "173\t환경공학연구실(Environmental Engineering Laboratory)",
+  "174\t건축구조연구실",
+  "176\t대형강의실",
+  "176-1\t준비실",
+  "176-3\tCAL LAB실3",
+  "176-4\tCAL LAB실4",
+  "1995A\tELEV실",
+  "1997A\t계단실",
+  "1997B\t계단실",
+  "1997C\t계단실",
+  "1997D\t계단실",
+  "1997E\t계단실",
+  "D1995A\tELEV실",
+  "D1997A\t계단실",
+  "D200-1\t복도",
+  "D200-2\t복도",
+  "D201\t설계스튜디오2",
+  "D202\t사진실",
+  "D203\t인증자료보관실1",
+  "D204\t인증자료보관실2",
+  "D205\t인증자료보관실3",
+  "D206\t2학년 설계실",
+  "200-1\t복도",
+  "200-2\t복도",
+  "200-3\t복도",
+  "200-4\t복도",
+  "200-5\t복도",
+  "202\t기계-재료 전기화학 에너지 실험실(Mechano-Materials Electrochemical Energy Laboratory)",
+  "205\t지반재해 & 지오시스템 연구실(Geohazards & Geosystem Laboratory)",
+  "206\t원자력공학과사이버강의실",
+  "207\t멀티스케일 재생에너지 시스템 연구실( Multiscale Renewable Energy System Laboratory)",
+  "212\t원자력안전연구실",
+  "215\t취업정보까페",
+  "221\t회의실",
+  "223\t공과대학학장실",
+  "224\t공과대학 학과 사무실",
+  "225\t공과대학행정실",
+  "231\t세미나실",
+  "232\t물산업지원센터",
+  "241\t건설정보연구실1",
+  "244\tCALLAB 1",
+  "245\t건축설계실",
+  "250\t품평실A",
+  "250-1\t품평실B",
+  "250-2\t품평실C",
+  "250-3\t품평실D",
+  "250-4\t품평실E",
+  "250-5\t품평실F",
+  "254\t디지털공작실",
+  "260\t정보전자신소재실험실",
+  "261\t정보전자신소재기기분석실",
+  "261-1\t유기연성재료물성실험실",
+  "263\t강의실",
+  "265\t세미나실",
+  "266\t대학원강의실",
+  "267\t신임교원실험실",
+  "268\t공간-도시 혁신 실험실",
+  "270\t메인포메틱스연구실",
+  "271\t임상종양단백체연구실",
+  "272\t원자력설계/실험강의실",
+  "274\t정보전자신소재합성실험실",
+  "275\t환경관리시스템공학연구실",
+  "277\t환경생물공학연구실",
+  "278\t전기화학에너지저장및변환연구실",
+  "280\t복사실",
+  "282\t연합동아리",
+  "282-1\tCEEC",
+  "282-10\t토대",
+  "282-11\tWildCardz",
+  "282-12\t푸른학교",
+  "282-13\t임팩트",
+  "282-14\t푸른솔",
+  "282-15\t산사회",
+  "282-16\t스트레스",
+  "282-17\tCM연구회",
+  "282-18\t탈머리",
+  "282-19\t세틀러",
+  "282-2\t화편위",
+  "282-20\t아이로봇",
+  "282-21\t싸일로버스터",
+  "282-3\tING",
+  "282-4\t선언",
+  "282-5\t묏뿌리",
+  "282-6\tFC화공",
+  "282-7\t글논그림",
+  "282-8\tCLAPS",
+  "282-9\tBIM",
+  "2995A\tELEV실",
+  "2997A\t계단실",
+  "2997B\t계단실",
+  "2997C\t계단실",
+  "2997D\t계단실",
+  "D2995A\tELEV실",
+  "D2995B\t계단실",
+  "D300-1\t복도",
+  "D300-2\t복도",
+  "D301\t세미나실",
+  "D302\t시청각실(강당)",
+  "D303\t설계스튜디오3",
+  "D304\t디지털출력실",
+  "300-1\t복도",
+  "300-2\t복도",
+  "300-3\t복도",
+  "300-4\t복도",
+  "301\t나노촉매연구실",
+  "305\t3S연구실",
+  "307\t로봇 제어 및 지능 연구실(Robot Control and Intelligence Laboratory)",
+  "315\t사람들",
+  "321\t인공지능기반 건축공학 연구실(Artificial Intelligence based Architectural Engineering Laboratory)",
+  "327\t전기화학에너지저장및변환연구실 III",
+  "329\t연성물질 & 계면공학 연구실 II",
+  "331\t기술 및 데이터 인텔리전스 연구실(Technology & Data Intelligence Lab)",
+  "340\t수질공정실험실",
+  "341\t토양및폐기물공정실험실",
+  "342\t대기공정실험실",
+  "344\t대기입자처리연구실",
+  "344-1\t준비실",
+  "345\t공동기기실",
+  "345-1\t실내공기연구실",
+  "346\t환경안전성평가 DB분석실",
+  "347\t환경안전성평가연구실",
+  "348\t대기환경에너지융합연구실(Air & Environment Energy Nexus Lab)",
+  "349\t응용생태학실험실",
+  "351\t응용생태학분석실",
+  "352\t수계및토양환경관리연구실",
+  "353\t실험준비실",
+  "355\t청정기술연구실",
+  "358\t환경생태학실험실",
+  "359\tGIS연구실",
+  "361\t결정기능화공정기술센터(ERC)",
+  "361-1\t나노바이오멤스융합연구실 II",
+  "362\t최적화실험실",
+  "363\t강의실",
+  "364\t정보전자신소재설계실",
+  "365\t강의실",
+  "367\t강의실",
+  "368\t후행핵주기연구실",
+  "369\t강의실",
+  "371\t강의실",
+  "372\t교량공학연구실",
+  "374\t구조시스템 및 재료연구실",
+  "376\t수자원환경빅데이터연구실(Water Resources  Environment Big Data Lab.)",
+  "378\t수자원시스템연구실",
+  "380\t콘크리트구조연구실",
+  "380-1\t지반공학연구실",
+  "382\t토질실험실",
+  "384\tPOP",
+  "3995A\tELEV실",
+  "3997A\t계단실",
+  "3997B\t계단실",
+  "3997C\t계단실",
+  "3997D\t계단실",
+  "D3995A\tELEV실",
+  "D3997A\t계단실",
+  "D400-1\t복도",
+  "D400-2\t복도",
+  "D401\t공학도서관",
+  "D402\t공학도서관",
+  "D403\t대학원 설계스튜디오",
+  "400-1\t복도",
+  "400-2\t복도",
+  "400-3\t복도",
+  "400-4\t복도",
+  "400-5\tELEV실",
+  "401-1\t미세입자유동연구실",
+  "409\t재료화학연구실-1",
+  "410\t나노분석연구실-1",
+  "412\t나노분석연구실-2",
+  "413\t응용화학과 사무실",
+  "424\tM&S연구실",
+  "426\t스마트팩토리연구실",
+  "429\t공정시스템∙지능화설계 연구실",
+  "433\t지능 시뮬레이션 및 분석 연구실(Intelligent Simulation & Analysis Lab(ISAL))",
+  "438\t건축구조해석연구실",
+  "440\t고분자화학연구실",
+  "441\t전기로실",
+  "442\t재료화학연구실",
+  "443\t생유기화학실험실",
+  "445\t물리화학실험실",
+  "446\t나노융합재료연구실-1",
+  "447\t나노융합재료연구실",
+  "448\t공동기기실",
+  "449\t유기합성 및 촉매화학 연구실",
+  "450\t에너지 소재 및 응용 연구실 I",
+  "451\t레이저화학연구실",
+  "452\t유기합성연구실",
+  "453\tGRRC센터행정실",
+  "454\t에너지 소재 및 응용 연구실 II",
+  "455\t컴퓨터화학및바이오시뮬레이션연구실",
+  "456\t유기합성촉매연구실-1",
+  "457\t유기촉매합성연구실",
+  "458\t분석화학실험실",
+  "459\t유기화학실험실",
+  "459-1\t이론계산화학연구실-1",
+  "460\t복도",
+  "461\t결정기능화 공정기술 실험실",
+  "461-1\t고분자신소재 및 공정연구실",
+  "461-2\t결정기능화 공정기술 센터",
+  "462\t웨어러블 전자소재실험실",
+  "463\t결정화기술실험실",
+  "464\t하이브리드 신소재 디자인 연구실(Materials Design Laboratory)",
+  "465\t광전소재 고유특성 분석실",
+  "465-1\t광전소재 고유특성 분석실",
+  "471-2\t아이에프 융합 디자인 연구실(I.f Research)",
+  "471-4\t이론계산화학연구실-2",
+  "472\tENL연구실",
+  "476\t유기광전자재료연구실",
+  "478-1\t유연전자소자연구실",
+  "480\tSNUC",
+  "4995A\tELEV실",
+  "4997A\t계단실",
+  "4997B\t계단실",
+  "4997C\t계단실",
+  "4997D\t계단실",
+  "4997E\t계단실",
+  "500-1\t복도",
+  "500-2\t복도",
+  "501\t구조거동및위험성평가연구실",
+  "507\t대학원강의실",
+  "508\t토목환경연구실",
+  "509\t몬테칼로 노물리연구실",
+  "510\t인공지능 및 경영과학 연구실(Artificial Intelligence & Management Science Lab.)",
+  "522\t산공과대학원세미나실",
+  "524\t스마트팩토리연구실",
+  "525\t물질설계이론 연구실(Materials Design & Theory Lab)",
+  "526\t웨어러블전자소재연구실",
+  "528\t빅데이터연구실",
+  "529\t산업지능연구실",
+  "532\t건설자동화연구실",
+  "534\t측량기기자재실",
+  "541\t불고기파티",
+  "561\t공대 학생회 세미나실",
+  "5997A\t계단실",
+  "5997B\t계단실",
+  "5997C\t계단실",
+  "5997D\t계단실",
+  "5997E\t계단실",
+  "600-1\t통신실",
+  "602-1\t방사선공학/계측실험실",
+  "602-2\t수원지방방사능측정소",
+  "604\t언론지대",
+  "605\t태양열실험실",
+  "606\t태양열실험실",
+  "607\t물탱크실",
+  "6997A\t계단실",
+  "6997B\t계단실",
+  "6997C\t계단실"
 ];
 
 export const gugoEn = [
-  "B200-1\tCorridor",
-  "B201\tReading Room 1",
-  "B202\tReading Room 2",
-  "b2997A\tStairwell",
-  "B100-1\tCorridor",
-  "B100-2\tCorridor",
-  "B101\tClassroom",
-  "B102\tClassroom",
-  "B103\tClassroom",
-  "B104\tClassroom",
-  "B105\tClassroom",
-  "B106\tConvenience Store",
-  "B107\tConvenience Store",
-  "B110\tEarly Morning",
-  "B111\tRadioactive Waste Equipment Room",
-  "B112\tNeutron Generation Device Room",
-  "B113\tReliability Engineering Analysis Lab",
-  "B114\tAlchemy",
-  "B115\tOCTET",
-  "B116\tG.P",
-  "B117\tStructure Research Club/Truss",
-  "B118\tSpace",
-  "B119\tNBIS",
-  "B120\tEngineering School Study Room",
-  "B121\tMachine Room",
-  "B122\tMachine Room (Bomb Room)",
-  "b1993A\tEPS Room",
-  "b1997A\tStairwell",
-  "D100-1\tCorridor",
-  "D101\tDesign Studio 1",
-  "D102\tPrint Room",
-  "Db1993A\tPIT Room",
-  "Db1995A\tELEV Room",
-  "100-1\tLobby Hall",
-  "100-10\tCorridor (in front of Large Lecture Hall)",
-  "100-2\tCorridor",
-  "100-3\tCorridor",
-  "100-4\tCorridor",
-  "100-5\tCorridor",
-  "100-6\tCorridor",
-  "100-7\tCorridor",
-  "100-8\tCorridor",
-  "100-9\tCorridor",
-  "102-1\tClassroom",
-  "104-1\tArchitectural Structure Engineering Lab",
-  "106\tAdvanced Thermal Hydraulics Lab",
-  "107\tSeminar Room",
-  "108\tHuman Energy Building Lab",
-  "121\tScanning Electron Microscope Lab",
-  "122\tX-Ray Diffraction Analysis Lab",
-  "123\tAnalytical Equipment Lab 1",
-  "124\tTransmission Electron Microscope Lab",
-  "125\tAnalytical Equipment Lab 4",
-  "126-1\tJoint Equipment Center Administrative Office",
-  "127\tCAL LAB 5",
-  "128\tAnalytical Equipment Lab 2",
-  "129\tNuclear Magnetic Resonance Spectroscopy Lab",
-  "131\tBook Return Room",
-  "142-1\tClassroom",
-  "142-2\tClassroom",
-  "143-1\tApplied Chemistry Student Association Office-1",
-  "143-2\tApplied Chemistry Student Association Office",
-  "145\tWater Resources Big Data Practice Lab",
-  "146\tClassroom",
-  "147\tCivil and Environmental Engineering Lab",
-  "148\tClassroom",
-  "149\tClassroom",
-  "150\tClassroom",
-  "161\tPretreatment Lab",
-  "161-1\tRadiation Measurement Lab",
-  "162\tAnalytical Equipment Lab 3",
-  "162-1\tFlexible Electronic Device Clean Room",
-  "163\tEngineering School Student Association Office",
-  "165\tClassroom",
-  "166\tMEC",
-  "167\tAdvanced Nano Materials Lab",
-  "168\tEnjoy Computer",
-  "169\tEnergy Storage Materials Lab",
-  "170\tSeparation Membrane Lab",
-  "171\tMachine Shop",
-  "172\tRobotics Engineering Lab",
-  "173\tEnvironmental Engineering Lab",
-  "174\tArchitectural Structure Lab",
-  "176\tLarge Lecture Hall",
-  "176-1\tPreparation Room",
-  "176-3\tCAL LAB 3",
-  "176-4\tCAL LAB 4",
-  "1995A\tELEV Room",
-  "1997A\tStairwell",
-  "1997B\tStairwell",
-  "1997C\tStairwell",
-  "1997D\tStairwell",
-  "1997E\tStairwell",
-  "D1995A\tELEV Room",
-  "D1997A\tStairwell",
-  "D200-1\tCorridor",
-  "D200-2\tCorridor",
-  "D201\tDesign Studio 2",
-  "D202\tPhotography Room",
-  "D203\tCertification Material Storage Room 1",
-  "D204\tCertification Material Storage Room 2",
-  "D205\tCertification Material Storage Room 3",
-  "D206\t2nd Year Design Studio",
-  "200-1\tCorridor",
-  "200-2\tCorridor",
-  "200-3\tCorridor",
-  "200-4\tCorridor",
-  "200-5\tCorridor",
-  "202\tMechano-Materials Electrochemical Energy Lab",
-  "205\tGeohazards & Geosystem Lab",
-  "206\tNuclear Engineering Cyber Lecture Room",
-  "207\tMultiscale Renewable Energy System Lab",
-  "212\tNuclear Safety Lab",
-  "215\tEmployment Information Café",
-  "221\tConference Room",
-  "223\tEngineering School Dean's Office",
-  "224\tEngineering School Department Office",
-  "225\tEngineering School Administrative Office",
-  "231\tSeminar Room",
-  "232\tWater Industry Support Center",
-  "241\tConstruction Information Lab 1",
-  "244\tCALLAB 1",
-  "245\tArchitectural Design Studio",
-  "250\tDesign Review Room A",
-  "250-1\tDesign Review Room B",
-  "250-2\tDesign Review Room C",
-  "250-3\tDesign Review Room D",
-  "250-4\tDesign Review Room E",
-  "250-5\tDesign Review Room F",
-  "254\tDigital Workshop",
-  "260\tInformation Electronics New Materials Lab",
-  "261\tInformation Electronics New Materials Equipment Analysis Lab",
-  "261-1\tOrganic Soft Materials Properties Lab",
-  "263\tClassroom",
-  "265\tSeminar Room",
-  "266\tGraduate Lecture Room",
-  "267\tNew Faculty Lab",
-  "268\tSpace-Urban Innovation Lab",
-  "270\tMain Photomics Lab",
-  "271\tClinical Oncology Proteomics Lab",
-  "272\tNuclear Design/Experiment Lecture Room",
-  "274\tInformation Electronics New Materials Synthesis Lab",
-  "275\tEnvironmental Management System Engineering Lab",
-  "277\tEnvironmental Bioengineering Lab",
-  "278\tElectrochemical Energy Storage and Conversion Lab",
-  "280\tCopy Room",
-  "282\tJoint Club",
-  "282-1\tCEEC",
-  "282-10\tTodae",
-  "282-11\tWildCardz",
-  "282-12\tBlue School",
-  "282-13\tImpact",
-  "282-14\tBlue Pine",
-  "282-15\tSansahoe",
-  "282-16\tStress",
-  "282-17\tCM Research Club",
-  "282-18\tTalmeori",
-  "282-19\tSettler",
-  "282-2\tHwa Pyun Wee",
-  "282-20\tI-Robot",
-  "282-21\tSilo Buster",
-  "282-3\tING",
-  "282-4\tDeclaration",
-  "282-5\tMutppuri",
-  "282-6\tFC Chemical Engineering",
-  "282-7\tGeulnongeulim",
-  "282-8\tCLAPS",
-  "282-9\tBIM",
-  "2995A\tELEV Room",
-  "2997A\tStairwell",
-  "2997B\tStairwell",
-  "2997C\tStairwell",
-  "2997D\tStairwell",
-  "D2995A\tELEV Room",
-  "D2995B\tStairwell",
-  "D300-1\tCorridor",
-  "D300-2\tCorridor",
-  "D301\tSeminar Room",
-  "D302\tAudiovisual Room (Auditorium)",
-  "D303\tDesign Studio 3",
-  "D304\tDigital Print Room",
-  "300-1\tCorridor",
-  "300-2\tCorridor",
-  "300-3\tCorridor",
-  "300-4\tCorridor",
-  "301\tNano Catalyst Lab",
-  "305\t3S Lab",
-  "307\tRobot Control and Intelligence Lab",
-  "315\tThe People",
-  "321\tArtificial Intelligence based Architectural Engineering Lab",
-  "327\tElectrochemical Energy Storage and Conversion Lab III",
-  "329\tSoft Matter & Interface Engineering Lab II",
-  "331\tTechnology & Data Intelligence Lab",
-  "340\tWater Treatment Process Lab",
-  "341\tSoil and Waste Process Lab",
-  "342\tAir Process Lab",
-  "344\tAir Particle Treatment Lab",
-  "344-1\tPreparation Room",
-  "345\tShared Equipment Lab",
-  "345-1\tIndoor Air Research Lab",
-  "346\tEnvironmental Safety Assessment DB Analysis Lab",
-  "347\tEnvironmental Safety Assessment Lab",
-  "348\tAir & Environment Energy Nexus Lab",
-  "349\tApplied Ecology Lab",
-  "351\tApplied Ecology Analysis Lab",
-  "352\tWater and Soil Environment Management Lab",
-  "353\tExperiment Preparation Room",
-  "355\tClean Technology Lab",
-  "358\tEnvironmental Ecology Lab",
-  "359\tGIS Lab",
-  "361\tCrystalline Functional Process Technology Center (ERC)",
-  "361-1\tNano-Bio-MEMS Fusion Lab II",
-  "362\tOptimization Lab",
-  "363\tClassroom",
-  "364\tInformation Electronics New Materials Design Lab",
-  "365\tClassroom",
-  "367\tClassroom",
-  "368\tPost-Irradiation Nuclear Cycle Lab",
-  "369\tClassroom",
-  "371\tClassroom",
-  "372\tBridge Engineering Lab",
-  "374\tStructure System and Materials Lab",
-  "376\tWater Resources & Environment Big Data Lab",
-  "378\tWater Resources System Lab",
-  "380\tConcrete Structure Lab",
-  "380-1\tGeotechnical Engineering Lab",
-  "382\tSoil Test Lab",
-  "384\tPOP",
-  "3995A\tELEV Room",
-  "3997A\tStairwell",
-  "3997B\tStairwell",
-  "3997C\tStairwell",
-  "3997D\tStairwell",
-  "D3995A\tELEV Room",
-  "D3997A\tStairwell",
-  "D400-1\tCorridor",
-  "D400-2\tCorridor",
-  "D401\tEngineering Library",
-  "D402\tEngineering Library",
-  "D403\tGraduate Design Studio",
-  "400-1\tCorridor",
-  "400-2\tCorridor",
-  "400-3\tCorridor",
-  "400-4\tCorridor",
-  "400-5\tELEV Room",
-  "401-1\tFine Particle Flow Lab",
-  "409\tMaterials Chemistry Lab-1",
-  "410\tNano Analysis Lab-1",
-  "412\tNano Analysis Lab-2",
-  "413\tApplied Chemistry Department Office",
-  "424\tM&S Lab",
-  "426\tSmart Factory Lab",
-  "429\tProcess System & Intelligent Design Lab",
-  "433\tIntelligent Simulation & Analysis Lab",
-  "438\tArchitectural Structure Analysis Lab",
-  "440\tPolymer Chemistry Lab",
-  "441\tElectric Furnace",
-  "442\tMaterials Chemistry Lab",
-  "443\tBio-Organic Chemistry Lab",
-  "445\tPhysical Chemistry Lab",
-  "446\tNano Convergence Materials Lab-1",
-  "447\tNano Convergence Materials Lab",
-  "448\tShared Equipment Lab",
-  "449\tOrganic Synthesis and Catalytic Chemistry Lab",
-  "450\tEnergy Materials and Application Lab I",
-  "451\tLaser Chemistry Lab",
-  "452\tOrganic Synthesis Lab",
-  "453\tGRRC Center Administrative Office",
-  "454\tEnergy Materials and Application Lab II",
-  "455\tComputational Chemistry and Bio-Simulation Lab",
-  "456\tOrganic Synthesis Catalyst Lab-1",
-  "457\tOrganic Catalyst Synthesis Lab",
-  "458\tAnalytical Chemistry Lab",
-  "459\tOrganic Chemistry Lab",
-  "459-1\tTheoretical Computational Chemistry Lab-1",
-  "460\tCorridor",
-  "461\tCrystalline Functional Process Technology Lab",
-  "461-1\tPolymer New Materials and Process Lab",
-  "461-2\tCrystalline Functional Process Technology Center",
-  "462\tWearable Electronic Materials Lab",
-  "463\tCrystallization Technology Lab",
-  "464\tMaterials Design Lab",
-  "465\tOptoelectronic Materials Unique Characteristics Analysis Lab",
-  "465-1\tOptoelectronic Materials Unique Characteristics Analysis Lab",
-  "471-2\tI.F Convergence Design Lab",
-  "471-4\tTheoretical Computational Chemistry Lab-2",
-  "472\tENL Lab",
-  "476\tOrganic Optoelectronic Materials Lab",
-  "478-1\tFlexible Electronic Device Lab",
-  "480\tSNUC",
-  "4995A\tELEV Room",
-  "4997A\tStairwell",
-  "4997B\tStairwell",
-  "4997C\tStairwell",
-  "4997D\tStairwell",
-  "4997E\tStairwell",
-  "500-1\tCorridor",
-  "500-2\tCorridor",
-  "501\tStructural Behavior and Risk Assessment Lab",
-  "507\tGraduate Lecture Room",
-  "508\tCivil and Environmental Lab",
-  "509\tMonte Carlo Physics Lab",
-  "510\tArtificial Intelligence & Management Science Lab",
-  "522\tEngineering Graduate Seminar Room",
-  "524\tSmart Factory Lab",
-  "525\tMaterials Design & Theory Lab",
-  "526\tWearable Electronic Materials Lab",
-  "528\tBig Data Lab",
-  "529\tIndustrial Intelligence Lab",
-  "532\tConstruction Automation Lab",
-  "534\tSurvey Equipment Material Room",
-  "541\tBulgogi Party",
-  "561\tEngineering Student Association Seminar Room",
-  "5997A\tStairwell",
-  "5997B\tStairwell",
-  "5997C\tStairwell",
-  "5997D\tStairwell",
-  "5997E\tStairwell",
-  "600-1\tCommunication Room",
-  "602-1\tRadiation Engineering/Measurement Lab",
-  "602-2\tSuwon Regional Radioactivity Measurement Center",
-  "604\tPress Distribution",
-  "605\tSolar Thermal Lab",
-  "606\tSolar Thermal Lab",
-  "607\tWater Tank Room",
-  "6997A\tStairwell",
-  "6997B\tStairwell",
-  "6997C\tStairwell"
+  "B200-1\tCorridor",
+  "B201\tReading Room 1",
+  "B202\tReading Room 2",
+  "b2997A\tStairwell",
+  "B100-1\tCorridor",
+  "B100-2\tCorridor",
+  "B101\tClassroom",
+  "B102\tClassroom",
+  "B103\tClassroom",
+  "B104\tClassroom",
+  "B105\tClassroom",
+  "B106\tConvenience Store",
+  "B107\tConvenience Store",
+  "B110\tEarly Morning",
+  "B111\tRadioactive Waste Equipment Room",
+  "B112\tNeutron Generation Device Room",
+  "B113\tReliability Engineering Analysis Lab",
+  "B114\tAlchemy",
+  "B115\tOCTET",
+  "B116\tG.P",
+  "B117\tStructure Research Club/Truss",
+  "B118\tSpace",
+  "B119\tNBIS",
+  "B120\tEngineering School Study Room",
+  "B121\tMachine Room",
+  "B122\tMachine Room (Bomb Room)",
+  "b1993A\tEPS Room",
+  "b1997A\tStairwell",
+  "D100-1\tCorridor",
+  "D101\tDesign Studio 1",
+  "D102\tPrint Room",
+  "Db1993A\tPIT Room",
+  "Db1995A\tELEV Room",
+  "100-1\tLobby Hall",
+  "100-10\tCorridor (in front of Large Lecture Hall)",
+  "100-2\tCorridor",
+  "100-3\tCorridor",
+  "100-4\tCorridor",
+  "100-5\tCorridor",
+  "100-6\tCorridor",
+  "100-7\tCorridor",
+  "100-8\tCorridor",
+  "100-9\tCorridor",
+  "102-1\tClassroom",
+  "104-1\tArchitectural Structure Engineering Lab",
+  "106\tAdvanced Thermal Hydraulics Lab",
+  "107\tSeminar Room",
+  "108\tHuman Energy Building Lab",
+  "121\tScanning Electron Microscope Lab",
+  "122\tX-Ray Diffraction Analysis Lab",
+  "123\tAnalytical Equipment Lab 1",
+  "124\tTransmission Electron Microscope Lab",
+  "125\tAnalytical Equipment Lab 4",
+  "126-1\tJoint Equipment Center Administrative Office",
+  "127\tCAL LAB 5",
+  "128\tAnalytical Equipment Lab 2",
+  "129\tNuclear Magnetic Resonance Spectroscopy Lab",
+  "131\tBook Return Room",
+  "142-1\tClassroom",
+  "142-2\tClassroom",
+  "143-1\tApplied Chemistry Student Association Office-1",
+  "143-2\tApplied Chemistry Student Association Office",
+  "145\tWater Resources Big Data Practice Lab",
+  "146\tClassroom",
+  "147\tCivil and Environmental Engineering Lab",
+  "148\tClassroom",
+  "149\tClassroom",
+  "150\tClassroom",
+  "161\tPretreatment Lab",
+  "161-1\tRadiation Measurement Lab",
+  "162\tAnalytical Equipment Lab 3",
+  "162-1\tFlexible Electronic Device Clean Room",
+  "163\tEngineering School Student Association Office",
+  "165\tClassroom",
+  "166\tMEC",
+  "167\tAdvanced Nano Materials Lab",
+  "168\tEnjoy Computer",
+  "169\tEnergy Storage Materials Lab",
+  "170\tSeparation Membrane Lab",
+  "171\tMachine Shop",
+  "172\tRobotics Engineering Lab",
+  "173\tEnvironmental Engineering Lab",
+  "174\tArchitectural Structure Lab",
+  "176\tLarge Lecture Hall",
+  "176-1\tPreparation Room",
+  "176-3\tCAL LAB 3",
+  "176-4\tCAL LAB 4",
+  "1995A\tELEV Room",
+  "1997A\tStairwell",
+  "1997B\tStairwell",
+  "1997C\tStairwell",
+  "1997D\tStairwell",
+  "1997E\tStairwell",
+  "D1995A\tELEV Room",
+  "D1997A\tStairwell",
+  "D200-1\tCorridor",
+  "D200-2\tCorridor",
+  "D201\tDesign Studio 2",
+  "D202\tPhotography Room",
+  "D203\tCertification Material Storage Room 1",
+  "D204\tCertification Material Storage Room 2",
+  "D205\tCertification Material Storage Room 3",
+  "D206\t2nd Year Design Studio",
+  "200-1\tCorridor",
+  "200-2\tCorridor",
+  "200-3\tCorridor",
+  "200-4\tCorridor",
+  "200-5\tCorridor",
+  "202\tMechano-Materials Electrochemical Energy Lab",
+  "205\tGeohazards & Geosystem Lab",
+  "206\tNuclear Engineering Cyber Lecture Room",
+  "207\tMultiscale Renewable Energy System Lab",
+  "212\tNuclear Safety Lab",
+  "215\tEmployment Information Café",
+  "221\tConference Room",
+  "223\tEngineering School Dean's Office",
+  "224\tEngineering School Department Office",
+  "225\tEngineering School Administrative Office",
+  "231\tSeminar Room",
+  "232\tWater Industry Support Center",
+  "241\tConstruction Information Lab 1",
+  "244\tCALLAB 1",
+  "245\tArchitectural Design Studio",
+  "250\tDesign Review Room A",
+  "250-1\tDesign Review Room B",
+  "250-2\tDesign Review Room C",
+  "250-3\tDesign Review Room D",
+  "250-4\tDesign Review Room E",
+  "250-5\tDesign Review Room F",
+  "254\tDigital Workshop",
+  "260\tInformation Electronics New Materials Lab",
+  "261\tInformation Electronics New Materials Equipment Analysis Lab",
+  "261-1\tOrganic Soft Materials Properties Lab",
+  "263\tClassroom",
+  "265\tSeminar Room",
+  "266\tGraduate Lecture Room",
+  "267\tNew Faculty Lab",
+  "268\tSpace-Urban Innovation Lab",
+  "270\tMain Photomics Lab",
+  "271\tClinical Oncology Proteomics Lab",
+  "272\tNuclear Design/Experiment Lecture Room",
+  "274\tInformation Electronics New Materials Synthesis Lab",
+  "275\tEnvironmental Management System Engineering Lab",
+  "277\tEnvironmental Bioengineering Lab",
+  "278\tElectrochemical Energy Storage and Conversion Lab",
+  "280\tCopy Room",
+  "282\tJoint Club",
+  "282-1\tCEEC",
+  "282-10\tTodae",
+  "282-11\tWildCardz",
+  "282-12\tBlue School",
+  "282-13\tImpact",
+  "282-14\tBlue Pine",
+  "282-15\tSansahoe",
+  "282-16\tStress",
+  "282-17\tCM Research Club",
+  "282-18\tTalmeori",
+  "282-19\tSettler",
+  "282-2\tHwa Pyun Wee",
+  "282-20\tI-Robot",
+  "282-21\tSilo Buster",
+  "282-3\tING",
+  "282-4\tDeclaration",
+  "282-5\tMutppuri",
+  "282-6\tFC Chemical Engineering",
+  "282-7\tGeulnongeulim",
+  "282-8\tCLAPS",
+  "282-9\tBIM",
+  "2995A\tELEV Room",
+  "2997A\tStairwell",
+  "2997B\tStairwell",
+  "2997C\tStairwell",
+  "2997D\tStairwell",
+  "D2995A\tELEV Room",
+  "D2995B\tStairwell",
+  "D300-1\tCorridor",
+  "D300-2\tCorridor",
+  "D301\tSeminar Room",
+  "D302\tAudiovisual Room (Auditorium)",
+  "D303\tDesign Studio 3",
+  "D304\tDigital Print Room",
+  "300-1\tCorridor",
+  "300-2\tCorridor",
+  "300-3\tCorridor",
+  "300-4\tCorridor",
+  "301\tNano Catalyst Lab",
+  "305\t3S Lab",
+  "307\tRobot Control and Intelligence Lab",
+  "315\tThe People",
+  "321\tArtificial Intelligence based Architectural Engineering Lab",
+  "327\tElectrochemical Energy Storage and Conversion Lab III",
+  "329\tSoft Matter & Interface Engineering Lab II",
+  "331\tTechnology & Data Intelligence Lab",
+  "340\tWater Treatment Process Lab",
+  "341\tSoil and Waste Process Lab",
+  "342\tAir Process Lab",
+  "344\tAir Particle Treatment Lab",
+  "344-1\tPreparation Room",
+  "345\tShared Equipment Lab",
+  "345-1\tIndoor Air Research Lab",
+  "346\tEnvironmental Safety Assessment DB Analysis Lab",
+  "347\tEnvironmental Safety Assessment Lab",
+  "348\tAir & Environment Energy Nexus Lab",
+  "349\tApplied Ecology Lab",
+  "351\tApplied Ecology Analysis Lab",
+  "352\tWater and Soil Environment Management Lab",
+  "353\tExperiment Preparation Room",
+  "355\tClean Technology Lab",
+  "358\tEnvironmental Ecology Lab",
+  "359\tGIS Lab",
+  "361\tCrystalline Functional Process Technology Center (ERC)",
+  "361-1\tNano-Bio-MEMS Fusion Lab II",
+  "362\tOptimization Lab",
+  "363\tClassroom",
+  "364\tInformation Electronics New Materials Design Lab",
+  "365\tClassroom",
+  "367\tClassroom",
+  "368\tPost-Irradiation Nuclear Cycle Lab",
+  "369\tClassroom",
+  "371\tClassroom",
+  "372\tBridge Engineering Lab",
+  "374\tStructure System and Materials Lab",
+  "376\tWater Resources & Environment Big Data Lab",
+  "378\tWater Resources System Lab",
+  "380\tConcrete Structure Lab",
+  "380-1\tGeotechnical Engineering Lab",
+  "382\tSoil Test Lab",
+  "384\tPOP",
+  "3995A\tELEV Room",
+  "3997A\tStairwell",
+  "3997B\tStairwell",
+  "3997C\tStairwell",
+  "3997D\tStairwell",
+  "D3995A\tELEV Room",
+  "D3997A\tStairwell",
+  "D400-1\tCorridor",
+  "D400-2\tCorridor",
+  "D401\tEngineering Library",
+  "D402\tEngineering Library",
+  "D403\tGraduate Design Studio",
+  "400-1\tCorridor",
+  "400-2\tCorridor",
+  "400-3\tCorridor",
+  "400-4\tCorridor",
+  "400-5\tELEV Room",
+  "401-1\tFine Particle Flow Lab",
+  "409\tMaterials Chemistry Lab-1",
+  "410\tNano Analysis Lab-1",
+  "412\tNano Analysis Lab-2",
+  "413\tApplied Chemistry Department Office",
+  "424\tM&S Lab",
+  "426\tSmart Factory Lab",
+  "429\tProcess System & Intelligent Design Lab",
+  "433\tIntelligent Simulation & Analysis Lab",
+  "438\tArchitectural Structure Analysis Lab",
+  "440\tPolymer Chemistry Lab",
+  "441\tElectric Furnace",
+  "442\tMaterials Chemistry Lab",
+  "443\tBio-Organic Chemistry Lab",
+  "445\tPhysical Chemistry Lab",
+  "446\tNano Convergence Materials Lab-1",
+  "447\tNano Convergence Materials Lab",
+  "448\tShared Equipment Lab",
+  "449\tOrganic Synthesis and Catalytic Chemistry Lab",
+  "450\tEnergy Materials and Application Lab I",
+  "451\tLaser Chemistry Lab",
+  "452\tOrganic Synthesis Lab",
+  "453\tGRRC Center Administrative Office",
+  "454\tEnergy Materials and Application Lab II",
+  "455\tComputational Chemistry and Bio-Simulation Lab",
+  "456\tOrganic Synthesis Catalyst Lab-1",
+  "457\tOrganic Catalyst Synthesis Lab",
+  "458\tAnalytical Chemistry Lab",
+  "459\tOrganic Chemistry Lab",
+  "459-1\tTheoretical Computational Chemistry Lab-1",
+  "460\tCorridor",
+  "461\tCrystalline Functional Process Technology Lab",
+  "461-1\tPolymer New Materials and Process Lab",
+  "461-2\tCrystalline Functional Process Technology Center",
+  "462\tWearable Electronic Materials Lab",
+  "463\tCrystallization Technology Lab",
+  "464\tMaterials Design Lab",
+  "465\tOptoelectronic Materials Unique Characteristics Analysis Lab",
+  "465-1\tOptoelectronic Materials Unique Characteristics Analysis Lab",
+  "471-2\tI.F Convergence Design Lab",
+  "471-4\tTheoretical Computational Chemistry Lab-2",
+  "472\tENL Lab",
+  "476\tOrganic Optoelectronic Materials Lab",
+  "478-1\tFlexible Electronic Device Lab",
+  "480\tSNUC",
+  "4995A\tELEV Room",
+  "4997A\tStairwell",
+  "4997B\tStairwell",
+  "4997C\tStairwell",
+  "4997D\tStairwell",
+  "4997E\tStairwell",
+  "500-1\tCorridor",
+  "500-2\tCorridor",
+  "501\tStructural Behavior and Risk Assessment Lab",
+  "507\tGraduate Lecture Room",
+  "508\tCivil and Environmental Lab",
+  "509\tMonte Carlo Physics Lab",
+  "510\tArtificial Intelligence & Management Science Lab",
+  "522\tEngineering Graduate Seminar Room",
+  "524\tSmart Factory Lab",
+  "525\tMaterials Design & Theory Lab",
+  "526\tWearable Electronic Materials Lab",
+  "528\tBig Data Lab",
+  "529\tIndustrial Intelligence Lab",
+  "532\tConstruction Automation Lab",
+  "534\tSurvey Equipment Material Room",
+  "541\tBulgogi Party",
+  "561\tEngineering Student Association Seminar Room",
+  "5997A\tStairwell",
+  "5997B\tStairwell",
+  "5997C\tStairwell",
+  "5997D\tStairwell",
+  "5997E\tStairwell",
+  "600-1\tCommunication Room",
+  "602-1\tRadiation Engineering/Measurement Lab",
+  "602-2\tSuwon Regional Radioactivity Measurement Center",
+  "604\tPress Distribution",
+  "605\tSolar Thermal Lab",
+  "606\tSolar Thermal Lab",
+  "607\tWater Tank Room",
+  "6997A\tStairwell",
+  "6997B\tStairwell",
+  "6997C\tStairwell"
 ];

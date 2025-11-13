@@ -1,371 +1,371 @@
 export const guhaKo = [
-  "B101\t고려품새",
-  "B102\t기계실",
-  "B1997B\t계단실",
-  "100-1\t복도",
-  "100-2\t복도",
-  "100-3\t복도",
-  "100-4\t복도",
-  "100-5\t복도",
-  "101\t재무처 재무회계팀",
-  "103\t오픈랩",
-  "103-1\t진로취업상담실1",
-  "103-2\t진로취업상담실2",
-  "104\t학생식당",
-  "104-1\t교직원식당",
-  "104-2\t주방(사무실,냉장실,냉동실포함)",
-  "105\t진로취업상담실3",
-  "106\t매점",
-  "107\t신문자료실",
-  "108\t신문방송국행정실",
-  "109\t신문방송국국장실",
-  "110\t회의실",
-  "112\t영어신문편집실",
-  "112-1\t부속실",
-  "113\t대학주보편집실",
-  "113-1\t부속실",
-  "115\t로비 전시장",
-  "116\t카페테리아",
-  "1993A\tPS실",
-  "1995A\tELEV실",
-  "1997A\t계단실",
-  "1997B\t계단실",
-  "1997C\t계단실",
-  "1997D\t계단실",
-  "200-1\t복도",
-  "200-2\t복도",
-  "200-3\t복도",
-  "200-4\t복도",
-  "200-5\t복도",
-  "200-6\t복도",
-  "200-7\t복도",
-  "201A\t총학생회도서실",
-  "202\t방송자료실",
-  "203\t회의실",
-  "204\t휴게실",
-  "205\tTV 조정실",
-  "206\tTV스튜디오",
-  "207\t오디오스튜디오",
-  "208\t오디오조정실",
-  "210\t국원실",
-  "210-1\t부속실",
-  "214\t학생지원센터(학생)",
-  "214-1\t학생지원센터(학생) 세미나실",
-  "214-2\t학생지원센터(학생) 행정실",
-  "214-3\t학생지원센터(학생) 센터장실",
-  "215\t미래혁신원 단장실",
-  "216\t미래인재센터(취업/경력)",
-  "216-1\t학생지원센터(상담)",
-  "217\t학생지원센터(상담)",
-  "218\t심리상담센터",
-  "219\t연대본부",
-  "221\t학생지원센터(제증명)",
-  "222\t학생지원센터(장학)",
-  "227\t소극장",
-  "228\t노동조합사무실",
-  "229-1\t다목적회의실",
-  "230\t재무처장실",
-  "231\t총학생회 회의실 2",
-  "232\t다목적세미나실",
-  "241\t철거",
-  "242\t철거",
-  "2993A\tPS실",
-  "2995A\tELEV실",
-  "2997A\t계단실",
-  "2997B\t계단실",
-  "2997C\t계단실",
-  "2997D\t계단실",
-  "2997E\t계단실",
-  "300-1\t복도",
-  "300-2\t복도",
-  "301\t총학생회편집국",
-  "302\t졸업준비위원회(예비역협의회)",
-  "303\t총학생회",
-  "304\t학생복지위원회",
-  "306\t응원단",
-  "308\t총학생회사무실",
-  "309\t동아리연합회",
-  "310\t연습실",
-  "312\t연습실",
-  "3993A\tPS실",
-  "3995A\tELEV실",
-  "3997A\t계단실",
-  "3997B\t계단실",
-  "3997C\t계단실",
-  "3997D\t계단실",
-  "400-1\t복도",
-  "400-2\t복도",
-  "401\t무풍지대",
-  "402\tRap-In",
-  "403\t헤드라인",
-  "404\t네비게이트",
-  "405\t대학원총학생회",
-  "407\t삶사람",
-  "407-1\t삶과사람",
-  "408\tOutBoxer",
-  "411\t동아리연합회",
-  "412\tRap-In녹음실",
-  "413\t샷세",
-  "414\t시간여행",
-  "415\t음악마을",
-  "416\t동아리실",
-  "417\tKADA",
-  "418\tIXHLLG(Linux)",
-  "419\t빛사냥",
-  "4997A\t계단실",
-  "500-1\t복도",
-  "500-2\t복도",
-  "501\t부싯돌",
-  "502\t한누리",
-  "503\t아마야구",
-  "504\t흙사랑",
-  "505\t청맥",
-  "506\t우리말메아리",
-  "507\t에스페란토",
-  "508\tNews Week",
-  "509\tTTUM",
-  "510\tTusi",
-  "511\t동아리실",
-  "512\t등대",
-  "513\t등대",
-  "514\t호우회",
-  "515\t길마",
-  "516\t드래크스",
-  "517\t고은대",
-  "518\t스카우트",
-  "519\tKRC",
-  "520\t상록회",
-  "5997A\t계단실",
-  "600-1\t복도",
-  "600-2\t복도",
-  "601\t요트부",
-  "602\t스냅",
-  "603\t유스호스텔",
-  "604\t라이너스",
-  "605\t스킨스쿠버",
-  "606\t산악회",
-  "607\t손짓사랑회",
-  "608\t검도부",
-  "609\tTEN",
-  "610\t태백",
-  "611\t태백",
-  "612\tESF",
-  "613\t예수전도단",
-  "614\tCBA",
-  "615\tCAM",
-  "616\tUBF",
-  "617\tCCC",
-  "618\t가스펠",
-  "619\t카톨릭학생회",
-  "620\t선불회",
-  "6997A\t계단실",
-  "700-1\t복도",
-  "700-2\t복도",
-  "701\t경희극회",
-  "702\tKUCD",
-  "703\t알디라",
-  "704\t알디라",
-  "705\t비나리",
-  "706\t바람개비",
-  "707\t탈무드",
-  "709\t동아리실",
-  "710\t핵사",
-  "711\t탈무드",
-  "712\t동아리실",
-  "713\t동아리실",
-  "714\t만화통신",
-  "715\t산틀",
-  "716\t께뮤",
-  "717\tHAM",
-  "718\tHAM",
-  "719\t파인더",
-  "720\t파인더 암실",
-  "721A\t ",
-  "7997A\t계단실"
+  "B101\t고려품새",
+  "B102\t기계실",
+  "B1997B\t계단실",
+  "100-1\t복도",
+  "100-2\t복도",
+  "100-3\t복도",
+  "100-4\t복도",
+  "100-5\t복도",
+  "101\t재무처 재무회계팀",
+  "103\t오픈랩",
+  "103-1\t진로취업상담실1",
+  "103-2\t진로취업상담실2",
+  "104\t학생식당",
+  "104-1\t교직원식당",
+  "104-2\t주방(사무실,냉장실,냉동실포함)",
+  "105\t진로취업상담실3",
+  "106\t매점",
+  "107\t신문자료실",
+  "108\t신문방송국행정실",
+  "109\t신문방송국국장실",
+  "110\t회의실",
+  "112\t영어신문편집실",
+  "112-1\t부속실",
+  "113\t대학주보편집실",
+  "113-1\t부속실",
+  "115\t로비 전시장",
+  "116\t카페테리아",
+  "1993A\tPS실",
+  "1995A\tELEV실",
+  "1997A\t계단실",
+  "1997B\t계단실",
+  "1997C\t계단실",
+  "1997D\t계단실",
+  "200-1\t복도",
+  "200-2\t복도",
+  "200-3\t복도",
+  "200-4\t복도",
+  "200-5\t복도",
+  "200-6\t복도",
+  "200-7\t복도",
+  "201A\t총학생회도서실",
+  "202\t방송자료실",
+  "203\t회의실",
+  "204\t휴게실",
+  "205\tTV 조정실",
+  "206\tTV스튜디오",
+  "207\t오디오스튜디오",
+  "208\t오디오조정실",
+  "210\t국원실",
+  "210-1\t부속실",
+  "214\t학생지원센터(학생)",
+  "214-1\t학생지원센터(학생) 세미나실",
+  "214-2\t학생지원센터(학생) 행정실",
+  "214-3\t학생지원센터(학생) 센터장실",
+  "215\t미래혁신원 단장실",
+  "216\t미래인재센터(취업/경력)",
+  "216-1\t학생지원센터(상담)",
+  "217\t학생지원센터(상담)",
+  "218\t심리상담센터",
+  "219\t연대본부",
+  "221\t학생지원센터(제증명)",
+  "222\t학생지원센터(장학)",
+  "227\t소극장",
+  "228\t노동조합사무실",
+  "229-1\t다목적회의실",
+  "230\t재무처장실",
+  "231\t총학생회 회의실 2",
+  "232\t다목적세미나실",
+  "241\t철거",
+  "242\t철거",
+  "2993A\tPS실",
+  "2995A\tELEV실",
+  "2997A\t계단실",
+  "2997B\t계단실",
+  "2997C\t계단실",
+  "2997D\t계단실",
+  "2997E\t계단실",
+  "300-1\t복도",
+  "300-2\t복도",
+  "301\t총학생회편집국",
+  "302\t졸업준비위원회(예비역협의회)",
+  "303\t총학생회",
+  "304\t학생복지위원회",
+  "306\t응원단",
+  "308\t총학생회사무실",
+  "309\t동아리연합회",
+  "310\t연습실",
+  "312\t연습실",
+  "3993A\tPS실",
+  "3995A\tELEV실",
+  "3997A\t계단실",
+  "3997B\t계단실",
+  "3997C\t계단실",
+  "3997D\t계단실",
+  "400-1\t복도",
+  "400-2\t복도",
+  "401\t무풍지대",
+  "402\tRap-In",
+  "403\t헤드라인",
+  "404\t네비게이트",
+  "405\t대학원총학생회",
+  "407\t삶사람",
+  "407-1\t삶과사람",
+  "408\tOutBoxer",
+  "411\t동아리연합회",
+  "412\tRap-In녹음실",
+  "413\t샷세",
+  "414\t시간여행",
+  "415\t음악마을",
+  "416\t동아리실",
+  "417\tKADA",
+  "418\tIXHLLG(Linux)",
+  "419\t빛사냥",
+  "4997A\t계단실",
+  "500-1\t복도",
+  "500-2\t복도",
+  "501\t부싯돌",
+  "502\t한누리",
+  "503\t아마야구",
+  "504\t흙사랑",
+  "505\t청맥",
+  "506\t우리말메아리",
+  "507\t에스페란토",
+  "508\tNews Week",
+  "509\tTTUM",
+  "510\tTusi",
+  "511\t동아리실",
+  "512\t등대",
+  "513\t등대",
+  "514\t호우회",
+  "515\t길마",
+  "516\t드래크스",
+  "517\t고은대",
+  "518\t스카우트",
+  "519\tKRC",
+  "520\t상록회",
+  "5997A\t계단실",
+  "600-1\t복도",
+  "600-2\t복도",
+  "601\t요트부",
+  "602\t스냅",
+  "603\t유스호스텔",
+  "604\t라이너스",
+  "605\t스킨스쿠버",
+  "606\t산악회",
+  "607\t손짓사랑회",
+  "608\t검도부",
+  "609\tTEN",
+  "610\t태백",
+  "611\t태백",
+  "612\tESF",
+  "613\t예수전도단",
+  "614\tCBA",
+  "615\tCAM",
+  "616\tUBF",
+  "617\tCCC",
+  "618\t가스펠",
+  "619\t카톨릭학생회",
+  "620\t선불회",
+  "6997A\t계단실",
+  "700-1\t복도",
+  "700-2\t복도",
+  "701\t경희극회",
+  "702\tKUCD",
+  "703\t알디라",
+  "704\t알디라",
+  "705\t비나리",
+  "706\t바람개비",
+  "707\t탈무드",
+  "709\t동아리실",
+  "710\t핵사",
+  "711\t탈무드",
+  "712\t동아리실",
+  "713\t동아리실",
+  "714\t만화통신",
+  "715\t산틀",
+  "716\t께뮤",
+  "717\tHAM",
+  "718\tHAM",
+  "719\t파인더",
+  "720\t파인더 암실",
+  "721A\t ",
+  "7997A\t계단실"
 ];
 
 export const guhaEn = [
-  "B101\tGoryeo Poomsae",
-  "B102\tMachine Room",
-  "B1997B\tStairwell",
-  "100-1\tCorridor",
-  "100-2\tCorridor",
-  "100-3\tCorridor",
-  "100-4\tCorridor",
-  "100-5\tCorridor",
-  "101\tFinance and Accounting Team",
-  "103\tOpen Lab",
-  "103-1\tCareer and Employment Counseling Office 1",
-  "103-2\tCareer and Employment Counseling Office 2",
-  "104\tStudent Dining Hall",
-  "104-1\tFaculty Dining Hall",
-  "104-2\tKitchen (Offices, Cold Storage, Freezer)",
-  "105\tCareer and Employment Counseling Office 3",
-  "106\tMart",
-  "107\tNewspaper Material Room",
-  "108\tNewspaper and Broadcasting Administrative Office",
-  "109\tNewspaper and Broadcasting Director's Office",
-  "110\tConference Room",
-  "112\tEnglish Newspaper Editing Lab",
-  "112-1\tAuxiliary Room",
-  "113\tUniversity Newsletter Editing Lab",
-  "113-1\tAuxiliary Room",
-  "115\tLobby Exhibition Space",
-  "116\tCafeteria",
-  "1993A\tPS Room",
-  "1995A\tELEV Room",
-  "1997A\tStairwell",
-  "1997B\tStairwell",
-  "1997C\tStairwell",
-  "1997D\tStairwell",
-  "200-1\tCorridor",
-  "200-2\tCorridor",
-  "200-3\tCorridor",
-  "200-4\tCorridor",
-  "200-5\tCorridor",
-  "200-6\tCorridor",
-  "200-7\tCorridor",
-  "201A\tStudent Council Library",
-  "202\tBroadcasting Material Room",
-  "203\tConference Room",
-  "204\tBreak Room",
-  "205\tTV Control Room",
-  "206\tTV Studio",
-  "207\tAudio Studio",
-  "208\tAudio Control Room",
-  "210\tNational Assembly Office",
-  "210-1\tAuxiliary Room",
-  "214\tStudent Support Center (Student)",
-  "214-1\tStudent Support Center (Student) Seminar Room",
-  "214-2\tStudent Support Center (Student) Administrative Office",
-  "214-3\tStudent Support Center (Student) Center Director's Office",
-  "215\tFuture Innovation Director's Office",
-  "216\tFuture Talent Center (Career/Employment)",
-  "216-1\tStudent Support Center (Counseling)",
-  "217\tStudent Support Center (Counseling)",
-  "218\tPsychological Counseling Center",
-  "219\tSolidarity Headquarters",
-  "221\tStudent Support Center (Certificates)",
-  "222\tStudent Support Center (Scholarships)",
-  "227\tLittle Theatre",
-  "228\tLabor Union Office",
-  "229-1\tMultipurpose Conference Room",
-  "230\tFinance Director's Office",
-  "231\tStudent Council Conference Room 2",
-  "232\tMultipurpose Seminar Room",
-  "241\tDemolition",
-  "242\tDemolition",
-  "2993A\tPS Room",
-  "2995A\tELEV Room",
-  "2997A\tStairwell",
-  "2997B\tStairwell",
-  "2997C\tStairwell",
-  "2997D\tStairwell",
-  "2997E\tStairwell",
-  "300-1\tCorridor",
-  "300-2\tCorridor",
-  "301\tStudent Council Editorial Department",
-  "302\tGraduation Preparation Committee (Reserve Forces Council)",
-  "303\tStudent Council",
-  "304\tStudent Welfare Committee",
-  "306\tCheering Squad",
-  "308\tStudent Council Office",
-  "309\tClub Federation",
-  "310\tPractice Room",
-  "312\tPractice Room",
-  "3993A\tPS Room",
-  "3995A\tELEV Room",
-  "3997A\tStairwell",
-  "3997B\tStairwell",
-  "3997C\tStairwell",
-  "3997D\tStairwell",
-  "400-1\tCorridor",
-  "400-2\tCorridor",
-  "401\tWind-Free Zone",
-  "402\tRap-In",
-  "403\tHeadline",
-  "404\tNavigate",
-  "405\tGraduate Student Council",
-  "407\tLife and People",
-  "407-1\tLife and People",
-  "408\tOutBoxer",
-  "411\tClub Federation",
-  "412\tRap-In Recording Lab",
-  "413\tShot Say",
-  "414\tTime Travel",
-  "415\tMusic Village",
-  "416\tClub Room",
-  "417\tKADA",
-  "418\tIXHLLG (Linux)",
-  "419\tLight Hunting",
-  "4997A\tStairwell",
-  "500-1\tCorridor",
-  "500-2\tCorridor",
-  "501\tFlint",
-  "502\tHanuri",
-  "503\tAma Baseball",
-  "504\tEarth Love",
-  "505\tBlue Pine",
-  "506\tOur Language Echo",
-  "507\tEsperanto",
-  "508\tNews Week",
-  "509\tTTUM",
-  "510\tTusi",
-  "511\tClub Room",
-  "512\tLighthouse",
-  "513\tLighthouse",
-  "514\tHo-u Association",
-  "515\tGilma",
-  "516\tDrake's",
-  "517\tGoeun Dae",
-  "518\tScout",
-  "519\tKRC",
-  "520\tEvergreen",
-  "5997A\tStairwell",
-  "600-1\tCorridor",
-  "600-2\tCorridor",
-  "601\tYacht Club",
-  "602\tSnap",
-  "603\tYouth Hostel",
-  "604\tLinus",
-  "605\tScuba Diving",
-  "606\tMountain Climbing Club",
-  "607\tSign Language Love Society",
-  "608\tKendo Club",
-  "609\tTEN",
-  "610\tTaebaek",
-  "611\tTaebaek",
-  "612\tESF",
-  "613\tGospel Evangelism",
-  "614\tCBA",
-  "615\tCAM",
-  "616\tUBF",
-  "617\tCCC",
-  "618\tGospel",
-  "619\tCatholic Student Association",
-  "620\tPro Bono Association",
-  "6997A\tStairwell",
-  "700-1\tCorridor",
-  "700-2\tCorridor",
-  "701\tKyunghee Theater Club",
-  "702\tKUCD",
-  "703\tAldila",
-  "704\tAldila",
-  "705\tBinari",
-  "706\tWindmill",
-  "707\tTalmud",
-  "709\tClub Room",
-  "710\tHexsa",
-  "711\tTalmud",
-  "712\tClub Room",
-  "713\tClub Room",
-  "714\tWebtoon Communication",
-  "715\tSantle",
-  "716\tKkaemyu",
-  "717\tHAM",
-  "718\tHAM",
-  "719\tFinder",
-  "720\tFinder Dark Room",
-  "721A\t ",
-  "7997A\tStairwell"
+  "B101\tGoryeo Poomsae",
+  "B102\tMachine Room",
+  "B1997B\tStairwell",
+  "100-1\tCorridor",
+  "100-2\tCorridor",
+  "100-3\tCorridor",
+  "100-4\tCorridor",
+  "100-5\tCorridor",
+  "101\tFinance and Accounting Team",
+  "103\tOpen Lab",
+  "103-1\tCareer and Employment Counseling Office 1",
+  "103-2\tCareer and Employment Counseling Office 2",
+  "104\tStudent Dining Hall",
+  "104-1\tFaculty Dining Hall",
+  "104-2\tKitchen (Offices, Cold Storage, Freezer)",
+  "105\tCareer and Employment Counseling Office 3",
+  "106\tMart",
+  "107\tNewspaper Material Room",
+  "108\tNewspaper and Broadcasting Administrative Office",
+  "109\tNewspaper and Broadcasting Director's Office",
+  "110\tConference Room",
+  "112\tEnglish Newspaper Editing Lab",
+  "112-1\tAuxiliary Room",
+  "113\tUniversity Newsletter Editing Lab",
+  "113-1\tAuxiliary Room",
+  "115\tLobby Exhibition Space",
+  "116\tCafeteria",
+  "1993A\tPS Room",
+  "1995A\tELEV Room",
+  "1997A\tStairwell",
+  "1997B\tStairwell",
+  "1997C\tStairwell",
+  "1997D\tStairwell",
+  "200-1\tCorridor",
+  "200-2\tCorridor",
+  "200-3\tCorridor",
+  "200-4\tCorridor",
+  "200-5\tCorridor",
+  "200-6\tCorridor",
+  "200-7\tCorridor",
+  "201A\tStudent Council Library",
+  "202\tBroadcasting Material Room",
+  "203\tConference Room",
+  "204\tBreak Room",
+  "205\tTV Control Room",
+  "206\tTV Studio",
+  "207\tAudio Studio",
+  "208\tAudio Control Room",
+  "210\tNational Assembly Office",
+  "210-1\tAuxiliary Room",
+  "214\tStudent Support Center (Student)",
+  "214-1\tStudent Support Center (Student) Seminar Room",
+  "214-2\tStudent Support Center (Student) Administrative Office",
+  "214-3\tStudent Support Center (Student) Center Director's Office",
+  "215\tFuture Innovation Director's Office",
+  "216\tFuture Talent Center (Career/Employment)",
+  "216-1\tStudent Support Center (Counseling)",
+  "217\tStudent Support Center (Counseling)",
+  "218\tPsychological Counseling Center",
+  "219\tSolidarity Headquarters",
+  "221\tStudent Support Center (Certificates)",
+  "222\tStudent Support Center (Scholarships)",
+  "227\tLittle Theatre",
+  "228\tLabor Union Office",
+  "229-1\tMultipurpose Conference Room",
+  "230\tFinance Director's Office",
+  "231\tStudent Council Conference Room 2",
+  "232\tMultipurpose Seminar Room",
+  "241\tDemolition",
+  "242\tDemolition",
+  "2993A\tPS Room",
+  "2995A\tELEV Room",
+  "2997A\tStairwell",
+  "2997B\tStairwell",
+  "2997C\tStairwell",
+  "2997D\tStairwell",
+  "2997E\tStairwell",
+  "300-1\tCorridor",
+  "300-2\tCorridor",
+  "301\tStudent Council Editorial Department",
+  "302\tGraduation Preparation Committee (Reserve Forces Council)",
+  "303\tStudent Council",
+  "304\tStudent Welfare Committee",
+  "306\tCheering Squad",
+  "308\tStudent Council Office",
+  "309\tClub Federation",
+  "310\tPractice Room",
+  "312\tPractice Room",
+  "3993A\tPS Room",
+  "3995A\tELEV Room",
+  "3997A\tStairwell",
+  "3997B\tStairwell",
+  "3997C\tStairwell",
+  "3997D\tStairwell",
+  "400-1\tCorridor",
+  "400-2\tCorridor",
+  "401\tWind-Free Zone",
+  "402\tRap-In",
+  "403\tHeadline",
+  "404\tNavigate",
+  "405\tGraduate Student Council",
+  "407\tLife and People",
+  "407-1\tLife and People",
+  "408\tOutBoxer",
+  "411\tClub Federation",
+  "412\tRap-In Recording Lab",
+  "413\tShot Say",
+  "414\tTime Travel",
+  "415\tMusic Village",
+  "416\tClub Room",
+  "417\tKADA",
+  "418\tIXHLLG (Linux)",
+  "419\tLight Hunting",
+  "4997A\tStairwell",
+  "500-1\tCorridor",
+  "500-2\tCorridor",
+  "501\tFlint",
+  "502\tHanuri",
+  "503\tAma Baseball",
+  "504\tEarth Love",
+  "505\tBlue Pine",
+  "506\tOur Language Echo",
+  "507\tEsperanto",
+  "508\tNews Week",
+  "509\tTTUM",
+  "510\tTusi",
+  "511\tClub Room",
+  "512\tLighthouse",
+  "513\tLighthouse",
+  "514\tHo-u Association",
+  "515\tGilma",
+  "516\tDrake's",
+  "517\tGoeun Dae",
+  "518\tScout",
+  "519\tKRC",
+  "520\tEvergreen",
+  "5997A\tStairwell",
+  "600-1\tCorridor",
+  "600-2\tCorridor",
+  "601\tYacht Club",
+  "602\tSnap",
+  "603\tYouth Hostel",
+  "604\tLinus",
+  "605\tScuba Diving",
+  "606\tMountain Climbing Club",
+  "607\tSign Language Love Society",
+  "608\tKendo Club",
+  "609\tTEN",
+  "610\tTaebaek",
+  "611\tTaebaek",
+  "612\tESF",
+  "613\tGospel Evangelism",
+  "614\tCBA",
+  "615\tCAM",
+  "616\tUBF",
+  "617\tCCC",
+  "618\tGospel",
+  "619\tCatholic Student Association",
+  "620\tPro Bono Association",
+  "6997A\tStairwell",
+  "700-1\tCorridor",
+  "700-2\tCorridor",
+  "701\tKyunghee Theater Club",
+  "702\tKUCD",
+  "703\tAldila",
+  "704\tAldila",
+  "705\tBinari",
+  "706\tWindmill",
+  "707\tTalmud",
+  "709\tClub Room",
+  "710\tHexsa",
+  "711\tTalmud",
+  "712\tClub Room",
+  "713\tClub Room",
+  "714\tWebtoon Communication",
+  "715\tSantle",
+  "716\tKkaemyu",
+  "717\tHAM",
+  "718\tHAM",
+  "719\tFinder",
+  "720\tFinder Dark Room",
+  "721A\t ",
+  "7997A\tStairwell"
 ];

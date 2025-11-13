@@ -1,413 +1,413 @@
 export const gumKo = [
-  "B200-1\t복도\t멀티미디어교육관",
-  "B200-2\t복도\t멀티미디어교육관",
-  "B201\t나노광전자소자연구실\t멀티미디어교육관",
-  "B202\t프린터블기능재료연구실 II\t멀티미디어교육관",
-  "B203\t분자제어연구실 II (Molecular Control Laboratory II)\t멀티미디어교육관",
-  "B204\t분자제어연구실 VI (Molecular Control Laboratory VI)\t멀티미디어교육관",
-  "B205\t반도체광전자연구실\t멀티미디어교육관",
-  "B207\t관리사무소\t멀티미디어교육관",
-  "B221\t기계실\t멀티미디어교육관",
-  "b2993A\tPS실\t멀티미디어교육관",
-  "b2993B\tEPS실\t멀티미디어교육관",
-  "b2995A\tELEV실\t멀티미디어교육관",
-  "b2997A\t계단실\t멀티미디어교육관",
-  "b2997B\t계단실\t멀티미디어교육관",
-  "b2997C\t계단실\t멀티미디어교육관",
-  "B100-1\t복도\t멀티미디어교육관",
-  "B100-2\t복도\t멀티미디어교육관",
-  "B101\t소장실\t멀티미디어교육관",
-  "B102\t회의실\t멀티미디어교육관",
-  "B103\tRIC행정실\t멀티미디어교육관",
-  "B104\t창업보육실\t멀티미디어교육관",
-  "B105\tFPDFab\t멀티미디어교육관",
-  "B106\t준비실\t멀티미디어교육관",
-  "B107\t소재화학실험실\t멀티미디어교육관",
-  "B108\t박막공정실\t멀티미디어교육관",
-  "B109\t소재물성평가실\t멀티미디어교육관",
-  "B110\t교육강의실\t멀티미디어교육관",
-  "B111\t디스플레이특성평가실\t멀티미디어교육관",
-  "B112\t제어및복잡시스템연구실\t멀티미디어교육관",
-  "B113\t공조.기계실\t멀티미디어교육관",
-  "B114\t계단강의실\t멀티미디어교육관",
-  "B115\t복사실\t멀티미디어교육관",
-  "b1993A\tPS실\t멀티미디어교육관",
-  "b1993B\tEPS실\t멀티미디어교육관",
-  "b1995A\tELEV실\t멀티미디어교육관",
-  "b1997A\t계단실\t멀티미디어교육관",
-  "b1997B\t계단실\t멀티미디어교육관",
-  "b1997C\t계단실\t멀티미디어교육관",
-  "100-1\t복도\t멀티미디어교육관",
-  "100-2\t복도\t멀티미디어교육관",
-  "101\t강의실\t멀티미디어교육관",
-  "102\t후마니타스라운지\t멀티미디어교육관",
-  "103\t강의실\t멀티미디어교육관",
-  "104\t후마니타스라운지II\t멀티미디어교육관",
-  "106\t로비\t멀티미디어교육관",
-  "107\t강의실\t멀티미디어교육관",
-  "108\t강의실\t멀티미디어교육관",
-  "109\t강의실\t멀티미디어교육관",
-  "110\t중핵/체육교과연구실\t멀티미디어교육관",
-  "111\t공조기계실\t멀티미디어교육관",
-  "112\t계단강의실\t멀티미디어교육관",
-  "1993A\tPS실\t멀티미디어교육관",
-  "1993B\tEPS실\t멀티미디어교육관",
-  "1995A\tELEV실\t멀티미디어교육관",
-  "1997A\t계단실\t멀티미디어교육관",
-  "1997B\t계단실\t멀티미디어교육관",
-  "1997C\t계단실\t멀티미디어교육관",
-  "200-1\t복도\t멀티미디어교육관",
-  "201\t강의실\t멀티미디어교육관",
-  "202\t강의실\t멀티미디어교육관",
-  "203\t전산실\t멀티미디어교육관",
-  "204\t강의실\t멀티미디어교육관",
-  "205\t강의실\t멀티미디어교육관",
-  "206\t강의실\t멀티미디어교육관",
-  "207\t강의실\t멀티미디어교육관",
-  "208\t강의실\t멀티미디어교육관",
-  "209\t시민교과연구실\t멀티미디어교육관",
-  "210\t계단강의실\t멀티미디어교육관",
-  "2993A\tPS실\t멀티미디어교육관",
-  "2993B\tEPS실\t멀티미디어교육관",
-  "2995A\tELEV실\t멀티미디어교육관",
-  "2997A\t계단실\t멀티미디어교육관",
-  "2997B\t계단실\t멀티미디어교육관",
-  "2997C\t계단실\t멀티미디어교육관",
-  "300-1\t복도\t멀티미디어교육관",
-  "301\t물리실험준비실(Ⅰ)\t멀티미디어교육관",
-  "302\t물리실험실(Ⅰ) & 생물실험실\t멀티미디어교육관",
-  "303\t물리실험준비실(Ⅱ)\t멀티미디어교육관",
-  "304\t물리실험실(Ⅱ)\t멀티미디어교육관",
-  "305\t물리실험실(Ⅲ)\t멀티미디어교육관",
-  "306\t물리실험실(Ⅳ)\t멀티미디어교육관",
-  "307\t에너지신소재연구실\t멀티미디어교육관",
-  "308\t일반화학실험실(Ⅰ)\t멀티미디어교육관",
-  "309\t일반화학실험실(Ⅱ)\t멀티미디어교육관",
-  "310\t생물실험준비실\t멀티미디어교육관",
-  "311\t화학실험준비실\t멀티미디어교육관",
-  "312\t계단강의실\t멀티미디어교육관",
-  "3993A\tPS실\t멀티미디어교육관",
-  "3993B\tEPS실\t멀티미디어교육관",
-  "3995A\tELEV실\t멀티미디어교육관",
-  "3997A\t계단실\t멀티미디어교육관",
-  "3997B\t계단실\t멀티미디어교육관",
-  "3997C\t계단실\t멀티미디어교육관",
-  "400-1\t복도\t멀티미디어교육관",
-  "401\t강의실\t멀티미디어교육관",
-  "402\t강의실\t멀티미디어교육관",
-  "402-1\t수업행동분석실\t멀티미디어교육관",
-  "403\t강의실\t멀티미디어교육관",
-  "404\t강의실\t멀티미디어교육관",
-  "405\t강의실\t멀티미디어교육관",
-  "406\t강의실\t멀티미디어교육관",
-  "407\t강의실\t멀티미디어교육관",
-  "408\t강의실\t멀티미디어교육관",
-  "409\t강의실\t멀티미디어교육관",
-  "410\t강의실\t멀티미디어교육관",
-  "411\t계단강의실\t멀티미디어교육관",
-  "4993A\tPS실\t멀티미디어교육관",
-  "4993B\tEPS실\t멀티미디어교육관",
-  "4995A\tELEV실\t멀티미디어교육관",
-  "4997A\t계단실\t멀티미디어교육관",
-  "4997B\t계단실\t멀티미디어교육관",
-  "4997C\t계단실\t멀티미디어교육관",
-  "500-1\t복도\t멀티미디어교육관",
-  "501\t임용고사실\t멀티미디어교육관",
-  "502\t교육대학원 세미나실\t멀티미디어교육관",
-  "502-1\t교육대학원 회의실\t멀티미디어교육관",
-  "503\t중등교육연수원\t멀티미디어교육관",
-  "504\t교육대학원행정실\t멀티미디어교육관",
-  "505\t기자재실\t멀티미디어교육관",
-  "506\t교강사 강의준비실\t멀티미디어교육관",
-  "507\t교강사 휴게실\t멀티미디어교육관",
-  "508\t수업지원실\t멀티미디어교육관",
-  "509\t소회의실\t멀티미디어교육관",
-  "510\t후마니타스칼리지 학장실\t멀티미디어교육관",
-  "511\t후마니타스칼리지 행정실\t멀티미디어교육관",
-  "512\t강의실\t멀티미디어교육관",
-  "513\t계단강의실\t멀티미디어교육관",
-  "5993A\tPS실\t멀티미디어교육관",
-  "5993B\tEPS실\t멀티미디어교육관",
-  "5995A\tELEV실\t멀티미디어교육관",
-  "5997A\t계단실\t멀티미디어교육관",
-  "5997B\t계단실\t멀티미디어교육관",
-  "5997C\t계단실\t멀티미디어교육관",
-  "600-1\t복도\t멀티미디어교육관",
-  "601\tAnalysis & Biomath Lab\t멀티미디어교육관",
-  "601-1\t나노융합연구실\t멀티미디어교육관",
-  "602\t강의실\t멀티미디어교육관",
-  "603\t강의실\t멀티미디어교육관",
-  "604\t강의실\t멀티미디어교육관",
-  "605\t지능정보시스템연구실\t멀티미디어교육관",
-  "605-1\t교육대학원 원우회실\t멀티미디어교육관",
-  "606-1\t회의실\t멀티미디어교육관",
-  "606-2\t후마니타스칼리지 대학장실\t멀티미디어교육관",
-  "607\t강의실\t멀티미디어교육관",
-  "608\t강의실\t멀티미디어교육관",
-  "609\t강의실\t멀티미디어교육관",
-  "610\t강의실\t멀티미디어교육관",
-  "611\t강의실\t멀티미디어교육관",
-  "612\t계단강의실\t멀티미디어교육관",
-  "6993A\tPS실\t멀티미디어교육관",
-  "6993B\tEPS실\t멀티미디어교육관",
-  "6995A\tELEV실\t멀티미디어교육관",
-  "6997A\t계단실\t멀티미디어교육관",
-  "6997B\t계단실\t멀티미디어교육관",
-  "6997C\t계단실\t멀티미디어교육관",
-  "700-1\t복도\t멀티미디어교육관",
-  "701\t강의실\t멀티미디어교육관",
-  "702\t강의실\t멀티미디어교육관",
-  "703\t강의실\t멀티미디어교육관",
-  "704\t강의실\t멀티미디어교육관",
-  "705\t강의실\t멀티미디어교육관",
-  "705-1\t강의실\t멀티미디어교육관",
-  "706\t테크노경영대학원 세미나실\t멀티미디어교육관",
-  "707\t테크노경영대학원 원우회\t멀티미디어교육관",
-  "708\t테크노경영대학원 행정실\t멀티미디어교육관",
-  "709\t테크노경영대학원 행정실\t멀티미디어교육관",
-  "711-1\t수업준비실\t멀티미디어교육관",
-  "712-2\t최고경영자과정총동문회실\t멀티미디어교육관",
-  "713\t최고경영자과정/ 석사과정 강의실(계단)\t멀티미디어교육관",
-  "7993A\tPS실\t멀티미디어교육관",
-  "7993B\tEPS실\t멀티미디어교육관",
-  "7995A\tELEV실\t멀티미디어교육관",
-  "7997A\t계단실\t멀티미디어교육관",
-  "7997B\t계단실\t멀티미디어교육관",
-  "7997C\t계단실\t멀티미디어교육관",
-  "800-1\t복도\t멀티미디어교육관",
-  "803\t강의실\t멀티미디어교육관",
-  "805\t강의실\t멀티미디어교육관",
-  "807\t경기녹색환경지원센터(회의실)\t멀티미디어교육관",
-  "811\t커뮤니케이션센터\t멀티미디어교육관",
-  "812\t경희사이버대학 경기학습관\t멀티미디어교육관",
-  "813\t자유전공학부 상담실\t멀티미디어교육관",
-  "814\t공학교육혁신센터\t멀티미디어교육관",
-  "815\t강의실\t멀티미디어교육관",
-  "818\t경기녹색환경지원센터(사무실)\t멀티미디어교육관",
-  "819\t경기녹색환경지원센터(사무실)\t멀티미디어교육관",
-  "820\t교육혁신추진사업단\t멀티미디어교육관",
-  "821\t교육혁신추진사업단\t멀티미디어교육관",
-  "826\t계단강의실\t멀티미디어교육관",
-  "8993A\tEPS실\t멀티미디어교육관",
-  "8993B\tEPS실\t멀티미디어교육관",
-  "8995A\tELEV실\t멀티미디어교육관",
-  "8997A\t계단실\t멀티미디어교육관",
-  "8997B\t계단실\t멀티미디어교육관",
-  "8997C\t계단실\t멀티미디어교육관",
-  "900-1\t복도\t멀티미디어교육관",
-  "914\t세미나실\t멀티미디어교육관",
-  "928\t공조기계실\t멀티미디어교육관",
-  "9993A\tPS실\t멀티미디어교육관",
-  "9993B\tEPS실\t멀티미디어교육관",
-  "9995A\tELEV실\t멀티미디어교육관",
-  "9997A\t계단실\t멀티미디어교육관",
-  "9997B\t계단실\t멀티미디어교육관",
-  "9997C\t계단실\t멀티미디어교육관"
+  "B200-1\t복도\t멀티미디어교육관",
+  "B200-2\t복도\t멀티미디어교육관",
+  "B201\t나노광전자소자연구실\t멀티미디어교육관",
+  "B202\t프린터블기능재료연구실 II\t멀티미디어교육관",
+  "B203\t분자제어연구실 II (Molecular Control Laboratory II)\t멀티미디어교육관",
+  "B204\t분자제어연구실 VI (Molecular Control Laboratory VI)\t멀티미디어교육관",
+  "B205\t반도체광전자연구실\t멀티미디어교육관",
+  "B207\t관리사무소\t멀티미디어교육관",
+  "B221\t기계실\t멀티미디어교육관",
+  "b2993A\tPS실\t멀티미디어교육관",
+  "b2993B\tEPS실\t멀티미디어교육관",
+  "b2995A\tELEV실\t멀티미디어교육관",
+  "b2997A\t계단실\t멀티미디어교육관",
+  "b2997B\t계단실\t멀티미디어교육관",
+  "b2997C\t계단실\t멀티미디어교육관",
+  "B100-1\t복도\t멀티미디어교육관",
+  "B100-2\t복도\t멀티미디어교육관",
+  "B101\t소장실\t멀티미디어교육관",
+  "B102\t회의실\t멀티미디어교육관",
+  "B103\tRIC행정실\t멀티미디어교육관",
+  "B104\t창업보육실\t멀티미디어교육관",
+  "B105\tFPDFab\t멀티미디어교육관",
+  "B106\t준비실\t멀티미디어교육관",
+  "B107\t소재화학실험실\t멀티미디어교육관",
+  "B108\t박막공정실\t멀티미디어교육관",
+  "B109\t소재물성평가실\t멀티미디어교육관",
+  "B110\t교육강의실\t멀티미디어교육관",
+  "B111\t디스플레이특성평가실\t멀티미디어교육관",
+  "B112\t제어및복잡시스템연구실\t멀티미디어교육관",
+  "B113\t공조.기계실\t멀티미디어교육관",
+  "B114\t계단강의실\t멀티미디어교육관",
+  "B115\t복사실\t멀티미디어교육관",
+  "b1993A\tPS실\t멀티미디어교육관",
+  "b1993B\tEPS실\t멀티미디어교육관",
+  "b1995A\tELEV실\t멀티미디어교육관",
+  "b1997A\t계단실\t멀티미디어교육관",
+  "b1997B\t계단실\t멀티미디어교육관",
+  "b1997C\t계단실\t멀티미디어교육관",
+  "100-1\t복도\t멀티미디어교육관",
+  "100-2\t복도\t멀티미디어교육관",
+  "101\t강의실\t멀티미디어교육관",
+  "102\t후마니타스라운지\t멀티미디어교육관",
+  "103\t강의실\t멀티미디어교육관",
+  "104\t후마니타스라운지II\t멀티미디어교육관",
+  "106\t로비\t멀티미디어교육관",
+  "107\t강의실\t멀티미디어교육관",
+  "108\t강의실\t멀티미디어교육관",
+  "109\t강의실\t멀티미디어교육관",
+  "110\t중핵/체육교과연구실\t멀티미디어교육관",
+  "111\t공조기계실\t멀티미디어교육관",
+  "112\t계단강의실\t멀티미디어교육관",
+  "1993A\tPS실\t멀티미디어교육관",
+  "1993B\tEPS실\t멀티미디어교육관",
+  "1995A\tELEV실\t멀티미디어교육관",
+  "1997A\t계단실\t멀티미디어교육관",
+  "1997B\t계단실\t멀티미디어교육관",
+  "1997C\t계단실\t멀티미디어교육관",
+  "200-1\t복도\t멀티미디어교육관",
+  "201\t강의실\t멀티미디어교육관",
+  "202\t강의실\t멀티미디어교육관",
+  "203\t전산실\t멀티미디어교육관",
+  "204\t강의실\t멀티미디어교육관",
+  "205\t강의실\t멀티미디어교육관",
+  "206\t강의실\t멀티미디어교육관",
+  "207\t강의실\t멀티미디어교육관",
+  "208\t강의실\t멀티미디어교육관",
+  "209\t시민교과연구실\t멀티미디어교육관",
+  "210\t계단강의실\t멀티미디어교육관",
+  "2993A\tPS실\t멀티미디어교육관",
+  "2993B\tEPS실\t멀티미디어교육관",
+  "2995A\tELEV실\t멀티미디어교육관",
+  "2997A\t계단실\t멀티미디어교육관",
+  "2997B\t계단실\t멀티미디어교육관",
+  "2997C\t계단실\t멀티미디어교육관",
+  "300-1\t복도\t멀티미디어교육관",
+  "301\t물리실험준비실(Ⅰ)\t멀티미디어교육관",
+  "302\t물리실험실(Ⅰ) & 생물실험실\t멀티미디어교육관",
+  "303\t물리실험준비실(Ⅱ)\t멀티미디어교육관",
+  "304\t물리실험실(Ⅱ)\t멀티미디어교육관",
+  "305\t물리실험실(Ⅲ)\t멀티미디어교육관",
+  "306\t물리실험실(Ⅳ)\t멀티미디어교육관",
+  "307\t에너지신소재연구실\t멀티미디어교육관",
+  "308\t일반화학실험실(Ⅰ)\t멀티미디어교육관",
+  "309\t일반화학실험실(Ⅱ)\t멀티미디어교육관",
+  "310\t생물실험준비실\t멀티미디어교육관",
+  "311\t화학실험준비실\t멀티미디어교육관",
+  "312\t계단강의실\t멀티미디어교육관",
+  "3993A\tPS실\t멀티미디어교육관",
+  "3993B\tEPS실\t멀티미디어교육관",
+  "3995A\tELEV실\t멀티미디어교육관",
+  "3997A\t계단실\t멀티미디어교육관",
+  "3997B\t계단실\t멀티미디어교육관",
+  "3997C\t계단실\t멀티미디어교육관",
+  "400-1\t복도\t멀티미디어교육관",
+  "401\t강의실\t멀티미디어교육관",
+  "402\t강의실\t멀티미디어교육관",
+  "402-1\t수업행동분석실\t멀티미디어교육관",
+  "403\t강의실\t멀티미디어교육관",
+  "404\t강의실\t멀티미디어교육관",
+  "405\t강의실\t멀티미디어교육관",
+  "406\t강의실\t멀티미디어교육관",
+  "407\t강의실\t멀티미디어교육관",
+  "408\t강의실\t멀티미디어교육관",
+  "409\t강의실\t멀티미디어교육관",
+  "410\t강의실\t멀티미디어교육관",
+  "411\t계단강의실\t멀티미디어교육관",
+  "4993A\tPS실\t멀티미디어교육관",
+  "4993B\tEPS실\t멀티미디어교육관",
+  "4995A\tELEV실\t멀티미디어교육관",
+  "4997A\t계단실\t멀티미디어교육관",
+  "4997B\t계단실\t멀티미디어교육관",
+  "4997C\t계단실\t멀티미디어교육관",
+  "500-1\t복도\t멀티미디어교육관",
+  "501\t임용고사실\t멀티미디어교육관",
+  "502\t교육대학원 세미나실\t멀티미디어교육관",
+  "502-1\t교육대학원 회의실\t멀티미디어교육관",
+  "503\t중등교육연수원\t멀티미디어교육관",
+  "504\t교육대학원행정실\t멀티미디어교육관",
+  "505\t기자재실\t멀티미디어교육관",
+  "506\t교강사 강의준비실\t멀티미디어교육관",
+  "507\t교강사 휴게실\t멀티미디어교육관",
+  "508\t수업지원실\t멀티미디어교육관",
+  "509\t소회의실\t멀티미디어교육관",
+  "510\t후마니타스칼리지 학장실\t멀티미디어교육관",
+  "511\t후마니타스칼리지 행정실\t멀티미디어교육관",
+  "512\t강의실\t멀티미디어교육관",
+  "513\t계단강의실\t멀티미디어교육관",
+  "5993A\tPS실\t멀티미디어교육관",
+  "5993B\tEPS실\t멀티미디어교육관",
+  "5995A\tELEV실\t멀티미디어교육관",
+  "5997A\t계단실\t멀티미디어교육관",
+  "5997B\t계단실\t멀티미디어교육관",
+  "5997C\t계단실\t멀티미디어교육관",
+  "600-1\t복도\t멀티미디어교육관",
+  "601\tAnalysis & Biomath Lab\t멀티미디어교육관",
+  "601-1\t나노융합연구실\t멀티미디어교육관",
+  "602\t강의실\t멀티미디어교육관",
+  "603\t강의실\t멀티미디어교육관",
+  "604\t강의실\t멀티미디어교육관",
+  "605\t지능정보시스템연구실\t멀티미디어교육관",
+  "605-1\t교육대학원 원우회실\t멀티미디어교육관",
+  "606-1\t회의실\t멀티미디어교육관",
+  "606-2\t후마니타스칼리지 대학장실\t멀티미디어교육관",
+  "607\t강의실\t멀티미디어교육관",
+  "608\t강의실\t멀티미디어교육관",
+  "609\t강의실\t멀티미디어교육관",
+  "610\t강의실\t멀티미디어교육관",
+  "611\t강의실\t멀티미디어교육관",
+  "612\t계단강의실\t멀티미디어교육관",
+  "6993A\tPS실\t멀티미디어교육관",
+  "6993B\tEPS실\t멀티미디어교육관",
+  "6995A\tELEV실\t멀티미디어교육관",
+  "6997A\t계단실\t멀티미디어교육관",
+  "6997B\t계단실\t멀티미디어교육관",
+  "6997C\t계단실\t멀티미디어교육관",
+  "700-1\t복도\t멀티미디어교육관",
+  "701\t강의실\t멀티미디어교육관",
+  "702\t강의실\t멀티미디어교육관",
+  "703\t강의실\t멀티미디어교육관",
+  "704\t강의실\t멀티미디어교육관",
+  "705\t강의실\t멀티미디어교육관",
+  "705-1\t강의실\t멀티미디어교육관",
+  "706\t테크노경영대학원 세미나실\t멀티미디어교육관",
+  "707\t테크노경영대학원 원우회\t멀티미디어교육관",
+  "708\t테크노경영대학원 행정실\t멀티미디어교육관",
+  "709\t테크노경영대학원 행정실\t멀티미디어교육관",
+  "711-1\t수업준비실\t멀티미디어교육관",
+  "712-2\t최고경영자과정총동문회실\t멀티미디어교육관",
+  "713\t최고경영자과정/ 석사과정 강의실(계단)\t멀티미디어교육관",
+  "7993A\tPS실\t멀티미디어교육관",
+  "7993B\tEPS실\t멀티미디어교육관",
+  "7995A\tELEV실\t멀티미디어교육관",
+  "7997A\t계단실\t멀티미디어교육관",
+  "7997B\t계단실\t멀티미디어교육관",
+  "7997C\t계단실\t멀티미디어교육관",
+  "800-1\t복도\t멀티미디어교육관",
+  "803\t강의실\t멀티미디어교육관",
+  "805\t강의실\t멀티미디어교육관",
+  "807\t경기녹색환경지원센터(회의실)\t멀티미디어교육관",
+  "811\t커뮤니케이션센터\t멀티미디어교육관",
+  "812\t경희사이버대학 경기학습관\t멀티미디어교육관",
+  "813\t자유전공학부 상담실\t멀티미디어교육관",
+  "814\t공학교육혁신센터\t멀티미디어교육관",
+  "815\t강의실\t멀티미디어교육관",
+  "818\t경기녹색환경지원센터(사무실)\t멀티미디어교육관",
+  "819\t경기녹색환경지원센터(사무실)\t멀티미디어교육관",
+  "820\t교육혁신추진사업단\t멀티미디어교육관",
+  "821\t교육혁신추진사업단\t멀티미디어교육관",
+  "826\t계단강의실\t멀티미디어교육관",
+  "8993A\tEPS실\t멀티미디어교육관",
+  "8993B\tEPS실\t멀티미디어교육관",
+  "8995A\tELEV실\t멀티미디어교육관",
+  "8997A\t계단실\t멀티미디어교육관",
+  "8997B\t계단실\t멀티미디어교육관",
+  "8997C\t계단실\t멀티미디어교육관",
+  "900-1\t복도\t멀티미디어교육관",
+  "914\t세미나실\t멀티미디어교육관",
+  "928\t공조기계실\t멀티미디어교육관",
+  "9993A\tPS실\t멀티미디어교육관",
+  "9993B\tEPS실\t멀티미디어교육관",
+  "9995A\tELEV실\t멀티미디어교육관",
+  "9997A\t계단실\t멀티미디어교육관",
+  "9997B\t계단실\t멀티미디어교육관",
+  "9997C\t계단실\t멀티미디어교육관"
 ];
 
 export const gumEn = [
-  "B200-1\tCorridor\tMultimedia Education Building",
-  "B200-2\tCorridor\tMultimedia Education Building",
-  "B201\tNano Optoelectronic Device Lab\tMultimedia Education Building",
-  "B202\tPrintable Functional Materials Lab II\tMultimedia Education Building",
-  "B203\tMolecular Control Lab II\tMultimedia Education Building",
-  "B204\tMolecular Control Lab VI\tMultimedia Education Building",
-  "B205\tSemiconductor Optoelectronic Lab\tMultimedia Education Building",
-  "B207\tManagement Office\tMultimedia Education Building",
-  "B221\tMachine Room\tMultimedia Education Building",
-  "b2993A\tPS Room\tMultimedia Education Building",
-  "b2993B\tEPS Room\tMultimedia Education Building",
-  "b2995A\tELEV Room\tMultimedia Education Building",
-  "b2997A\tStairwell\tMultimedia Education Building",
-  "b2997B\tStairwell\tMultimedia Education Building",
-  "b2997C\tStairwell\tMultimedia Education Building",
-  "B100-1\tCorridor\tMultimedia Education Building",
-  "B100-2\tCorridor\tMultimedia Education Building",
-  "B101\tCollection Room\tMultimedia Education Building",
-  "B102\tConference Room\tMultimedia Education Building",
-  "B103\tRIC Administrative Office\tMultimedia Education Building",
-  "B104\tStartup Incubation Office\tMultimedia Education Building",
-  "B105\tFPDFab\tMultimedia Education Building",
-  "B106\tPreparation Room\tMultimedia Education Building",
-  "B107\tMaterials Chemistry Lab\tMultimedia Education Building",
-  "B108\tThin Film Process Lab\tMultimedia Education Building",
-  "B109\tMaterials Properties Evaluation Lab\tMultimedia Education Building",
-  "B110\tEducational Lecture Room\tMultimedia Education Building",
-  "B111\tDisplay Characteristics Evaluation Lab\tMultimedia Education Building",
-  "B112\tControl and Complex System Lab\tMultimedia Education Building",
-  "B113\tHVAC and Machine Room\tMultimedia Education Building",
-  "B114\tStair Lecture Room\tMultimedia Education Building",
-  "B115\tCopy Room\tMultimedia Education Building",
-  "b1993A\tPS Room\tMultimedia Education Building",
-  "b1993B\tEPS Room\tMultimedia Education Building",
-  "b1995A\tELEV Room\tMultimedia Education Building",
-  "b1997A\tStairwell\tMultimedia Education Building",
-  "b1997B\tStairwell\tMultimedia Education Building",
-  "b1997C\tStairwell\tMultimedia Education Building",
-  "100-1\tCorridor\tMultimedia Education Building",
-  "100-2\tCorridor\tMultimedia Education Building",
-  "101\tClassroom\tMultimedia Education Building",
-  "102\tHumanitas Lounge\tMultimedia Education Building",
-  "103\tClassroom\tMultimedia Education Building",
-  "104\tHumanitas Lounge II\tMultimedia Education Building",
-  "106\tLobby\tMultimedia Education Building",
-  "107\tClassroom\tMultimedia Education Building",
-  "108\tClassroom\tMultimedia Education Building",
-  "109\tClassroom\tMultimedia Education Building",
-  "110\tCore/Physical Education Subject Research Lab\tMultimedia Education Building",
-  "111\tHVAC Machine Room\tMultimedia Education Building",
-  "112\tStair Lecture Room\tMultimedia Education Building",
-  "1993A\tPS Room\tMultimedia Education Building",
-  "1993B\tEPS Room\tMultimedia Education Building",
-  "1995A\tELEV Room\tMultimedia Education Building",
-  "1997A\tStairwell\tMultimedia Education Building",
-  "1997B\tStairwell\tMultimedia Education Building",
-  "1997C\tStairwell\tMultimedia Education Building",
-  "200-1\tCorridor\tMultimedia Education Building",
-  "201\tClassroom\tMultimedia Education Building",
-  "202\tClassroom\tMultimedia Education Building",
-  "203\tComputer Lab\tMultimedia Education Building",
-  "204\tClassroom\tMultimedia Education Building",
-  "205\tClassroom\tMultimedia Education Building",
-  "206\tClassroom\tMultimedia Education Building",
-  "207\tClassroom\tMultimedia Education Building",
-  "208\tClassroom\tMultimedia Education Building",
-  "209\tCitizen Subject Research Lab\tMultimedia Education Building",
-  "210\tStair Lecture Room\tMultimedia Education Building",
-  "2993A\tPS Room\tMultimedia Education Building",
-  "2993B\tEPS Room\tMultimedia Education Building",
-  "2995A\tELEV Room\tMultimedia Education Building",
-  "2997A\tStairwell\tMultimedia Education Building",
-  "2997B\tStairwell\tMultimedia Education Building",
-  "2997C\tStairwell\tMultimedia Education Building",
-  "300-1\tCorridor\tMultimedia Education Building",
-  "301\tPhysics Experiment Preparation Room (I)\tMultimedia Education Building",
-  "302\tPhysics Lab (I) & Biology Lab\tMultimedia Education Building",
-  "303\tPhysics Experiment Preparation Room (II)\tMultimedia Education Building",
-  "304\tPhysics Lab (II)\tMultimedia Education Building",
-  "305\tPhysics Lab (III)\tMultimedia Education Building",
-  "306\tPhysics Lab (IV)\tMultimedia Education Building",
-  "307\tEnergy New Materials Lab\tMultimedia Education Building",
-  "308\tGeneral Chemistry Lab (I)\tMultimedia Education Building",
-  "309\tGeneral Chemistry Lab (II)\tMultimedia Education Building",
-  "310\tBiology Experiment Preparation Room\tMultimedia Education Building",
-  "311\tChemistry Experiment Preparation Room\tMultimedia Education Building",
-  "312\tStair Lecture Room\tMultimedia Education Building",
-  "3993A\tPS Room\tMultimedia Education Building",
-  "3993B\tEPS Room\tMultimedia Education Building",
-  "3995A\tELEV Room\tMultimedia Education Building",
-  "3997A\tStairwell\tMultimedia Education Building",
-  "3997B\tStairwell\tMultimedia Education Building",
-  "3997C\tStairwell\tMultimedia Education Building",
-  "400-1\tCorridor\tMultimedia Education Building",
-  "401\tClassroom\tMultimedia Education Building",
-  "402\tClassroom\tMultimedia Education Building",
-  "402-1\tClass Behavior Analysis Lab\tMultimedia Education Building",
-  "403\tClassroom\tMultimedia Education Building",
-  "404\tClassroom\tMultimedia Education Building",
-  "405\tClassroom\tMultimedia Education Building",
-  "406\tClassroom\tMultimedia Education Building",
-  "407\tClassroom\tMultimedia Education Building",
-  "408\tClassroom\tMultimedia Education Building",
-  "409\tClassroom\tMultimedia Education Building",
-  "410\tClassroom\tMultimedia Education Building",
-  "411\tStair Lecture Room\tMultimedia Education Building",
-  "4993A\tPS Room\tMultimedia Education Building",
-  "4993B\tEPS Room\tMultimedia Education Building",
-  "4995A\tELEV Room\tMultimedia Education Building",
-  "4997A\tStairwell\tMultimedia Education Building",
-  "4997B\tStairwell\tMultimedia Education Building",
-  "4997C\tStairwell\tMultimedia Education Building",
-  "500-1\tCorridor\tMultimedia Education Building",
-  "501\tTeacher Certification Exam Room\tMultimedia Education Building",
-  "502\tGraduate School of Education Seminar Room\tMultimedia Education Building",
-  "502-1\tGraduate School of Education Conference Room\tMultimedia Education Building",
-  "503\tSecondary Education Training Institute\tMultimedia Education Building",
-  "504\tGraduate School of Education Administrative Office\tMultimedia Education Building",
-  "505\tEquipment Storage Room\tMultimedia Education Building",
-  "506\tInstructor Lecture Preparation Room\tMultimedia Education Building",
-  "507\tInstructor Break Room\tMultimedia Education Building",
-  "508\tClass Support Office\tMultimedia Education Building",
-  "509\tSmall Conference Room\tMultimedia Education Building",
-  "510\tHumanitas College Dean's Office\tMultimedia Education Building",
-  "511\tHumanitas College Administrative Office\tMultimedia Education Building",
-  "512\tClassroom\tMultimedia Education Building",
-  "513\tStair Lecture Room\tMultimedia Education Building",
-  "5993A\tPS Room\tMultimedia Education Building",
-  "5993B\tEPS Room\tMultimedia Education Building",
-  "5995A\tELEV Room\tMultimedia Education Building",
-  "5997A\tStairwell\tMultimedia Education Building",
-  "5997B\tStairwell\tMultimedia Education Building",
-  "5997C\tStairwell\tMultimedia Education Building",
-  "600-1\tCorridor\tMultimedia Education Building",
-  "601\tAnalysis & Biomath Lab\tMultimedia Education Building",
-  "601-1\tNano Convergence Lab\tMultimedia Education Building",
-  "602\tClassroom\tMultimedia Education Building",
-  "603\tClassroom\tMultimedia Education Building",
-  "604\tClassroom\tMultimedia Education Building",
-  "605\tIntelligent Information System Lab\tMultimedia Education Building",
-  "605-1\tGraduate School of Education Alumni Association Office\tMultimedia Education Building",
-  "606-1\tConference Room\tMultimedia Education Building",
-  "606-2\tHumanitas College Dean's Office\tMultimedia Education Building",
-  "607\tClassroom\tMultimedia Education Building",
-  "608\tClassroom\tMultimedia Education Building",
-  "609\tClassroom\tMultimedia Education Building",
-  "610\tClassroom\tMultimedia Education Building",
-  "611\tClassroom\tMultimedia Education Building",
-  "612\tStair Lecture Room\tMultimedia Education Building",
-  "6993A\tPS Room\tMultimedia Education Building",
-  "6993B\tEPS Room\tMultimedia Education Building",
-  "6995A\tELEV Room\tMultimedia Education Building",
-  "6997A\tStairwell\tMultimedia Education Building",
-  "6997B\tStairwell\tMultimedia Education Building",
-  "6997C\tStairwell\tMultimedia Education Building",
-  "700-1\tCorridor\tMultimedia Education Building",
-  "701\tClassroom\tMultimedia Education Building",
-  "702\tClassroom\tMultimedia Education Building",
-  "703\tClassroom\tMultimedia Education Building",
-  "704\tClassroom\tMultimedia Education Building",
-  "705\tClassroom\tMultimedia Education Building",
-  "705-1\tClassroom\tMultimedia Education Building",
-  "706\tTechno Management Graduate Seminar Room\tMultimedia Education Building",
-  "707\tTechno Management Graduate Alumni Association\tMultimedia Education Building",
-  "708\tTechno Management Graduate Administrative Office\tMultimedia Education Building",
-  "709\tTechno Management Graduate Administrative Office\tMultimedia Education Building",
-  "711-1\tClass Preparation Room\tMultimedia Education Building",
-  "712-2\tChief Executive Program Alumni Association Office\tMultimedia Education Building",
-  "713\tChief Executive/Master's Program Lecture Room (Stair)\tMultimedia Education Building",
-  "7993A\tPS Room\tMultimedia Education Building",
-  "7993B\tEPS Room\tMultimedia Education Building",
-  "7995A\tELEV Room\tMultimedia Education Building",
-  "7997A\tStairwell\tMultimedia Education Building",
-  "7997B\tStairwell\tMultimedia Education Building",
-  "7997C\tStairwell\tMultimedia Education Building",
-  "800-1\tCorridor\tMultimedia Education Building",
-  "803\tClassroom\tMultimedia Education Building",
-  "805\tClassroom\tMultimedia Education Building",
-  "807\tGyeonggi Green Environment Support Center (Conference Room)\tMultimedia Education Building",
-  "811\tCommunication Center\tMultimedia Education Building",
-  "812\tKyunghee Cyber University Gyeonggi Learning Center\tMultimedia Education Building",
-  "813\tFree Major School Counseling Office\tMultimedia Education Building",
-  "814\tEngineering Education Innovation Center\tMultimedia Education Building",
-  "815\tClassroom\tMultimedia Education Building",
-  "818\tGyeonggi Green Environment Support Center (Office)\tMultimedia Education Building",
-  "819\tGyeonggi Green Environment Support Center (Office)\tMultimedia Education Building",
-  "820\tEducation Innovation Initiative Project Team\tMultimedia Education Building",
-  "821\tEducation Innovation Initiative Project Team\tMultimedia Education Building",
-  "826\tStair Lecture Room\tMultimedia Education Building",
-  "8993A\tEPS Room\tMultimedia Education Building",
-  "8993B\tEPS Room\tMultimedia Education Building",
-  "8995A\tELEV Room\tMultimedia Education Building",
-  "8997A\tStairwell\tMultimedia Education Building",
-  "8997B\tStairwell\tMultimedia Education Building",
-  "8997C\tStairwell\tMultimedia Education Building",
-  "900-1\tCorridor\tMultimedia Education Building",
-  "914\tSeminar Room\tMultimedia Education Building",
-  "928\tHVAC Machine Room\tMultimedia Education Building",
-  "9993A\tPS Room\tMultimedia Education Building",
-  "9993B\tEPS Room\tMultimedia Education Building",
-  "9995A\tELEV Room\tMultimedia Education Building",
-  "9997A\tStairwell\tMultimedia Education Building",
-  "9997B\tStairwell\tMultimedia Education Building",
-  "9997C\tStairwell\tMultimedia Education Building"
+  "B200-1\tCorridor\tMultimedia Education Building",
+  "B200-2\tCorridor\tMultimedia Education Building",
+  "B201\tNano Optoelectronic Device Lab\tMultimedia Education Building",
+  "B202\tPrintable Functional Materials Lab II\tMultimedia Education Building",
+  "B203\tMolecular Control Lab II\tMultimedia Education Building",
+  "B204\tMolecular Control Lab VI\tMultimedia Education Building",
+  "B205\tSemiconductor Optoelectronic Lab\tMultimedia Education Building",
+  "B207\tManagement Office\tMultimedia Education Building",
+  "B221\tMachine Room\tMultimedia Education Building",
+  "b2993A\tPS Room\tMultimedia Education Building",
+  "b2993B\tEPS Room\tMultimedia Education Building",
+  "b2995A\tELEV Room\tMultimedia Education Building",
+  "b2997A\tStairwell\tMultimedia Education Building",
+  "b2997B\tStairwell\tMultimedia Education Building",
+  "b2997C\tStairwell\tMultimedia Education Building",
+  "B100-1\tCorridor\tMultimedia Education Building",
+  "B100-2\tCorridor\tMultimedia Education Building",
+  "B101\tCollection Room\tMultimedia Education Building",
+  "B102\tConference Room\tMultimedia Education Building",
+  "B103\tRIC Administrative Office\tMultimedia Education Building",
+  "B104\tStartup Incubation Office\tMultimedia Education Building",
+  "B105\tFPDFab\tMultimedia Education Building",
+  "B106\tPreparation Room\tMultimedia Education Building",
+  "B107\tMaterials Chemistry Lab\tMultimedia Education Building",
+  "B108\tThin Film Process Lab\tMultimedia Education Building",
+  "B109\tMaterials Properties Evaluation Lab\tMultimedia Education Building",
+  "B110\tEducational Lecture Room\tMultimedia Education Building",
+  "B111\tDisplay Characteristics Evaluation Lab\tMultimedia Education Building",
+  "B112\tControl and Complex System Lab\tMultimedia Education Building",
+  "B113\tHVAC and Machine Room\tMultimedia Education Building",
+  "B114\tStair Lecture Room\tMultimedia Education Building",
+  "B115\tCopy Room\tMultimedia Education Building",
+  "b1993A\tPS Room\tMultimedia Education Building",
+  "b1993B\tEPS Room\tMultimedia Education Building",
+  "b1995A\tELEV Room\tMultimedia Education Building",
+  "b1997A\tStairwell\tMultimedia Education Building",
+  "b1997B\tStairwell\tMultimedia Education Building",
+  "b1997C\tStairwell\tMultimedia Education Building",
+  "100-1\tCorridor\tMultimedia Education Building",
+  "100-2\tCorridor\tMultimedia Education Building",
+  "101\tClassroom\tMultimedia Education Building",
+  "102\tHumanitas Lounge\tMultimedia Education Building",
+  "103\tClassroom\tMultimedia Education Building",
+  "104\tHumanitas Lounge II\tMultimedia Education Building",
+  "106\tLobby\tMultimedia Education Building",
+  "107\tClassroom\tMultimedia Education Building",
+  "108\tClassroom\tMultimedia Education Building",
+  "109\tClassroom\tMultimedia Education Building",
+  "110\tCore/Physical Education Subject Research Lab\tMultimedia Education Building",
+  "111\tHVAC Machine Room\tMultimedia Education Building",
+  "112\tStair Lecture Room\tMultimedia Education Building",
+  "1993A\tPS Room\tMultimedia Education Building",
+  "1993B\tEPS Room\tMultimedia Education Building",
+  "1995A\tELEV Room\tMultimedia Education Building",
+  "1997A\tStairwell\tMultimedia Education Building",
+  "1997B\tStairwell\tMultimedia Education Building",
+  "1997C\tStairwell\tMultimedia Education Building",
+  "200-1\tCorridor\tMultimedia Education Building",
+  "201\tClassroom\tMultimedia Education Building",
+  "202\tClassroom\tMultimedia Education Building",
+  "203\tComputer Lab\tMultimedia Education Building",
+  "204\tClassroom\tMultimedia Education Building",
+  "205\tClassroom\tMultimedia Education Building",
+  "206\tClassroom\tMultimedia Education Building",
+  "207\tClassroom\tMultimedia Education Building",
+  "208\tClassroom\tMultimedia Education Building",
+  "209\tCitizen Subject Research Lab\tMultimedia Education Building",
+  "210\tStair Lecture Room\tMultimedia Education Building",
+  "2993A\tPS Room\tMultimedia Education Building",
+  "2993B\tEPS Room\tMultimedia Education Building",
+  "2995A\tELEV Room\tMultimedia Education Building",
+  "2997A\tStairwell\tMultimedia Education Building",
+  "2997B\tStairwell\tMultimedia Education Building",
+  "2997C\tStairwell\tMultimedia Education Building",
+  "300-1\tCorridor\tMultimedia Education Building",
+  "301\tPhysics Experiment Preparation Room (I)\tMultimedia Education Building",
+  "302\tPhysics Lab (I) & Biology Lab\tMultimedia Education Building",
+  "303\tPhysics Experiment Preparation Room (II)\tMultimedia Education Building",
+  "304\tPhysics Lab (II)\tMultimedia Education Building",
+  "305\tPhysics Lab (III)\tMultimedia Education Building",
+  "306\tPhysics Lab (IV)\tMultimedia Education Building",
+  "307\tEnergy New Materials Lab\tMultimedia Education Building",
+  "308\tGeneral Chemistry Lab (I)\tMultimedia Education Building",
+  "309\tGeneral Chemistry Lab (II)\tMultimedia Education Building",
+  "310\tBiology Experiment Preparation Room\tMultimedia Education Building",
+  "311\tChemistry Experiment Preparation Room\tMultimedia Education Building",
+  "312\tStair Lecture Room\tMultimedia Education Building",
+  "3993A\tPS Room\tMultimedia Education Building",
+  "3993B\tEPS Room\tMultimedia Education Building",
+  "3995A\tELEV Room\tMultimedia Education Building",
+  "3997A\tStairwell\tMultimedia Education Building",
+  "3997B\tStairwell\tMultimedia Education Building",
+  "3997C\tStairwell\tMultimedia Education Building",
+  "400-1\tCorridor\tMultimedia Education Building",
+  "401\tClassroom\tMultimedia Education Building",
+  "402\tClassroom\tMultimedia Education Building",
+  "402-1\tClass Behavior Analysis Lab\tMultimedia Education Building",
+  "403\tClassroom\tMultimedia Education Building",
+  "404\tClassroom\tMultimedia Education Building",
+  "405\tClassroom\tMultimedia Education Building",
+  "406\tClassroom\tMultimedia Education Building",
+  "407\tClassroom\tMultimedia Education Building",
+  "408\tClassroom\tMultimedia Education Building",
+  "409\tClassroom\tMultimedia Education Building",
+  "410\tClassroom\tMultimedia Education Building",
+  "411\tStair Lecture Room\tMultimedia Education Building",
+  "4993A\tPS Room\tMultimedia Education Building",
+  "4993B\tEPS Room\tMultimedia Education Building",
+  "4995A\tELEV Room\tMultimedia Education Building",
+  "4997A\tStairwell\tMultimedia Education Building",
+  "4997B\tStairwell\tMultimedia Education Building",
+  "4997C\tStairwell\tMultimedia Education Building",
+  "500-1\tCorridor\tMultimedia Education Building",
+  "501\tTeacher Certification Exam Room\tMultimedia Education Building",
+  "502\tGraduate School of Education Seminar Room\tMultimedia Education Building",
+  "502-1\tGraduate School of Education Conference Room\tMultimedia Education Building",
+  "503\tSecondary Education Training Institute\tMultimedia Education Building",
+  "504\tGraduate School of Education Administrative Office\tMultimedia Education Building",
+  "505\tEquipment Storage Room\tMultimedia Education Building",
+  "506\tInstructor Lecture Preparation Room\tMultimedia Education Building",
+  "507\tInstructor Break Room\tMultimedia Education Building",
+  "508\tClass Support Office\tMultimedia Education Building",
+  "509\tSmall Conference Room\tMultimedia Education Building",
+  "510\tHumanitas College Dean's Office\tMultimedia Education Building",
+  "511\tHumanitas College Administrative Office\tMultimedia Education Building",
+  "512\tClassroom\tMultimedia Education Building",
+  "513\tStair Lecture Room\tMultimedia Education Building",
+  "5993A\tPS Room\tMultimedia Education Building",
+  "5993B\tEPS Room\tMultimedia Education Building",
+  "5995A\tELEV Room\tMultimedia Education Building",
+  "5997A\tStairwell\tMultimedia Education Building",
+  "5997B\tStairwell\tMultimedia Education Building",
+  "5997C\tStairwell\tMultimedia Education Building",
+  "600-1\tCorridor\tMultimedia Education Building",
+  "601\tAnalysis & Biomath Lab\tMultimedia Education Building",
+  "601-1\tNano Convergence Lab\tMultimedia Education Building",
+  "602\tClassroom\tMultimedia Education Building",
+  "603\tClassroom\tMultimedia Education Building",
+  "604\tClassroom\tMultimedia Education Building",
+  "605\tIntelligent Information System Lab\tMultimedia Education Building",
+  "605-1\tGraduate School of Education Alumni Association Office\tMultimedia Education Building",
+  "606-1\tConference Room\tMultimedia Education Building",
+  "606-2\tHumanitas College Dean's Office\tMultimedia Education Building",
+  "607\tClassroom\tMultimedia Education Building",
+  "608\tClassroom\tMultimedia Education Building",
+  "609\tClassroom\tMultimedia Education Building",
+  "610\tClassroom\tMultimedia Education Building",
+  "611\tClassroom\tMultimedia Education Building",
+  "612\tStair Lecture Room\tMultimedia Education Building",
+  "6993A\tPS Room\tMultimedia Education Building",
+  "6993B\tEPS Room\tMultimedia Education Building",
+  "6995A\tELEV Room\tMultimedia Education Building",
+  "6997A\tStairwell\tMultimedia Education Building",
+  "6997B\tStairwell\tMultimedia Education Building",
+  "6997C\tStairwell\tMultimedia Education Building",
+  "700-1\tCorridor\tMultimedia Education Building",
+  "701\tClassroom\tMultimedia Education Building",
+  "702\tClassroom\tMultimedia Education Building",
+  "703\tClassroom\tMultimedia Education Building",
+  "704\tClassroom\tMultimedia Education Building",
+  "705\tClassroom\tMultimedia Education Building",
+  "705-1\tClassroom\tMultimedia Education Building",
+  "706\tTechno Management Graduate Seminar Room\tMultimedia Education Building",
+  "707\tTechno Management Graduate Alumni Association\tMultimedia Education Building",
+  "708\tTechno Management Graduate Administrative Office\tMultimedia Education Building",
+  "709\tTechno Management Graduate Administrative Office\tMultimedia Education Building",
+  "711-1\tClass Preparation Room\tMultimedia Education Building",
+  "712-2\tChief Executive Program Alumni Association Office\tMultimedia Education Building",
+  "713\tChief Executive/Master's Program Lecture Room (Stair)\tMultimedia Education Building",
+  "7993A\tPS Room\tMultimedia Education Building",
+  "7993B\tEPS Room\tMultimedia Education Building",
+  "7995A\tELEV Room\tMultimedia Education Building",
+  "7997A\tStairwell\tMultimedia Education Building",
+  "7997B\tStairwell\tMultimedia Education Building",
+  "7997C\tStairwell\tMultimedia Education Building",
+  "800-1\tCorridor\tMultimedia Education Building",
+  "803\tClassroom\tMultimedia Education Building",
+  "805\tClassroom\tMultimedia Education Building",
+  "807\tGyeonggi Green Environment Support Center (Conference Room)\tMultimedia Education Building",
+  "811\tCommunication Center\tMultimedia Education Building",
+  "812\tKyunghee Cyber University Gyeonggi Learning Center\tMultimedia Education Building",
+  "813\tFree Major School Counseling Office\tMultimedia Education Building",
+  "814\tEngineering Education Innovation Center\tMultimedia Education Building",
+  "815\tClassroom\tMultimedia Education Building",
+  "818\tGyeonggi Green Environment Support Center (Office)\tMultimedia Education Building",
+  "819\tGyeonggi Green Environment Support Center (Office)\tMultimedia Education Building",
+  "820\tEducation Innovation Initiative Project Team\tMultimedia Education Building",
+  "821\tEducation Innovation Initiative Project Team\tMultimedia Education Building",
+  "826\tStair Lecture Room\tMultimedia Education Building",
+  "8993A\tEPS Room\tMultimedia Education Building",
+  "8993B\tEPS Room\tMultimedia Education Building",
+  "8995A\tELEV Room\tMultimedia Education Building",
+  "8997A\tStairwell\tMultimedia Education Building",
+  "8997B\tStairwell\tMultimedia Education Building",
+  "8997C\tStairwell\tMultimedia Education Building",
+  "900-1\tCorridor\tMultimedia Education Building",
+  "914\tSeminar Room\tMultimedia Education Building",
+  "928\tHVAC Machine Room\tMultimedia Education Building",
+  "9993A\tPS Room\tMultimedia Education Building",
+  "9993B\tEPS Room\tMultimedia Education Building",
+  "9995A\tELEV Room\tMultimedia Education Building",
+  "9997A\tStairwell\tMultimedia Education Building",
+  "9997B\tStairwell\tMultimedia Education Building",
+  "9997C\tStairwell\tMultimedia Education Building"
 ];

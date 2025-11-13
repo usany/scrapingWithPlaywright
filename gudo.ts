@@ -1,163 +1,163 @@
 export const gudoKo = [
-  "B100-1\t복도",
-  "B100-2\t복도",
-  "B101\t식품면역학 실험실",
-  "B101-1\t식품오믹스학 실험실",
-  "B101-2\t배양실",
-  "B102\t신호전달 및 전사조절 실험실",
-  "B102-1\t실험실1",
-  "B102-2\t실험실2",
-  "B102-3\t실험실3",
-  "B103\t식물기능유전체 실험실",
-  "B103-1\t클린룸",
-  "B104\t동아리실",
-  "B104-1\t동아리실",
-  "B119\t기계실",
-  "B121\t펌프실",
-  "B122\t통신실",
-  "B1997A\t계단실",
-  "B1997B\t계단실",
-  "100-1\t복도",
-  "101\t고령친화서비스오픈리빙랩 (New Aging Service Living Lab)",
-  "102\t고령친화헬스케어오픈리빙랩",
-  "103\t강의실",
-  "104\t세미나실",
-  "105-1\t매점",
-  "105-2\t고령친화영양오픈리빙랩",
-  "106\t시청각실",
-  "108\t멀티미디어강의실",
-  "109\t작물생화학연구실",
-  "111\t조직배양실",
-  "113-1\t식물대사공학연구실",
-  "113-2\t작물시스템유전학연구실",
-  "112\t작물바이오텍연구센터",
-  "121\t복사실",
-  "1997A\t계단실",
-  "1997B\t계단실",
-  "200-1\t복도",
-  "201\t행정실(인공지능융합혁신인재양성사업단)",
-  "203\t동서의학대학원 행정실",
-  "204\t고령친화융합연구센터",
-  "204-1\t세미나실2",
-  "204-2\t세미나실3",
-  "205\t친고령특성화대학원 노년학전공연구실 ",
-  "205-1\t세미나실4",
-  "209\t첨단분야 혁신융합대학 사무실",
-  "210\t영사실,기자재실",
-  "212\t강의실",
-  "214\t세미나실5",
-  "216\t회의실(인공지능융합혁신인재양성사업단)",
-  "217\tDirector International CP",
-  "218\t에너지소재양자물성연구실",
-  "219\t융합건강과학연구실",
-  "225\t친고령사업단/SSK사업단",
-  "226\t대체보완의학과 실습실",
-  "2997A\t계단실",
-  "2997B\t계단실",
-  "300-1\t복도",
-  "301\t강의실",
-  "302\t대학원생 공동연구실",
-  "303\t강의실",
-  "304\t강의실",
-  "305\t강의실",
-  "308-2\t동서의학대학원 원우회실",
-  "310\t강의실",
-  "311\t강의실",
-  "316\t융합보안대학원 공동연구실",
-  "321\t명예교원공동연구실",
-  "322\t대학원생 공동연구실",
-  "323\t대학원생 공동연구실",
-  "325\t융합보안대학원 행정실",
-  "3997A\t계단실",
-  "3997B\t계단실",
-  "400-1\t복도",
-  "403-1\t임상영양연구실1",
-  "404-1\t대학원공동연구실",
-  "404-2\t대학원공동연구실",
-  "405-1\t임상영양연구실2",
-  "405-2\t임상영양대사실험실",
-  "4997A\t계단실",
-  "4997B\t계단실"
+  "B100-1\t복도",
+  "B100-2\t복도",
+  "B101\t식품면역학 실험실",
+  "B101-1\t식품오믹스학 실험실",
+  "B101-2\t배양실",
+  "B102\t신호전달 및 전사조절 실험실",
+  "B102-1\t실험실1",
+  "B102-2\t실험실2",
+  "B102-3\t실험실3",
+  "B103\t식물기능유전체 실험실",
+  "B103-1\t클린룸",
+  "B104\t동아리실",
+  "B104-1\t동아리실",
+  "B119\t기계실",
+  "B121\t펌프실",
+  "B122\t통신실",
+  "B1997A\t계단실",
+  "B1997B\t계단실",
+  "100-1\t복도",
+  "101\t고령친화서비스오픈리빙랩 (New Aging Service Living Lab)",
+  "102\t고령친화헬스케어오픈리빙랩",
+  "103\t강의실",
+  "104\t세미나실",
+  "105-1\t매점",
+  "105-2\t고령친화영양오픈리빙랩",
+  "106\t시청각실",
+  "108\t멀티미디어강의실",
+  "109\t작물생화학연구실",
+  "111\t조직배양실",
+  "113-1\t식물대사공학연구실",
+  "113-2\t작물시스템유전학연구실",
+  "112\t작물바이오텍연구센터",
+  "121\t복사실",
+  "1997A\t계단실",
+  "1997B\t계단실",
+  "200-1\t복도",
+  "201\t행정실(인공지능융합혁신인재양성사업단)",
+  "203\t동서의학대학원 행정실",
+  "204\t고령친화융합연구센터",
+  "204-1\t세미나실2",
+  "204-2\t세미나실3",
+  "205\t친고령특성화대학원 노년학전공연구실 ",
+  "205-1\t세미나실4",
+  "209\t첨단분야 혁신융합대학 사무실",
+  "210\t영사실,기자재실",
+  "212\t강의실",
+  "214\t세미나실5",
+  "216\t회의실(인공지능융합혁신인재양성사업단)",
+  "217\tDirector International CP",
+  "218\t에너지소재양자물성연구실",
+  "219\t융합건강과학연구실",
+  "225\t친고령사업단/SSK사업단",
+  "226\t대체보완의학과 실습실",
+  "2997A\t계단실",
+  "2997B\t계단실",
+  "300-1\t복도",
+  "301\t강의실",
+  "302\t대학원생 공동연구실",
+  "303\t강의실",
+  "304\t강의실",
+  "305\t강의실",
+  "308-2\t동서의학대학원 원우회실",
+  "310\t강의실",
+  "311\t강의실",
+  "316\t융합보안대학원 공동연구실",
+  "321\t명예교원공동연구실",
+  "322\t대학원생 공동연구실",
+  "323\t대학원생 공동연구실",
+  "325\t융합보안대학원 행정실",
+  "3997A\t계단실",
+  "3997B\t계단실",
+  "400-1\t복도",
+  "403-1\t임상영양연구실1",
+  "404-1\t대학원공동연구실",
+  "404-2\t대학원공동연구실",
+  "405-1\t임상영양연구실2",
+  "405-2\t임상영양대사실험실",
+  "4997A\t계단실",
+  "4997B\t계단실"
 ];
 
 export const gudoEn = [
-  "B100-1\tCorridor",
-  "B100-2\tCorridor",
-  "B101\tFood Immunology Lab",
-  "B101-1\tFood Omics Lab",
-  "B101-2\tCulture Lab",
-  "B102\tSignal Transduction and Transcription Regulation Lab",
-  "B102-1\tLab 1",
-  "B102-2\tLab 2",
-  "B102-3\tLab 3",
-  "B103\tPlant Functional Genomics Lab",
-  "B103-1\tClean Room",
-  "B104\tClub Room",
-  "B104-1\tClub Room",
-  "B119\tMachine Room",
-  "B121\tPump Room",
-  "B122\tCommunication Room",
-  "B1997A\tStairwell",
-  "B1997B\tStairwell",
-  "100-1\tCorridor",
-  "101\tSenior-Friendly Service Open Living Lab",
-  "102\tSenior-Friendly Healthcare Open Living Lab",
-  "103\tClassroom",
-  "104\tSeminar Room",
-  "105-1\tMart",
-  "105-2\tSenior-Friendly Nutrition Open Living Lab",
-  "106\tAudiovisual Room",
-  "108\tMultimedia Lecture Room",
-  "109\tCrop Biochemistry Lab",
-  "111\tTissue Culture Lab",
-  "113-1\tPlant Metabolism Engineering Lab",
-  "113-2\tCrop Systems Genetics Lab",
-  "112\tCrop Biotech Research Center",
-  "121\tCopy Room",
-  "1997A\tStairwell",
-  "1997B\tStairwell",
-  "200-1\tCorridor",
-  "201\tAdministrative Office (AI Convergence Innovation Talent Development Project)",
-  "203\tEastern and Western Medicine Graduate School Administrative Office",
-  "204\tSenior-Friendly Convergence Research Center",
-  "204-1\tSeminar Room 2",
-  "204-2\tSeminar Room 3",
-  "205\tSenior-Friendly Specialized Graduate School Gerontology Specialty Lab",
-  "205-1\tSeminar Room 4",
-  "209\tAdvanced Field Innovation Convergence University Administrative Office",
-  "210\tConsular Affairs and Equipment Storage Room",
-  "212\tClassroom",
-  "214\tSeminar Room 5",
-  "216\tConference Room (AI Convergence Innovation Talent Development Project)",
-  "217\tDirector International CP",
-  "218\tEnergy Materials Quantum Properties Lab",
-  "219\tConvergence Health Science Lab",
-  "225\tSenior-Friendly Project/SSK Project",
-  "226\tAlternative and Complementary Medicine Department Practice Lab",
-  "2997A\tStairwell",
-  "2997B\tStairwell",
-  "300-1\tCorridor",
-  "301\tClassroom",
-  "302\tGraduate Student Joint Lab",
-  "303\tClassroom",
-  "304\tClassroom",
-  "305\tClassroom",
-  "308-2\tEastern and Western Medicine Graduate Alumni Association Office",
-  "310\tClassroom",
-  "311\tClassroom",
-  "316\tConvergence Security Graduate Joint Lab",
-  "321\tHonorary Faculty Joint Lab",
-  "322\tGraduate Student Joint Lab",
-  "323\tGraduate Student Joint Lab",
-  "325\tConvergence Security Graduate Administrative Office",
-  "3997A\tStairwell",
-  "3997B\tStairwell",
-  "400-1\tCorridor",
-  "403-1\tClinical Nutrition Lab 1",
-  "404-1\tGraduate Joint Lab",
-  "404-2\tGraduate Joint Lab",
-  "405-1\tClinical Nutrition Lab 2",
-  "405-2\tClinical Nutrition Metabolism Lab",
-  "4997A\tStairwell",
-  "4997B\tStairwell"
+  "B100-1\tCorridor",
+  "B100-2\tCorridor",
+  "B101\tFood Immunology Lab",
+  "B101-1\tFood Omics Lab",
+  "B101-2\tCulture Lab",
+  "B102\tSignal Transduction and Transcription Regulation Lab",
+  "B102-1\tLab 1",
+  "B102-2\tLab 2",
+  "B102-3\tLab 3",
+  "B103\tPlant Functional Genomics Lab",
+  "B103-1\tClean Room",
+  "B104\tClub Room",
+  "B104-1\tClub Room",
+  "B119\tMachine Room",
+  "B121\tPump Room",
+  "B122\tCommunication Room",
+  "B1997A\tStairwell",
+  "B1997B\tStairwell",
+  "100-1\tCorridor",
+  "101\tSenior-Friendly Service Open Living Lab",
+  "102\tSenior-Friendly Healthcare Open Living Lab",
+  "103\tClassroom",
+  "104\tSeminar Room",
+  "105-1\tMart",
+  "105-2\tSenior-Friendly Nutrition Open Living Lab",
+  "106\tAudiovisual Room",
+  "108\tMultimedia Lecture Room",
+  "109\tCrop Biochemistry Lab",
+  "111\tTissue Culture Lab",
+  "113-1\tPlant Metabolism Engineering Lab",
+  "113-2\tCrop Systems Genetics Lab",
+  "112\tCrop Biotech Research Center",
+  "121\tCopy Room",
+  "1997A\tStairwell",
+  "1997B\tStairwell",
+  "200-1\tCorridor",
+  "201\tAdministrative Office (AI Convergence Innovation Talent Development Project)",
+  "203\tEastern and Western Medicine Graduate School Administrative Office",
+  "204\tSenior-Friendly Convergence Research Center",
+  "204-1\tSeminar Room 2",
+  "204-2\tSeminar Room 3",
+  "205\tSenior-Friendly Specialized Graduate School Gerontology Specialty Lab",
+  "205-1\tSeminar Room 4",
+  "209\tAdvanced Field Innovation Convergence University Administrative Office",
+  "210\tConsular Affairs and Equipment Storage Room",
+  "212\tClassroom",
+  "214\tSeminar Room 5",
+  "216\tConference Room (AI Convergence Innovation Talent Development Project)",
+  "217\tDirector International CP",
+  "218\tEnergy Materials Quantum Properties Lab",
+  "219\tConvergence Health Science Lab",
+  "225\tSenior-Friendly Project/SSK Project",
+  "226\tAlternative and Complementary Medicine Department Practice Lab",
+  "2997A\tStairwell",
+  "2997B\tStairwell",
+  "300-1\tCorridor",
+  "301\tClassroom",
+  "302\tGraduate Student Joint Lab",
+  "303\tClassroom",
+  "304\tClassroom",
+  "305\tClassroom",
+  "308-2\tEastern and Western Medicine Graduate Alumni Association Office",
+  "310\tClassroom",
+  "311\tClassroom",
+  "316\tConvergence Security Graduate Joint Lab",
+  "321\tHonorary Faculty Joint Lab",
+  "322\tGraduate Student Joint Lab",
+  "323\tGraduate Student Joint Lab",
+  "325\tConvergence Security Graduate Administrative Office",
+  "3997A\tStairwell",
+  "3997B\tStairwell",
+  "400-1\tCorridor",
+  "403-1\tClinical Nutrition Lab 1",
+  "404-1\tGraduate Joint Lab",
+  "404-2\tGraduate Joint Lab",
+  "405-1\tClinical Nutrition Lab 2",
+  "405-2\tClinical Nutrition Metabolism Lab",
+  "4997A\tStairwell",
+  "4997B\tStairwell"
 ];

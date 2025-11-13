@@ -1,121 +1,121 @@
 export const gusiKo = [
-  "100-1\t로비홀\t실험연구동A",
-  "100-2\t복도\t실험연구동A",
-  "100-3\t방풍실1\t실험연구동A",
-  "100-4\t방풍실2\t실험연구동A",
-  "101\t기능시스템생화학연구실\t실험연구동A",
-  "101-1\t기능시스템생화학연구실\t실험연구동A",
-  "102\t기능시스템생화학연구실\t실험연구동A",
-  "102-1\t기능시스템생화학연구실\t실험연구동A",
-  "102-2\t기능시스템생화학연구실\t실험연구동A",
-  "104\t에너지소재 양자물성연구실\t실험연구동A",
-  "104-1\t에너지소재 양자물성연구실\t실험연구동A",
-  "104-2\t에너지소재 양자물성연구실\t실험연구동A",
-  "104-3\t에너지소재 양자물성연구실\t실험연구동A",
-  "105\t차세대융합분석화학연구실\t실험연구동A",
-  "106\t차세대융합분석화학연구실\t실험연구동A",
-  "106-1\t차세대융합분석화학연구실\t실험연구동A",
-  "106-2\t차세대융합분석화학연구실\t실험연구동A",
-  "108\t나노포토닉스연구실\t실험연구동A",
-  "109\t나노소재 및 신소재박막물성연구실\t실험연구동A",
-  "109-1\t나노소재 및 신소재박막물성연구실\t실험연구동A",
-  "110\t응집물질물리이론 연구실\t실험연구동A",
-  "121\t보일러실\t실험연구동A",
-  "1993\tPIT실\t실험연구동A",
-  "1997\t계단실\t실험연구동A",
-  "100-1\t방풍실\t실험연구동B",
-  "100-2\t복도\t실험연구동B",
-  "101\t대학원생공동연구실\t실험연구동B",
-  "102\t나노분석화학연구실\t실험연구동B",
-  "103\t경희슈퍼컴퓨팅센터\t실험연구동B",
-  "104\t반도체 재료 및 물성 연구실(Laboratory of Semiconductor Materials & Characterization)\t실험연구동B",
-  "105\t첨단분말공정연구실(Novel Powder Processing Lab)\t실험연구동B",
-  "106\t차세대전자소자연구실\t실험연구동B",
-  "107\t전자재료실험실\t실험연구동B",
-  "108\t전자소자연구실1\t실험연구동B",
-  "111\t식품생화학실험실\t실험연구동B",
-  "112\t시스템생물학실험실\t실험연구동B",
-  "113\t천연물바이오신약연구실\t실험연구동B",
-  "114\t기능성소재 및 적층제조 연구실\t실험연구동B",
-  "115\t 전기화학공학연구실(Electrochemical Engineering Lab)\t실험연구동B",
-  "116\t생태구조해석연구실\t실험연구동B",
-  "117\t대원고속사무실\t실험연구동B",
-  "118\tKD운송그룹식당\t실험연구동B",
-  "118A\t휴게실\t실험연구동B",
-  "118C\t식당\t실험연구동B",
-  "121\t기계실\t실험연구동B",
-  "200-1\t홀\t실험연구동A",
-  "200-2\t복도\t실험연구동A",
-  "201\t생명과학대학 학부실험실\t실험연구동A",
-  "202\t지속가능에너지기술연구실\t실험연구동A",
-  "203\t한방약리학실험실\t실험연구동A",
-  "203-1\t동물실험실1\t실험연구동A",
-  "203-2\t동물실험실2\t실험연구동A",
-  "205\t몬테칼로 노물리 연구실(Monte Carlo Reactor Physics Laboratory)\t실험연구동A",
-  "207\t전자재료연구실\t실험연구동A",
-  "208\t머신러닝 및 비주얼컴퓨팅 연구실\t실험연구동A",
-  "210\t나노바이오소재연구실\t실험연구동A",
-  "2993\tPIT실\t실험연구동A",
-  "2997\t게단실\t실험연구동A"
+  "100-1\t로비홀\t실험연구동A",
+  "100-2\t복도\t실험연구동A",
+  "100-3\t방풍실1\t실험연구동A",
+  "100-4\t방풍실2\t실험연구동A",
+  "101\t기능시스템생화학연구실\t실험연구동A",
+  "101-1\t기능시스템생화학연구실\t실험연구동A",
+  "102\t기능시스템생화학연구실\t실험연구동A",
+  "102-1\t기능시스템생화학연구실\t실험연구동A",
+  "102-2\t기능시스템생화학연구실\t실험연구동A",
+  "104\t에너지소재 양자물성연구실\t실험연구동A",
+  "104-1\t에너지소재 양자물성연구실\t실험연구동A",
+  "104-2\t에너지소재 양자물성연구실\t실험연구동A",
+  "104-3\t에너지소재 양자물성연구실\t실험연구동A",
+  "105\t차세대융합분석화학연구실\t실험연구동A",
+  "106\t차세대융합분석화학연구실\t실험연구동A",
+  "106-1\t차세대융합분석화학연구실\t실험연구동A",
+  "106-2\t차세대융합분석화학연구실\t실험연구동A",
+  "108\t나노포토닉스연구실\t실험연구동A",
+  "109\t나노소재 및 신소재박막물성연구실\t실험연구동A",
+  "109-1\t나노소재 및 신소재박막물성연구실\t실험연구동A",
+  "110\t응집물질물리이론 연구실\t실험연구동A",
+  "121\t보일러실\t실험연구동A",
+  "1993\tPIT실\t실험연구동A",
+  "1997\t계단실\t실험연구동A",
+  "100-1\t방풍실\t실험연구동B",
+  "100-2\t복도\t실험연구동B",
+  "101\t대학원생공동연구실\t실험연구동B",
+  "102\t나노분석화학연구실\t실험연구동B",
+  "103\t경희슈퍼컴퓨팅센터\t실험연구동B",
+  "104\t반도체 재료 및 물성 연구실(Laboratory of Semiconductor Materials & Characterization)\t실험연구동B",
+  "105\t첨단분말공정연구실(Novel Powder Processing Lab)\t실험연구동B",
+  "106\t차세대전자소자연구실\t실험연구동B",
+  "107\t전자재료실험실\t실험연구동B",
+  "108\t전자소자연구실1\t실험연구동B",
+  "111\t식품생화학실험실\t실험연구동B",
+  "112\t시스템생물학실험실\t실험연구동B",
+  "113\t천연물바이오신약연구실\t실험연구동B",
+  "114\t기능성소재 및 적층제조 연구실\t실험연구동B",
+  "115\t 전기화학공학연구실(Electrochemical Engineering Lab)\t실험연구동B",
+  "116\t생태구조해석연구실\t실험연구동B",
+  "117\t대원고속사무실\t실험연구동B",
+  "118\tKD운송그룹식당\t실험연구동B",
+  "118A\t휴게실\t실험연구동B",
+  "118C\t식당\t실험연구동B",
+  "121\t기계실\t실험연구동B",
+  "200-1\t홀\t실험연구동A",
+  "200-2\t복도\t실험연구동A",
+  "201\t생명과학대학 학부실험실\t실험연구동A",
+  "202\t지속가능에너지기술연구실\t실험연구동A",
+  "203\t한방약리학실험실\t실험연구동A",
+  "203-1\t동물실험실1\t실험연구동A",
+  "203-2\t동물실험실2\t실험연구동A",
+  "205\t몬테칼로 노물리 연구실(Monte Carlo Reactor Physics Laboratory)\t실험연구동A",
+  "207\t전자재료연구실\t실험연구동A",
+  "208\t머신러닝 및 비주얼컴퓨팅 연구실\t실험연구동A",
+  "210\t나노바이오소재연구실\t실험연구동A",
+  "2993\tPIT실\t실험연구동A",
+  "2997\t게단실\t실험연구동A"
 ];
 
 export const gusiEn = [
-  "100-1\tLobby Hall\tExperimental Research Building A",
-  "100-2\tCorridor\tExperimental Research Building A",
-  "100-3\tWindproof Room 1\tExperimental Research Building A",
-  "100-4\tWindproof Room 2\tExperimental Research Building A",
-  "101\tFunctional System Biochemistry Lab\tExperimental Research Building A",
-  "101-1\tFunctional System Biochemistry Lab\tExperimental Research Building A",
-  "102\tFunctional System Biochemistry Lab\tExperimental Research Building A",
-  "102-1\tFunctional System Biochemistry Lab\tExperimental Research Building A",
-  "102-2\tFunctional System Biochemistry Lab\tExperimental Research Building A",
-  "104\tEnergy Materials Quantum Properties Lab\tExperimental Research Building A",
-  "104-1\tEnergy Materials Quantum Properties Lab\tExperimental Research Building A",
-  "104-2\tEnergy Materials Quantum Properties Lab\tExperimental Research Building A",
-  "104-3\tEnergy Materials Quantum Properties Lab\tExperimental Research Building A",
-  "105\tNext Generation Convergence Analytical Chemistry Lab\tExperimental Research Building A",
-  "106\tNext Generation Convergence Analytical Chemistry Lab\tExperimental Research Building A",
-  "106-1\tNext Generation Convergence Analytical Chemistry Lab\tExperimental Research Building A",
-  "106-2\tNext Generation Convergence Analytical Chemistry Lab\tExperimental Research Building A",
-  "108\tNano Photonics Lab\tExperimental Research Building A",
-  "109\tNano Materials and New Materials Thin Film Properties Lab\tExperimental Research Building A",
-  "109-1\tNano Materials and New Materials Thin Film Properties Lab\tExperimental Research Building A",
-  "110\tCondensed Matter Physics Theory Lab\tExperimental Research Building A",
-  "121\tBoiler Room\tExperimental Research Building A",
-  "1993\tPIT Room\tExperimental Research Building A",
-  "1997\tStairwell\tExperimental Research Building A",
-  "100-1\tWindproof Room\tExperimental Research Building B",
-  "100-2\tCorridor\tExperimental Research Building B",
-  "101\tGraduate Student Joint Lab\tExperimental Research Building B",
-  "102\tNano Analytical Chemistry Lab\tExperimental Research Building B",
-  "103\tKyunghee Supercomputing Center\tExperimental Research Building B",
-  "104\tSemiconductor Materials and Characterization Lab\tExperimental Research Building B",
-  "105\tNovel Powder Processing Lab\tExperimental Research Building B",
-  "106\tNext Generation Electronic Device Lab\tExperimental Research Building B",
-  "107\tElectronic Materials Lab\tExperimental Research Building B",
-  "108\tElectronic Device Lab 1\tExperimental Research Building B",
-  "111\tFood Biochemistry Lab\tExperimental Research Building B",
-  "112\tSystems Biology Lab\tExperimental Research Building B",
-  "113\tNatural Product Bio-Drug Research Lab\tExperimental Research Building B",
-  "114\tFunctional Materials and Additive Manufacturing Lab\tExperimental Research Building B",
-  "115\tElectrochemical Engineering Lab\tExperimental Research Building B",
-  "116\tEcological Structure Analysis Lab\tExperimental Research Building B",
-  "117\tDaewon High-Speed Administrative Office\tExperimental Research Building B",
-  "118\tKD Transport Group Dining Hall\tExperimental Research Building B",
-  "118A\tBreak Room\tExperimental Research Building B",
-  "118C\tDining Hall\tExperimental Research Building B",
-  "121\tMachine Room\tExperimental Research Building B",
-  "200-1\tHall\tExperimental Research Building A",
-  "200-2\tCorridor\tExperimental Research Building A",
-  "201\tLife Sciences School Undergraduate Lab\tExperimental Research Building A",
-  "202\tSustainable Energy Technology Lab\tExperimental Research Building A",
-  "203\tOriental Pharmacology Lab\tExperimental Research Building A",
-  "203-1\tAnimal Experiment Lab 1\tExperimental Research Building A",
-  "203-2\tAnimal Experiment Lab 2\tExperimental Research Building A",
-  "205\tMonte Carlo Reactor Physics Lab\tExperimental Research Building A",
-  "207\tElectronic Materials Lab\tExperimental Research Building A",
-  "208\tMachine Learning and Visual Computing Lab\tExperimental Research Building A",
-  "210\tNano-Bio Materials Lab\tExperimental Research Building A",
-  "2993\tPIT Room\tExperimental Research Building A",
-  "2997\tStairwell\tExperimental Research Building A"
+  "100-1\tLobby Hall\tExperimental Research Building A",
+  "100-2\tCorridor\tExperimental Research Building A",
+  "100-3\tWindproof Room 1\tExperimental Research Building A",
+  "100-4\tWindproof Room 2\tExperimental Research Building A",
+  "101\tFunctional System Biochemistry Lab\tExperimental Research Building A",
+  "101-1\tFunctional System Biochemistry Lab\tExperimental Research Building A",
+  "102\tFunctional System Biochemistry Lab\tExperimental Research Building A",
+  "102-1\tFunctional System Biochemistry Lab\tExperimental Research Building A",
+  "102-2\tFunctional System Biochemistry Lab\tExperimental Research Building A",
+  "104\tEnergy Materials Quantum Properties Lab\tExperimental Research Building A",
+  "104-1\tEnergy Materials Quantum Properties Lab\tExperimental Research Building A",
+  "104-2\tEnergy Materials Quantum Properties Lab\tExperimental Research Building A",
+  "104-3\tEnergy Materials Quantum Properties Lab\tExperimental Research Building A",
+  "105\tNext Generation Convergence Analytical Chemistry Lab\tExperimental Research Building A",
+  "106\tNext Generation Convergence Analytical Chemistry Lab\tExperimental Research Building A",
+  "106-1\tNext Generation Convergence Analytical Chemistry Lab\tExperimental Research Building A",
+  "106-2\tNext Generation Convergence Analytical Chemistry Lab\tExperimental Research Building A",
+  "108\tNano Photonics Lab\tExperimental Research Building A",
+  "109\tNano Materials and New Materials Thin Film Properties Lab\tExperimental Research Building A",
+  "109-1\tNano Materials and New Materials Thin Film Properties Lab\tExperimental Research Building A",
+  "110\tCondensed Matter Physics Theory Lab\tExperimental Research Building A",
+  "121\tBoiler Room\tExperimental Research Building A",
+  "1993\tPIT Room\tExperimental Research Building A",
+  "1997\tStairwell\tExperimental Research Building A",
+  "100-1\tWindproof Room\tExperimental Research Building B",
+  "100-2\tCorridor\tExperimental Research Building B",
+  "101\tGraduate Student Joint Lab\tExperimental Research Building B",
+  "102\tNano Analytical Chemistry Lab\tExperimental Research Building B",
+  "103\tKyunghee Supercomputing Center\tExperimental Research Building B",
+  "104\tSemiconductor Materials and Characterization Lab\tExperimental Research Building B",
+  "105\tNovel Powder Processing Lab\tExperimental Research Building B",
+  "106\tNext Generation Electronic Device Lab\tExperimental Research Building B",
+  "107\tElectronic Materials Lab\tExperimental Research Building B",
+  "108\tElectronic Device Lab 1\tExperimental Research Building B",
+  "111\tFood Biochemistry Lab\tExperimental Research Building B",
+  "112\tSystems Biology Lab\tExperimental Research Building B",
+  "113\tNatural Product Bio-Drug Research Lab\tExperimental Research Building B",
+  "114\tFunctional Materials and Additive Manufacturing Lab\tExperimental Research Building B",
+  "115\tElectrochemical Engineering Lab\tExperimental Research Building B",
+  "116\tEcological Structure Analysis Lab\tExperimental Research Building B",
+  "117\tDaewon High-Speed Administrative Office\tExperimental Research Building B",
+  "118\tKD Transport Group Dining Hall\tExperimental Research Building B",
+  "118A\tBreak Room\tExperimental Research Building B",
+  "118C\tDining Hall\tExperimental Research Building B",
+  "121\tMachine Room\tExperimental Research Building B",
+  "200-1\tHall\tExperimental Research Building A",
+  "200-2\tCorridor\tExperimental Research Building A",
+  "201\tLife Sciences School Undergraduate Lab\tExperimental Research Building A",
+  "202\tSustainable Energy Technology Lab\tExperimental Research Building A",
+  "203\tOriental Pharmacology Lab\tExperimental Research Building A",
+  "203-1\tAnimal Experiment Lab 1\tExperimental Research Building A",
+  "203-2\tAnimal Experiment Lab 2\tExperimental Research Building A",
+  "205\tMonte Carlo Reactor Physics Lab\tExperimental Research Building A",
+  "207\tElectronic Materials Lab\tExperimental Research Building A",
+  "208\tMachine Learning and Visual Computing Lab\tExperimental Research Building A",
+  "210\tNano-Bio Materials Lab\tExperimental Research Building A",
+  "2993\tPIT Room\tExperimental Research Building A",
+  "2997\tStairwell\tExperimental Research Building A"
 ];

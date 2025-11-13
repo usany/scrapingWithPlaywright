@@ -1,103 +1,103 @@
 export const gucKo = [
-  "B203\t기계실",
-  "B204\t물탱크실",
-  "b2997A\t계단실",
-  "b2997B\t계단실",
-  "B100-1\t방풍실",
-  "B100-2\t복도",
-  "B101\t강의실",
-  "B118\t전시장",
-  "B202\t전기실",
-  "B102\t연구실",
-  "B103\t연구실",
-  "B104\t연구실",
-  "B105\t회의실",
-  "B106\t연구실",
-  "B107\t연구실",
-  "B108\t연구실",
-  "B109\t실험실",
-  "B111\t부품실",
-  "B112\t클린룸",
-  "b1997A\t계단실",
-  "100-1\t복도",
-  "100-2\t복도",
-  "103\t경희천문대행정실",
-  "104\t영상실",
-  "107\t연구실",
-  "108\t연구실",
-  "109 \t연구실",
-  "110 \t연구실",
-  "200-1\t복도",
-  "201\t연구실",
-  "202\t연구실",
-  "203\t연구실",
-  "205\t서버실",
-  "207\t연구실",
-  "208\t연구실",
-  "209\t연구실",
-  "210\t연구실",
-  "211\t연구실",
-  "212\t연구실",
-  "213B\t휴게실",
-  "2997A\t계단실",
-  "300-1\t복도",
-  "301\t관측장비실1",
-  "302\t전산실",
-  "303\t관측대기실",
-  "304\t주조정실",
-  "305\t암실",
-  "306\t주관측실",
-  "3997A\t계단실"
+  "B203\t기계실",
+  "B204\t물탱크실",
+  "b2997A\t계단실",
+  "b2997B\t계단실",
+  "B100-1\t방풍실",
+  "B100-2\t복도",
+  "B101\t강의실",
+  "B118\t전시장",
+  "B202\t전기실",
+  "B102\t연구실",
+  "B103\t연구실",
+  "B104\t연구실",
+  "B105\t회의실",
+  "B106\t연구실",
+  "B107\t연구실",
+  "B108\t연구실",
+  "B109\t실험실",
+  "B111\t부품실",
+  "B112\t클린룸",
+  "b1997A\t계단실",
+  "100-1\t복도",
+  "100-2\t복도",
+  "103\t경희천문대행정실",
+  "104\t영상실",
+  "107\t연구실",
+  "108\t연구실",
+  "109 \t연구실",
+  "110 \t연구실",
+  "200-1\t복도",
+  "201\t연구실",
+  "202\t연구실",
+  "203\t연구실",
+  "205\t서버실",
+  "207\t연구실",
+  "208\t연구실",
+  "209\t연구실",
+  "210\t연구실",
+  "211\t연구실",
+  "212\t연구실",
+  "213B\t휴게실",
+  "2997A\t계단실",
+  "300-1\t복도",
+  "301\t관측장비실1",
+  "302\t전산실",
+  "303\t관측대기실",
+  "304\t주조정실",
+  "305\t암실",
+  "306\t주관측실",
+  "3997A\t계단"
 ];
 
 export const gucEn = [
-  "B203\tMachine Room",
-  "B204\tWater Tank Room",
-  "b2997A\tStairwell",
-  "b2997B\tStairwell",
-  "B100-1\tWindproof Room",
-  "B100-2\tCorridor",
-  "B101\tClassroom",
-  "B118\tExhibition Hall",
-  "B202\tElectrical Room",
-  "B102\tResearch Lab",
-  "B103\tResearch Lab",
-  "B104\tResearch Lab",
-  "B105\tConference Room",
-  "B106\tResearch Lab",
-  "B107\tResearch Lab",
-  "B108\tResearch Lab",
-  "B109\tLab",
-  "B111\tParts Room",
-  "B112\tClean Room",
-  "b1997A\tStairwell",
-  "100-1\tCorridor",
-  "100-2\tCorridor",
-  "103\tKyunghee Observatory Administrative Office",
-  "104\tVideo Lab",
-  "107\tResearch Lab",
-  "108\tResearch Lab",
-  "109\tResearch Lab",
-  "110\tResearch Lab",
-  "200-1\tCorridor",
-  "201\tResearch Lab",
-  "202\tResearch Lab",
-  "203\tResearch Lab",
-  "205\tServer Room",
-  "207\tResearch Lab",
-  "208\tResearch Lab",
-  "209\tResearch Lab",
-  "210\tResearch Lab",
-  "211\tResearch Lab",
-  "212\tResearch Lab",
-  "213B\tBreak Room",
-  "2997A\tStairwell",
-  "300-1\tCorridor",
-  "301\tObservation Equipment Lab 1",
-  "302\tComputer Lab",
-  "303\tObservation Waiting Room",
-  "304\tMain Control Room",
-  "305\tDark Room",
-  "306\tMain Observation Lab",
-  "3997A\tStairwell Room"
+  "B203\tMachine Room",
+  "B204\tWater Tank Room",
+  "b2997A\tStairwell",
+  "b2997B\tStairwell",
+  "B100-1\tWindproof Room",
+  "B100-2\tCorridor",
+  "B101\tClassroom",
+  "B118\tExhibition Hall",
+  "B202\tElectrical Room",
+  "B102\tResearch Lab",
+  "B103\tResearch Lab",
+  "B104\tResearch Lab",
+  "B105\tConference Room",
+  "B106\tResearch Lab",
+  "B107\tResearch Lab",
+  "B108\tResearch Lab",
+  "B109\tLab",
+  "B111\tParts Room",
+  "B112\tClean Room",
+  "b1997A\tStairwell",
+  "100-1\tCorridor",
+  "100-2\tCorridor",
+  "103\tKyunghee Observatory Administrative Office",
+  "104\tVideo Lab",
+  "107\tResearch Lab",
+  "108\tResearch Lab",
+  "109\tResearch Lab",
+  "110\tResearch Lab",
+  "200-1\tCorridor",
+  "201\tResearch Lab",
+  "202\tResearch Lab",
+  "203\tResearch Lab",
+  "205\tServer Room",
+  "207\tResearch Lab",
+  "208\tResearch Lab",
+  "209\tResearch Lab",
+  "210\tResearch Lab",
+  "211\tResearch Lab",
+  "212\tResearch Lab",
+  "213B\tBreak Room",
+  "2997A\tStairwell",
+  "300-1\tCorridor",
+  "301\tObservation Equipment Lab 1",
+  "302\tComputer Lab",
+  "303\tObservation Waiting Room",
+  "304\tMain Control Room",
+  "305\tDark Room",
+  "306\tMain Observation Lab",
+  "3997A\tStairwell Roo"
 ];

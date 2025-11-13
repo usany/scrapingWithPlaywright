@@ -1,245 +1,245 @@
 export const guwoKo = [
-  "100-1\t복도",
-  "100-2\t복도",
-  "100-3\t복도",
-  "100-4\t복도",
-  "100-5\t복도",
-  "100-6\t복도",
-  "100-7\t방풍실",
-  "100-8\t복도",
-  "101\t복사실",
-  "102\t연구지원실",
-  "103\t통합문화자료실",
-  "104\t연구지원실",
-  "104-1\t연구지원실",
-  "105\t연구지원실",
-  "105-1\t연구지원실",
-  "106\t세미나실",
-  "107\t세미나실",
-  "107-1\t세미나실",
-  "108\t한국문화체험실",
-  "118\t직원휴게실",
-  "121\t㈜달콤커피 산학협력 현장실습실",
-  "122\t기계실",
-  "123\t한누리소극장",
-  "131\t국제지역연구원 행정실",
-  "131-1\t부속실",
-  "133\t한국어교육부강사실",
-  "134\t회의실",
-  "135\t강의실",
-  "136\t강의실",
-  "137\t강의실",
-  "138\t강의실",
-  "139\t강의실",
-  "140\t강의실",
-  "141\t강의실",
-  "142\t강의실",
-  "143\t강의실",
-  "144\t강의실",
-  "145\t강의실",
-  "146\t국제지역연구원 자료센터",
-  "1997B\t계단실",
-  "1997C\t계단실",
-  "1997D\t계단실",
-  "200-1\t복도",
-  "200-2\t복도",
-  "200-3\t복도",
-  "200-4\t복도",
-  "200-5\t복도",
-  "200-6\t복도",
-  "200-7\t복도",
-  "201\t강의실",
-  "202\t강의실",
-  "203\t제1열람실",
-  "204\t강의실",
-  "205\t회의실1",
-  "206\t외국인 행정지원실",
-  "208\t통합행정실",
-  "209\t회의실2",
-  "210\t학장실",
-  "221\t러시아어학과학생회",
-  "222\t외국어대학학생회실",
-  "224\t일본어학과 학생회실",
-  "225\t한국어학과 학생회실",
-  "226\t중국어학과 학생회실",
-  "227\t글로벌커뮤니케이션학부 학생회실",
-  "228\t프랑스어학과 학생회실",
-  "229\t스페인어학과 학생회실",
-  "230\t공자학원교육1팀/행정실",
-  "239\t공자학원교육2팀",
-  "241\t공자학원강의실",
-  "242\t공자학원강의실",
-  "2997A\t계단실",
-  "2997B\t계단실",
-  "2997C\t계단실",
-  "2997D\t계단실",
-  "300-1\t복도",
-  "300-3\t복도",
-  "300-4\t복도",
-  "300-5\t복도",
-  "300-6\t복도",
-  "302\t어학실습실",
-  "303\t어학실습실",
-  "304\t어학실습실",
-  "305\t강의실",
-  "306\t강의실",
-  "307\tSW전산실습실",
-  "308\t강의실",
-  "312\t소그룹세미나실",
-  "313\t오픈랩",
-  "314\t제2열람실",
-  "315\t기자재2",
-  "319\t취업상담실",
-  "321\t공자아카데미세미나실",
-  "322\t동아리 공동세미나실1",
-  "323\t동아리 공동연습실1",
-  "324\t동아리 공동연습실2",
-  "325\t동아리 공동세미나실2",
-  "3997A\t계단실",
-  "3997B\t계단실",
-  "3997C\t계단실",
-  "3997D\t계단실",
-  "400-1\t복도",
-  "401\t강의실",
-  "402\t강의실",
-  "403\t강의실",
-  "404\t강의실",
-  "405\t어학실습실",
-  "406\t어학실습실",
-  "407\t어학실습실",
-  "408\t김우화 강의실",
-  "411\t언어연구실",
-  "411-1\t(국제)비교문화연구소",
-  "412\t문화실습실",
-  "413\t아프리카 연구센터",
-  "413-1\t공동연구실",
-  "4997A\t계단실",
-  "4997B\t계단실",
-  "500-1\t복도",
-  "524\t인문학술원",
-  "5997A\t계단실",
-  "5997B\t계단실"
+  "100-1\t복도",
+  "100-2\t복도",
+  "100-3\t복도",
+  "100-4\t복도",
+  "100-5\t복도",
+  "100-6\t복도",
+  "100-7\t방풍실",
+  "100-8\t복도",
+  "101\t복사실",
+  "102\t연구지원실",
+  "103\t통합문화자료실",
+  "104\t연구지원실",
+  "104-1\t연구지원실",
+  "105\t연구지원실",
+  "105-1\t연구지원실",
+  "106\t세미나실",
+  "107\t세미나실",
+  "107-1\t세미나실",
+  "108\t한국문화체험실",
+  "118\t직원휴게실",
+  "121\t㈜달콤커피 산학협력 현장실습실",
+  "122\t기계실",
+  "123\t한누리소극장",
+  "131\t국제지역연구원 행정실",
+  "131-1\t부속실",
+  "133\t한국어교육부강사실",
+  "134\t회의실",
+  "135\t강의실",
+  "136\t강의실",
+  "137\t강의실",
+  "138\t강의실",
+  "139\t강의실",
+  "140\t강의실",
+  "141\t강의실",
+  "142\t강의실",
+  "143\t강의실",
+  "144\t강의실",
+  "145\t강의실",
+  "146\t국제지역연구원 자료센터",
+  "1997B\t계단실",
+  "1997C\t계단실",
+  "1997D\t계단실",
+  "200-1\t복도",
+  "200-2\t복도",
+  "200-3\t복도",
+  "200-4\t복도",
+  "200-5\t복도",
+  "200-6\t복도",
+  "200-7\t복도",
+  "201\t강의실",
+  "202\t강의실",
+  "203\t제1열람실",
+  "204\t강의실",
+  "205\t회의실1",
+  "206\t외국인 행정지원실",
+  "208\t통합행정실",
+  "209\t회의실2",
+  "210\t학장실",
+  "221\t러시아어학과학생회",
+  "222\t외국어대학학생회실",
+  "224\t일본어학과 학생회실",
+  "225\t한국어학과 학생회실",
+  "226\t중국어학과 학생회실",
+  "227\t글로벌커뮤니케이션학부 학생회실",
+  "228\t프랑스어학과 학생회실",
+  "229\t스페인어학과 학생회실",
+  "230\t공자학원교육1팀/행정실",
+  "239\t공자학원교육2팀",
+  "241\t공자학원강의실",
+  "242\t공자학원강의실",
+  "2997A\t계단실",
+  "2997B\t계단실",
+  "2997C\t계단실",
+  "2997D\t계단실",
+  "300-1\t복도",
+  "300-3\t복도",
+  "300-4\t복도",
+  "300-5\t복도",
+  "300-6\t복도",
+  "302\t어학실습실",
+  "303\t어학실습실",
+  "304\t어학실습실",
+  "305\t강의실",
+  "306\t강의실",
+  "307\tSW전산실습실",
+  "308\t강의실",
+  "312\t소그룹세미나실",
+  "313\t오픈랩",
+  "314\t제2열람실",
+  "315\t기자재2",
+  "319\t취업상담실",
+  "321\t공자아카데미세미나실",
+  "322\t동아리 공동세미나실1",
+  "323\t동아리 공동연습실1",
+  "324\t동아리 공동연습실2",
+  "325\t동아리 공동세미나실2",
+  "3997A\t계단실",
+  "3997B\t계단실",
+  "3997C\t계단실",
+  "3997D\t계단실",
+  "400-1\t복도",
+  "401\t강의실",
+  "402\t강의실",
+  "403\t강의실",
+  "404\t강의실",
+  "405\t어학실습실",
+  "406\t어학실습실",
+  "407\t어학실습실",
+  "408\t김우화 강의실",
+  "411\t언어연구실",
+  "411-1\t(국제)비교문화연구소",
+  "412\t문화실습실",
+  "413\t아프리카 연구센터",
+  "413-1\t공동연구실",
+  "4997A\t계단실",
+  "4997B\t계단실",
+  "500-1\t복도",
+  "524\t인문학술원",
+  "5997A\t계단실",
+  "5997B\t계단실"
 ];
 
 export const guwoEn = [
-  "100-1\tCorridor",
-  "100-2\tCorridor",
-  "100-3\tCorridor",
-  "100-4\tCorridor",
-  "100-5\tCorridor",
-  "100-6\tCorridor",
-  "100-7\tWindproof Room",
-  "100-8\tCorridor",
-  "101\tCopy Room",
-  "102\tResearch Support Office",
-  "103\tIntegrated Cultural Materials Room",
-  "104\tResearch Support Office",
-  "104-1\tResearch Support Office",
-  "105\tResearch Support Office",
-  "105-1\tResearch Support Office",
-  "106\tSeminar Room",
-  "107\tSeminar Room",
-  "107-1\tSeminar Room",
-  "108\tKorean Culture Experience Room",
-  "118\tStaff Break Room",
-  "121\tDalkom Coffee Industry-University Cooperation Field Practice Room",
-  "122\tMachine Room",
-  "123\tHanuri Little Theatre",
-  "131\tInternational Regional Research Institute Administrative Office",
-  "131-1\tAuxiliary Room",
-  "133\tKorean Language Education Department Instructor Office",
-  "134\tConference Room",
-  "135\tClassroom",
-  "136\tClassroom",
-  "137\tClassroom",
-  "138\tClassroom",
-  "139\tClassroom",
-  "140\tClassroom",
-  "141\tClassroom",
-  "142\tClassroom",
-  "143\tClassroom",
-  "144\tClassroom",
-  "145\tClassroom",
-  "146\tInternational Regional Research Institute Data Center",
-  "1997B\tStairwell",
-  "1997C\tStairwell",
-  "1997D\tStairwell",
-  "200-1\tCorridor",
-  "200-2\tCorridor",
-  "200-3\tCorridor",
-  "200-4\tCorridor",
-  "200-5\tCorridor",
-  "200-6\tCorridor",
-  "200-7\tCorridor",
-  "201\tClassroom",
-  "202\tClassroom",
-  "203\tReading Room 1",
-  "204\tClassroom",
-  "205\tConference Room 1",
-  "206\tForeign Administrative Support Office",
-  "208\tIntegrated Administrative Office",
-  "209\tConference Room 2",
-  "210\tDean's Office",
-  "221\tRussian Language Department Student Association",
-  "222\tForeign Language School Student Association",
-  "224\tJapanese Language Department Student Association",
-  "225\tKorean Language Department Student Association",
-  "226\tChinese Language Department Student Association",
-  "227\tGlobal Communication Division Student Association",
-  "228\tFrench Language Department Student Association",
-  "229\tSpanish Language Department Student Association",
-  "230\tConfucius Institute Education Team 1/Administrative Office",
-  "239\tConfucius Institute Education Team 2",
-  "241\tConfucius Institute Lecture Room",
-  "242\tConfucius Institute Lecture Room",
-  "2997A\tStairwell",
-  "2997B\tStairwell",
-  "2997C\tStairwell",
-  "2997D\tStairwell",
-  "300-1\tCorridor",
-  "300-3\tCorridor",
-  "300-4\tCorridor",
-  "300-5\tCorridor",
-  "300-6\tCorridor",
-  "302\tLanguage Practice Lab",
-  "303\tLanguage Practice Lab",
-  "304\tLanguage Practice Lab",
-  "305\tClassroom",
-  "306\tClassroom",
-  "307\tSW Computer Practice Lab",
-  "308\tClassroom",
-  "312\tSmall Group Seminar Room",
-  "313\tOpen Lab",
-  "314\tReading Room 2",
-  "315\tEquipment 2",
-  "319\tEmployment Counseling Office",
-  "321\tConfucius Academy Seminar Room",
-  "322\tClub Joint Seminar Room 1",
-  "323\tClub Joint Practice Room 1",
-  "324\tClub Joint Practice Room 2",
-  "325\tClub Joint Seminar Room 2",
-  "3997A\tStairwell",
-  "3997B\tStairwell",
-  "3997C\tStairwell",
-  "3997D\tStairwell",
-  "400-1\tCorridor",
-  "401\tClassroom",
-  "402\tClassroom",
-  "403\tClassroom",
-  "404\tClassroom",
-  "405\tLanguage Practice Lab",
-  "406\tLanguage Practice Lab",
-  "407\tLanguage Practice Lab",
-  "408\tKim Woo-hwa Lecture Room",
-  "411\tLanguage Research Lab",
-  "411-1\t(International) Comparative Culture Research Center",
-  "412\tCulture Practice Lab",
-  "413\tAfrica Research Center",
-  "413-1\tJoint Research Lab",
-  "4997A\tStairwell",
-  "4997B\tStairwell",
-  "500-1\tCorridor",
-  "524\tHumanities Institute",
-  "5997A\tStairwell",
-  "5997B\tStairwell"
+  "100-1\tCorridor",
+  "100-2\tCorridor",
+  "100-3\tCorridor",
+  "100-4\tCorridor",
+  "100-5\tCorridor",
+  "100-6\tCorridor",
+  "100-7\tWindproof Room",
+  "100-8\tCorridor",
+  "101\tCopy Room",
+  "102\tResearch Support Office",
+  "103\tIntegrated Cultural Materials Room",
+  "104\tResearch Support Office",
+  "104-1\tResearch Support Office",
+  "105\tResearch Support Office",
+  "105-1\tResearch Support Office",
+  "106\tSeminar Room",
+  "107\tSeminar Room",
+  "107-1\tSeminar Room",
+  "108\tKorean Culture Experience Room",
+  "118\tStaff Break Room",
+  "121\tDalkom Coffee Industry-University Cooperation Field Practice Room",
+  "122\tMachine Room",
+  "123\tHanuri Little Theatre",
+  "131\tInternational Regional Research Institute Administrative Office",
+  "131-1\tAuxiliary Room",
+  "133\tKorean Language Education Department Instructor Office",
+  "134\tConference Room",
+  "135\tClassroom",
+  "136\tClassroom",
+  "137\tClassroom",
+  "138\tClassroom",
+  "139\tClassroom",
+  "140\tClassroom",
+  "141\tClassroom",
+  "142\tClassroom",
+  "143\tClassroom",
+  "144\tClassroom",
+  "145\tClassroom",
+  "146\tInternational Regional Research Institute Data Center",
+  "1997B\tStairwell",
+  "1997C\tStairwell",
+  "1997D\tStairwell",
+  "200-1\tCorridor",
+  "200-2\tCorridor",
+  "200-3\tCorridor",
+  "200-4\tCorridor",
+  "200-5\tCorridor",
+  "200-6\tCorridor",
+  "200-7\tCorridor",
+  "201\tClassroom",
+  "202\tClassroom",
+  "203\tReading Room 1",
+  "204\tClassroom",
+  "205\tConference Room 1",
+  "206\tForeign Administrative Support Office",
+  "208\tIntegrated Administrative Office",
+  "209\tConference Room 2",
+  "210\tDean's Office",
+  "221\tRussian Language Department Student Association",
+  "222\tForeign Language School Student Association",
+  "224\tJapanese Language Department Student Association",
+  "225\tKorean Language Department Student Association",
+  "226\tChinese Language Department Student Association",
+  "227\tGlobal Communication Division Student Association",
+  "228\tFrench Language Department Student Association",
+  "229\tSpanish Language Department Student Association",
+  "230\tConfucius Institute Education Team 1/Administrative Office",
+  "239\tConfucius Institute Education Team 2",
+  "241\tConfucius Institute Lecture Room",
+  "242\tConfucius Institute Lecture Room",
+  "2997A\tStairwell",
+  "2997B\tStairwell",
+  "2997C\tStairwell",
+  "2997D\tStairwell",
+  "300-1\tCorridor",
+  "300-3\tCorridor",
+  "300-4\tCorridor",
+  "300-5\tCorridor",
+  "300-6\tCorridor",
+  "302\tLanguage Practice Lab",
+  "303\tLanguage Practice Lab",
+  "304\tLanguage Practice Lab",
+  "305\tClassroom",
+  "306\tClassroom",
+  "307\tSW Computer Practice Lab",
+  "308\tClassroom",
+  "312\tSmall Group Seminar Room",
+  "313\tOpen Lab",
+  "314\tReading Room 2",
+  "315\tEquipment 2",
+  "319\tEmployment Counseling Office",
+  "321\tConfucius Academy Seminar Room",
+  "322\tClub Joint Seminar Room 1",
+  "323\tClub Joint Practice Room 1",
+  "324\tClub Joint Practice Room 2",
+  "325\tClub Joint Seminar Room 2",
+  "3997A\tStairwell",
+  "3997B\tStairwell",
+  "3997C\tStairwell",
+  "3997D\tStairwell",
+  "400-1\tCorridor",
+  "401\tClassroom",
+  "402\tClassroom",
+  "403\tClassroom",
+  "404\tClassroom",
+  "405\tLanguage Practice Lab",
+  "406\tLanguage Practice Lab",
+  "407\tLanguage Practice Lab",
+  "408\tKim Woo-hwa Lecture Room",
+  "411\tLanguage Research Lab",
+  "411-1\t(International) Comparative Culture Research Center",
+  "412\tCulture Practice Lab",
+  "413\tAfrica Research Center",
+  "413-1\tJoint Research Lab",
+  "4997A\tStairwell",
+  "4997B\tStairwell",
+  "500-1\tCorridor",
+  "524\tHumanities Institute",
+  "5997A\tStairwell",
+  "5997B\tStairwell"
 ];

@@ -1,159 +1,159 @@
 export const gugKo = [
-  "100\t네트워크 장비실\t글로벌관",
-  "101\t학습자수업준비실\t글로벌관",
-  "102\t실습실\t글로벌관",
-  "103\t강의실\t글로벌관",
-  "104\t강의실\t글로벌관",
-  "105\t강의실\t글로벌관",
-  "106\t강의실\t글로벌관",
-  "107\t강의실\t글로벌관",
-  "108\t강의실\t글로벌관",
-  "111\t공조실\t글로벌관",
-  "112\t계단실\t글로벌관",
-  "114\t홀 및 복도\t글로벌관",
-  "115\t방풍실\t글로벌관",
-  "1993A\tPS실\t글로벌관",
-  "1995A\tPS실\t글로벌관",
-  "201\t상담실\t글로벌관",
-  "202\t외국어지원실\t글로벌관",
-  "203\t실습실\t글로벌관",
-  "204\t강의실\t글로벌관",
-  "205\t강의실\t글로벌관",
-  "206\t강의실\t글로벌관",
-  "207\t강의실\t글로벌관",
-  "208\t강의실\t글로벌관",
-  "209\t강의실\t글로벌관",
-  "210\t강의실\t글로벌관",
-  "211\t교강사수업준비실\t글로벌관",
-  "213\t계단실\t글로벌관",
-  "216\t홀 및 복도\t글로벌관",
-  "2993A\tPS실\t글로벌관",
-  "2995A\tELEV실\t글로벌관",
-  "301\t평생교육원 전산실\t글로벌관",
-  "301-1\t경희대학교 국제캠퍼스 직장어린이집\t글로벌관",
-  "302\t학점은행제 교강사실\t글로벌관",
-  "303\t다목적회의실\t글로벌관",
-  "304\t부속실\t글로벌관",
-  "305\t평생교육원 언어교육원 행정실\t글로벌관",
-  "310\t계단실\t글로벌관",
-  "311\t방풍실\t글로벌관",
-  "312\t홀 및 복도\t글로벌관",
-  "3993A\tPS실\t글로벌관",
-  "3995A\tELEV실\t글로벌관",
-  "400-1\t복도\t글로벌관",
-  "400-2\t복도\t글로벌관",
-  "400-3\t복도\t글로벌관",
-  "401\t소극장\t글로벌관",
-  "401-1\t분장실및소품실\t글로벌관",
-  "402\t연기연습실-1\t글로벌관",
-  "403\t연기연습실-2\t글로벌관",
-  "404\t강의실\t글로벌관",
-  "405\t강의실\t글로벌관",
-  ".\t.\t글로벌관",
-  "4993A\tPS실\t글로벌관",
-  "4995A\tELEV실\t글로벌관",
-  "4997A\t계단실\t글로벌관",
-  "4997B\t계단실\t글로벌관",
-  "500-1\t복도\t글로벌관",
-  "500-2\t복도\t글로벌관",
-  "500-3\t복도\t글로벌관",
-  "501\t전국대학노동종합경희학원지부\t글로벌관",
-  "502\t강사 수업준비실\t글로벌관",
-  "503-1\t피아노실\t글로벌관",
-  "503-2\t피아노실\t글로벌관",
-  "503-3\t피아노실\t글로벌관",
-  "503-4\t피아노실\t글로벌관",
-  "503-5\t피아노실\t글로벌관",
-  "503-6\t피아노실\t글로벌관",
-  "503-7\t피아노실\t글로벌관",
-  "503-8\t피아노실\t글로벌관",
-  "503-9\t피아노실\t글로벌관",
-  "504-1\t무대조정실\t글로벌관",
-  "504\t기자재실\t글로벌관",
-  "506\t영어교과연구실\t글로벌관",
-  "507\t전산실\t글로벌관",
-  "508\t공학설계실\t글로벌관",
-  "5993A\tPS실\t글로벌관",
-  "5995A\tELEV실\t글로벌관",
-  "5997A\t계단실\t글로벌관"
+  "100\t네트워크 장비실\t글로벌관",
+  "101\t학습자수업준비실\t글로벌관",
+  "102\t실습실\t글로벌관",
+  "103\t강의실\t글로벌관",
+  "104\t강의실\t글로벌관",
+  "105\t강의실\t글로벌관",
+  "106\t강의실\t글로벌관",
+  "107\t강의실\t글로벌관",
+  "108\t강의실\t글로벌관",
+  "111\t공조실\t글로벌관",
+  "112\t계단실\t글로벌관",
+  "114\t홀 및 복도\t글로벌관",
+  "115\t방풍실\t글로벌관",
+  "1993A\tPS실\t글로벌관",
+  "1995A\tPS실\t글로벌관",
+  "201\t상담실\t글로벌관",
+  "202\t외국어지원실\t글로벌관",
+  "203\t실습실\t글로벌관",
+  "204\t강의실\t글로벌관",
+  "205\t강의실\t글로벌관",
+  "206\t강의실\t글로벌관",
+  "207\t강의실\t글로벌관",
+  "208\t강의실\t글로벌관",
+  "209\t강의실\t글로벌관",
+  "210\t강의실\t글로벌관",
+  "211\t교강사수업준비실\t글로벌관",
+  "213\t계단실\t글로벌관",
+  "216\t홀 및 복도\t글로벌관",
+  "2993A\tPS실\t글로벌관",
+  "2995A\tELEV실\t글로벌관",
+  "301\t평생교육원 전산실\t글로벌관",
+  "301-1\t경희대학교 국제캠퍼스 직장어린이집\t글로벌관",
+  "302\t학점은행제 교강사실\t글로벌관",
+  "303\t다목적회의실\t글로벌관",
+  "304\t부속실\t글로벌관",
+  "305\t평생교육원 언어교육원 행정실\t글로벌관",
+  "310\t계단실\t글로벌관",
+  "311\t방풍실\t글로벌관",
+  "312\t홀 및 복도\t글로벌관",
+  "3993A\tPS실\t글로벌관",
+  "3995A\tELEV실\t글로벌관",
+  "400-1\t복도\t글로벌관",
+  "400-2\t복도\t글로벌관",
+  "400-3\t복도\t글로벌관",
+  "401\t소극장\t글로벌관",
+  "401-1\t분장실및소품실\t글로벌관",
+  "402\t연기연습실-1\t글로벌관",
+  "403\t연기연습실-2\t글로벌관",
+  "404\t강의실\t글로벌관",
+  "405\t강의실\t글로벌관",
+  ".\t.\t글로벌관",
+  "4993A\tPS실\t글로벌관",
+  "4995A\tELEV실\t글로벌관",
+  "4997A\t계단실\t글로벌관",
+  "4997B\t계단실\t글로벌관",
+  "500-1\t복도\t글로벌관",
+  "500-2\t복도\t글로벌관",
+  "500-3\t복도\t글로벌관",
+  "501\t전국대학노동종합경희학원지부\t글로벌관",
+  "502\t강사 수업준비실\t글로벌관",
+  "503-1\t피아노실\t글로벌관",
+  "503-2\t피아노실\t글로벌관",
+  "503-3\t피아노실\t글로벌관",
+  "503-4\t피아노실\t글로벌관",
+  "503-5\t피아노실\t글로벌관",
+  "503-6\t피아노실\t글로벌관",
+  "503-7\t피아노실\t글로벌관",
+  "503-8\t피아노실\t글로벌관",
+  "503-9\t피아노실\t글로벌관",
+  "504-1\t무대조정실\t글로벌관",
+  "504\t기자재실\t글로벌관",
+  "506\t영어교과연구실\t글로벌관",
+  "507\t전산실\t글로벌관",
+  "508\t공학설계실\t글로벌관",
+  "5993A\tPS실\t글로벌관",
+  "5995A\tELEV실\t글로벌관",
+  "5997A\t계단실\t글로벌관"
 ];
 
 export const gugEn = [
-  "100\tNetwork Equipment Room\tGlobal Hall",
-  "101\tLearner Class Preparation Room\tGlobal Hall",
-  "102\tPractice Lab\tGlobal Hall",
-  "103\tClassroom\tGlobal Hall",
-  "104\tClassroom\tGlobal Hall",
-  "105\tClassroom\tGlobal Hall",
-  "106\tClassroom\tGlobal Hall",
-  "107\tClassroom\tGlobal Hall",
-  "108\tClassroom\tGlobal Hall",
-  "111\tHVAC Room\tGlobal Hall",
-  "112\tStairwell\tGlobal Hall",
-  "114\tHall and Corridor\tGlobal Hall",
-  "115\tWindproof Room\tGlobal Hall",
-  "1993A\tPS Room\tGlobal Hall",
-  "1995A\tPS Room\tGlobal Hall",
-  "201\tCounseling Office\tGlobal Hall",
-  "202\tForeign Language Support Office\tGlobal Hall",
-  "203\tPractice Lab\tGlobal Hall",
-  "204\tClassroom\tGlobal Hall",
-  "205\tClassroom\tGlobal Hall",
-  "206\tClassroom\tGlobal Hall",
-  "207\tClassroom\tGlobal Hall",
-  "208\tClassroom\tGlobal Hall",
-  "209\tClassroom\tGlobal Hall",
-  "210\tClassroom\tGlobal Hall",
-  "211\tInstructor Class Preparation Room\tGlobal Hall",
-  "213\tStairwell\tGlobal Hall",
-  "216\tHall and Corridor\tGlobal Hall",
-  "2993A\tPS Room\tGlobal Hall",
-  "2995A\tELEV Room\tGlobal Hall",
-  "301\tLifelong Education Center Computer Lab\tGlobal Hall",
-  "301-1\tKyunghee University International Campus Children's Daycare\tGlobal Hall",
-  "302\tCredit Bank System Instructor Office\tGlobal Hall",
-  "303\tMultipurpose Conference Room\tGlobal Hall",
-  "304\tAuxiliary Room\tGlobal Hall",
-  "305\tLifelong Education Center Language Education Center Administrative Office\tGlobal Hall",
-  "310\tStairwell\tGlobal Hall",
-  "311\tWindproof Room\tGlobal Hall",
-  "312\tHall and Corridor\tGlobal Hall",
-  "3993A\tPS Room\tGlobal Hall",
-  "3995A\tELEV Room\tGlobal Hall",
-  "400-1\tCorridor\tGlobal Hall",
-  "400-2\tCorridor\tGlobal Hall",
-  "400-3\tCorridor\tGlobal Hall",
-  "401\tLittle Theatre\tGlobal Hall",
-  "401-1\tMakeup and Props Room\tGlobal Hall",
-  "402\tActing Practice Room-1\tGlobal Hall",
-  "403\tActing Practice Room-2\tGlobal Hall",
-  "404\tClassroom\tGlobal Hall",
-  "405\tClassroom\tGlobal Hall",
-  ".\t.\tGlobal Hall",
-  "4993A\tPS Room\tGlobal Hall",
-  "4995A\tELEV Room\tGlobal Hall",
-  "4997A\tStairwell\tGlobal Hall",
-  "4997B\tStairwell\tGlobal Hall",
-  "500-1\tCorridor\tGlobal Hall",
-  "500-2\tCorridor\tGlobal Hall",
-  "500-3\tCorridor\tGlobal Hall",
-  "501\tNational University Labor Comprehensive Kyunghee Academy Branch\tGlobal Hall",
-  "502\tInstructor Class Preparation Room\tGlobal Hall",
-  "503-1\tPiano Room\tGlobal Hall",
-  "503-2\tPiano Room\tGlobal Hall",
-  "503-3\tPiano Room\tGlobal Hall",
-  "503-4\tPiano Room\tGlobal Hall",
-  "503-5\tPiano Room\tGlobal Hall",
-  "503-6\tPiano Room\tGlobal Hall",
-  "503-7\tPiano Room\tGlobal Hall",
-  "503-8\tPiano Room\tGlobal Hall",
-  "503-9\tPiano Room\tGlobal Hall",
-  "504-1\tStage Control Room\tGlobal Hall",
-  "504\tEquipment Storage Room\tGlobal Hall",
-  "506\tEnglish Subject Research Lab\tGlobal Hall",
-  "507\tComputer Lab\tGlobal Hall",
-  "508\tEngineering Design Lab\tGlobal Hall",
-  "5993A\tPS Room\tGlobal Hall",
-  "5995A\tELEV Room\tGlobal Hall",
-  "5997A\tStairwell\tGlobal Hall"
+  "100\tNetwork Equipment Room\tGlobal Hall",
+  "101\tLearner Class Preparation Room\tGlobal Hall",
+  "102\tPractice Lab\tGlobal Hall",
+  "103\tClassroom\tGlobal Hall",
+  "104\tClassroom\tGlobal Hall",
+  "105\tClassroom\tGlobal Hall",
+  "106\tClassroom\tGlobal Hall",
+  "107\tClassroom\tGlobal Hall",
+  "108\tClassroom\tGlobal Hall",
+  "111\tHVAC Room\tGlobal Hall",
+  "112\tStairwell\tGlobal Hall",
+  "114\tHall and Corridor\tGlobal Hall",
+  "115\tWindproof Room\tGlobal Hall",
+  "1993A\tPS Room\tGlobal Hall",
+  "1995A\tPS Room\tGlobal Hall",
+  "201\tCounseling Office\tGlobal Hall",
+  "202\tForeign Language Support Office\tGlobal Hall",
+  "203\tPractice Lab\tGlobal Hall",
+  "204\tClassroom\tGlobal Hall",
+  "205\tClassroom\tGlobal Hall",
+  "206\tClassroom\tGlobal Hall",
+  "207\tClassroom\tGlobal Hall",
+  "208\tClassroom\tGlobal Hall",
+  "209\tClassroom\tGlobal Hall",
+  "210\tClassroom\tGlobal Hall",
+  "211\tInstructor Class Preparation Room\tGlobal Hall",
+  "213\tStairwell\tGlobal Hall",
+  "216\tHall and Corridor\tGlobal Hall",
+  "2993A\tPS Room\tGlobal Hall",
+  "2995A\tELEV Room\tGlobal Hall",
+  "301\tLifelong Education Center Computer Lab\tGlobal Hall",
+  "301-1\tKyunghee University International Campus Children's Daycare\tGlobal Hall",
+  "302\tCredit Bank System Instructor Office\tGlobal Hall",
+  "303\tMultipurpose Conference Room\tGlobal Hall",
+  "304\tAuxiliary Room\tGlobal Hall",
+  "305\tLifelong Education Center Language Education Center Administrative Office\tGlobal Hall",
+  "310\tStairwell\tGlobal Hall",
+  "311\tWindproof Room\tGlobal Hall",
+  "312\tHall and Corridor\tGlobal Hall",
+  "3993A\tPS Room\tGlobal Hall",
+  "3995A\tELEV Room\tGlobal Hall",
+  "400-1\tCorridor\tGlobal Hall",
+  "400-2\tCorridor\tGlobal Hall",
+  "400-3\tCorridor\tGlobal Hall",
+  "401\tLittle Theatre\tGlobal Hall",
+  "401-1\tMakeup and Props Room\tGlobal Hall",
+  "402\tActing Practice Room-1\tGlobal Hall",
+  "403\tActing Practice Room-2\tGlobal Hall",
+  "404\tClassroom\tGlobal Hall",
+  "405\tClassroom\tGlobal Hall",
+  ".\t.\tGlobal Hall",
+  "4993A\tPS Room\tGlobal Hall",
+  "4995A\tELEV Room\tGlobal Hall",
+  "4997A\tStairwell\tGlobal Hall",
+  "4997B\tStairwell\tGlobal Hall",
+  "500-1\tCorridor\tGlobal Hall",
+  "500-2\tCorridor\tGlobal Hall",
+  "500-3\tCorridor\tGlobal Hall",
+  "501\tNational University Labor Comprehensive Kyunghee Academy Branch\tGlobal Hall",
+  "502\tInstructor Class Preparation Room\tGlobal Hall",
+  "503-1\tPiano Room\tGlobal Hall",
+  "503-2\tPiano Room\tGlobal Hall",
+  "503-3\tPiano Room\tGlobal Hall",
+  "503-4\tPiano Room\tGlobal Hall",
+  "503-5\tPiano Room\tGlobal Hall",
+  "503-6\tPiano Room\tGlobal Hall",
+  "503-7\tPiano Room\tGlobal Hall",
+  "503-8\tPiano Room\tGlobal Hall",
+  "503-9\tPiano Room\tGlobal Hall",
+  "504-1\tStage Control Room\tGlobal Hall",
+  "504\tEquipment Storage Room\tGlobal Hall",
+  "506\tEnglish Subject Research Lab\tGlobal Hall",
+  "507\tComputer Lab\tGlobal Hall",
+  "508\tEngineering Design Lab\tGlobal Hall",
+  "5993A\tPS Room\tGlobal Hall",
+  "5995A\tELEV Room\tGlobal Hall",
+  "5997A\tStairwell\tGlobal Hall"
 ];
